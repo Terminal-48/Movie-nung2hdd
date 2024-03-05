@@ -441,6 +441,94 @@
           "info": "พากย์ไทย"
         }
       ]
+    },
+    {
+      "name": "จากเถ้าถ่าน (2024)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/From-the-Ashes.png",
+      "info": "",
+      "stations": []
+    },
+    {
+      "name": "มาโบโรชิ (2024)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Maboroshi.png",
+      "info": "",
+      "stations": [
+        {
+          "name": "มาโบโรชิ (2024)(พากย์ไทย)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Maboroshi.png",
+          "url": "https://play.kakjeawplay.xyz/b00555ff-f35a-4ce1-a7a2-075d560eefe2/_",
+          "info": "พากย์ไทย"
+        },
+        {
+          "name": "มาโบโรชิ (2024)(พากย์ไทย)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Maboroshi.png",
+          "url": "https://streamhls.com/view/e9392696-c63b-57a8-8131-5fe1a3ce3445.m3u8",
+          "info": "พากย์ไทย"
+        }
+      ]
+    },
+    {
+      "name": "โรลเพลย์สวมรอยมารัก (2024)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Role-Play-2023.jpg",
+      "info": "",
+      "stations": [
+        {
+          "name": "โรลเพลย์สวมรอยมารัก (2024)(พากย์ไทย)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Role-Play-2023.jpg",
+          "url": "https://play.kakjeawplay.xyz/83da2b7f-9834-455c-88fb-98735806d20b/_",
+          "info": "พากย์ไทย"
+        },
+        {
+          "name": "โรลเพลย์สวมรอยมารัก (2024)(พากย์ไทย)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Role-Play-2023.jpg",
+          "url": "https://streamhls.com/view/e81e429e-ea3c-5888-97cb-21229d3eeae5.m3u8",
+          "info": "พากย์ไทย"
+        }
+      ]
+    },
+    {
+      "name": "ปล้นเหนือเมฆ (2024)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Lift.jpg",
+      "info": "",
+      "stations": []
+    },
+    {
+      "name": "อมิตร (2024)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Foe-2024.jpg",
+      "info": "",
+      "stations": [
+        {
+          "name": "อมิตร (2024)(พากย์ไทย)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Foe-2024.jpg",
+          "url": "https://play.kakjeawplay.xyz/da921f16-3969-40ac-84fd-9d9d0f9690bc/_",
+          "info": "พากย์ไทย"
+        },
+        {
+          "name": "อมิตร (2024)(พากย์ไทย)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Foe-2024.jpg",
+          "url": "https://streamhls.com/view/1bfdc7c7-5285-5748-b0fe-a4325eea690d.m3u8",
+          "info": "พากย์ไทย"
+        }
+      ]
+    },
+    {
+      "name": "หิมะโหดคนทรหด (2024)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Society-of-the-Snow-1.jpg",
+      "info": "",
+      "stations": [
+        {
+          "name": "หิมะโหดคนทรหด (2024)(พากย์ไทย)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Society-of-the-Snow-1.jpg",
+          "url": "https://play.kakjeawplay.xyz/0f5565de-7d76-496a-b964-32943e3f338e/_",
+          "info": "พากย์ไทย"
+        },
+        {
+          "name": "หิมะโหดคนทรหด (2024)(พากย์ไทย)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Society-of-the-Snow-1.jpg",
+          "url": "https://streamhls.com/view/4a796f3d-5bf8-584a-9cdd-a09b3bf2940b.m3u8",
+          "info": "พากย์ไทย"
+        }
+      ]
     }
   ]
 }
