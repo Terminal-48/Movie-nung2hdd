@@ -6,10 +6,54 @@
   "url": "https://raw.githubusercontent.com/Terminal-48/Movie-nung2hdd/main/Movie-Home.w3u",
   "groups": [
     {
+      "name": "ฝันรักไอร์แลนด์ (2024)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/Irish-Wish-2024.png",
+      "info": "",
+      "stations": [
+        {
+          "name": "ฝันรักไอร์แลนด์ (2024)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/Irish-Wish-2024.png",
+          "url": "https://play.kakjeawplay.xyz/7aa4f12a-3833-4117-abd9-fac129abede9/_",
+          "info": "พากย์ไทย"
+        },
+        {
+          "name": "ฝันรักไอร์แลนด์ (2024)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/Irish-Wish-2024.png",
+          "url": "https://streamhls.com/view/b32b1824-9c93-543b-ba61-ac5284a94a49.m3u8",
+          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
+        }
+      ]
+    },
+    {
+      "name": "เรื่องเล่าหรรษาของเฮนรี่ ชูการ์ และอีกสามเรื่อง (2024)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/The-Wonderful-Story-of-Henry-Sugar-and-Three-More-2024.jpg",
+      "info": "",
+      "stations": [
+        {
+          "name": "เรื่องเล่าหรรษาของเฮนรี่ ชูการ์ และอีกสามเรื่อง (2024)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/The-Wonderful-Story-of-Henry-Sugar-and-Three-More-2024.jpg",
+          "url": "https://play.kakjeawplay.xyz/161071a0-8cbf-4c35-a825-a4f988480f45/_",
+          "info": "พากย์ไทย"
+        },
+        {
+          "name": "เรื่องเล่าหรรษาของเฮนรี่ ชูการ์ และอีกสามเรื่อง (2024)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/The-Wonderful-Story-of-Henry-Sugar-and-Three-More-2024.jpg",
+          "url": "https://streamhls.com/view/69e68304-ce00-5deb-8408-08f1ca68d99b.m3u8",
+          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
+        }
+      ]
+    },
+    {
       "name": "เพื่อน (ไม่) สนิท (2023) Not Friends",
       "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/not-Friends-2024.png",
       "info": "",
       "stations": [
+        {
+          "name": "เพื่อน (ไม่) สนิท (2023) Not Friends",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/not-Friends-2024.png",
+          "url": "https://play.kakjeawplay.xyz/40715b03-1535-479e-84f7-258f0c1027aa/_",
+          "info": "พากย์ไทย"
+        },
         {
           "name": "เพื่อน (ไม่) สนิท (2023) Not Friends",
           "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/not-Friends-2024.png",
@@ -1496,44 +1540,6 @@
           "name": "คองโก มฤตยูหยุดนรก (1995)",
           "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Congo-1995.png",
           "url": "https://streamhls.com/view/081d7e2c-c003-533a-8e52-1bd821e4ff33.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "ดิอันเดอร์ด็อกส์ (2024)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/The-Underdoggs-2024.png",
-      "info": "",
-      "stations": [
-        {
-          "name": "ดิอันเดอร์ด็อกส์ (2024)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/The-Underdoggs-2024.png",
-          "url": "https://play.kakjeawplay.xyz/200d0476-33e0-435f-bc39-bca0d0fbc939/_",
-          "info": "พากย์ไทย"
-        },
-        {
-          "name": "ดิอันเดอร์ด็อกส์ (2024)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/The-Underdoggs-2024.png",
-          "url": "https://streamhls.com/view/5d566206-2e9f-5992-a2c8-938fa698d293.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "ป่วย (2022)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Sick.png",
-      "info": "",
-      "stations": [
-        {
-          "name": "ป่วย (2022)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Sick.png",
-          "url": "https://play.kakjeawplay.xyz/80f40881-27fb-4405-b820-0c63cbceb8e8/_",
-          "info": "พากย์ไทย"
-        },
-        {
-          "name": "ป่วย (2022)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Sick.png",
-          "url": "https://streamhls.com/view/9b7fa122-c871-50f2-9f0e-bad5c8a9e368.m3u8",
           "info": "พากย์ไทย (ตัวเล่นสำรอง)"
         }
       ]
