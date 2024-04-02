@@ -13,12 +13,15 @@
         {
           "name": "อานนเป็นนักเรียนตัวอย่าง (2023)",
           "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Arnold-Is-a-Model-Student.jpg",
+<<<<<<< HEAD
           "url": "https://play.kakjeawplay.xyz/8ab1ca25-a87e-454d-9e0f-845e8ba05ca5/_",
           "info": "พากย์ไทย"
         },
         {
           "name": "อานนเป็นนักเรียนตัวอย่าง (2023)",
           "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Arnold-Is-a-Model-Student.jpg",
+=======
+>>>>>>> 4134ff080fce62c973951f39c51f5da03cf57bf4
           "url": "https://streamhls.com/view/8755378c-f74b-53f8-8335-d1bd119bddbc.m3u8",
           "info": "พากย์ไทย (ตัวเล่นสำรอง)"
         }
@@ -4584,6 +4587,7 @@
           "info": "พากย์ไทย (ตัวเล่นสำรอง)"
         }
       ]
+<<<<<<< HEAD
     },
     {
       "name": "กาลครั้งหนึ่งเมื่อเช้านี้ (1994)",
@@ -4888,6 +4892,8 @@
           "info": "พากย์ไทย (ตัวเล่นสำรอง)"
         }
       ]
+=======
+>>>>>>> 4134ff080fce62c973951f39c51f5da03cf57bf4
     }
   ]
 }
