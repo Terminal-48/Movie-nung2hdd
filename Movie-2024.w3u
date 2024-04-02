@@ -1,15 +1,135 @@
 {
-  "name": "หนังใหม่ 2024 ",
-  "author": "",
+  "name": "หนัง ปี 2024",
+  "author": "อัพเดท 02/04/2024",
   "info": "",
   "image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
   "url": "https://raw.githubusercontent.com/Terminal-48/Movie-nung2hdd/main/Movie-2024.w3u",
   "groups": [
     {
+      "name": "ก็อดซิลล่า ปะทะ คอง 2 อาณาจักรใหม่ (2024)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/Godzilla-x-Kong-The-New-Empire.jpg",
+      "info": "",
+      "stations": [
+        {
+          "name": "ก็อดซิลล่า ปะทะ คอง 2 อาณาจักรใหม่ (2024)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/Godzilla-x-Kong-The-New-Empire.jpg",
+          "url": "https://play.kakjeawplay.xyz/7399dd12-c012-4fc9-b6c2-d2e444476db3/_",
+          "info": "พากย์ไทย"
+        },
+        {
+          "name": "ก็อดซิลล่า ปะทะ คอง 2 อาณาจักรใหม่ (2024)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/Godzilla-x-Kong-The-New-Empire.jpg",
+          "url": "https://streamhls.com/view/14d1e782-c83d-5afc-86da-2dcb833e8ae4.m3u8",
+          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
+        }
+      ]
+    },
+    {
+      "name": "The Wages of Fear (2024)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/Le-salaire-de-la-peur.png",
+      "info": "",
+      "stations": [
+        {
+          "name": "The Wages of Fear (2024)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/Le-salaire-de-la-peur.png",
+          "url": "https://play.kakjeawplay.xyz/30a0ad58-4881-4008-8ba0-35e7264b4f6e/_",
+          "info": "พากย์ไทย"
+        },
+        {
+          "name": "The Wages of Fear (2024)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/Le-salaire-de-la-peur.png",
+          "url": "https://streamhls.com/view/ba5c7f98-c0a5-5adf-a19f-9b924c1c56e8.m3u8",
+          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
+        }
+      ]
+    },
+    {
+      "name": "เดอะ บิวตี้ฟูล เกม (2024)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/The-Beautiful-Game.png",
+      "info": "",
+      "stations": [
+        {
+          "name": "เดอะ บิวตี้ฟูล เกม (2024)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/The-Beautiful-Game.png",
+          "url": "https://play.kakjeawplay.xyz/a8e3702e-d1bd-4525-bbdd-a665d70d1f09/_",
+          "info": "พากย์ไทย"
+        },
+        {
+          "name": "เดอะ บิวตี้ฟูล เกม (2024)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/The-Beautiful-Game.png",
+          "url": "https://streamhls.com/view/fc515445-987d-5207-94af-3822f7afd304.m3u8",
+          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
+        }
+      ]
+    },
+    {
+      "name": "หัวใจนักล่า (2024)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/Heart-of-the-Hunter.png",
+      "info": "",
+      "stations": [
+        {
+          "name": "หัวใจนักล่า (2024)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/Heart-of-the-Hunter.png",
+          "url": "https://play.kakjeawplay.xyz/8a32b432-cc95-4cb8-93cc-67fe08c6f3f1/_",
+          "info": "พากย์ไทย"
+        },
+        {
+          "name": "หัวใจนักล่า (2024)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/Heart-of-the-Hunter.png",
+          "url": "https://streamhls.com/view/4b145123-4e02-5842-bf82-c7f8fa79785d.m3u8",
+          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
+        }
+      ]
+    },
+    {
+      "name": "สู่สุคติ (2024)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/Descansar-en-paz.png",
+      "info": "",
+      "stations": [
+        {
+          "name": "สู่สุคติ (2024)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/Descansar-en-paz.png",
+          "url": "https://play.kakjeawplay.xyz/3206aa3c-61c4-48f9-b3f6-daf0dd7c2bd5/_",
+          "info": "พากย์ไทย"
+        },
+        {
+          "name": "สู่สุคติ (2024)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/Descansar-en-paz.png",
+          "url": "https://streamhls.com/view/1e2b285d-90cd-534a-a97d-3dafcdef1242.m3u8",
+          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
+        }
+      ]
+    },
+    {
+      "name": "รักไม่กดดัน (2024)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/No-Pressure-2024.png",
+      "info": "",
+      "stations": [
+        {
+          "name": "รักไม่กดดัน (2024)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/No-Pressure-2024.png",
+          "url": "https://play.kakjeawplay.xyz/14a29162-721a-42e3-88d8-583d0f67f48d/_",
+          "info": "Soundtrackซับ"
+        },
+        {
+          "name": "รักไม่กดดัน (2024)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/No-Pressure-2024.png",
+          "url": "https://streamhls.com/view/3c561600-902c-5c61-8425-e00a9fd59b6e.m3u8",
+          "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
+        }
+      ]
+    },
+    {
       "name": "เดอะ คาซากรานเดส์ มูฟวี่ (2024)",
       "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/The-Casagrandes-Movie.png",
       "info": "",
       "stations": [
+        {
+          "name": "เดอะ คาซากรานเดส์ มูฟวี่ (2024)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/The-Casagrandes-Movie.png",
+          "url": "https://play.kakjeawplay.xyz/f7f35182-0006-49cf-b998-68336bb80538/_",
+          "info": "พากย์ไทย"
+        },
         {
           "name": "เดอะ คาซากรานเดส์ มูฟวี่ (2024)",
           "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/The-Casagrandes-Movie.png",
