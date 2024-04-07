@@ -1,10 +1,48 @@
 {
   "name": "หนังญี่ปุ่น",
-  "author": "อัพเดท 02/04/2024",
+  "author": "อัพเดท 07/04/2024",
   "info": "",
   "image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
   "url": "https://raw.githubusercontent.com/Terminal-48/Movie-nung2hdd/main/Movie-japan-movies.w3u",
   "groups": [
+    {
+      "name": "ใกล้กว่านี้จะรักแล้วนะ (2023)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Takumi-kun-The-Dawn-of-the-Long-Tales-2023.jpg",
+      "info": "",
+      "stations": [
+        {
+          "name": "ใกล้กว่านี้จะรักแล้วนะ (2023)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Takumi-kun-The-Dawn-of-the-Long-Tales-2023.jpg",
+          "url": "https://play.kakjeawplay.xyz/999efca6-f0dc-4a21-8eee-051a507cb80d/_",
+          "info": "พากย์ไทย"
+        },
+        {
+          "name": "ใกล้กว่านี้จะรักแล้วนะ (2023)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Takumi-kun-The-Dawn-of-the-Long-Tales-2023.jpg",
+          "url": "https://streamhls.com/view/abd89294-f285-57c5-8244-64d201118f00.m3u8",
+          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
+        }
+      ]
+    },
+    {
+      "name": "แอบรักเติมฝันในวันฟ้าใส (2022)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/The-Blue-Skies-at-Your-Feet-2022.jpg",
+      "info": "",
+      "stations": [
+        {
+          "name": "แอบรักเติมฝันในวันฟ้าใส (2022)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/The-Blue-Skies-at-Your-Feet-2022.jpg",
+          "url": "https://play.kakjeawplay.xyz/5adba6cf-244e-4b75-b95a-bedc4731459a/_",
+          "info": "พากย์ไทย"
+        },
+        {
+          "name": "แอบรักเติมฝันในวันฟ้าใส (2022)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/The-Blue-Skies-at-Your-Feet-2022.jpg",
+          "url": "https://streamhls.com/view/707fc1e7-cb85-5c38-a2dc-6c284f80108d.m3u8",
+          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
+        }
+      ]
+    },
     {
       "name": "Digimon Adventure 02: The Beginning (2023)",
       "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Digimon-Adventure-02-The-Beginning-2023.jpg",
@@ -3194,462 +3232,6 @@
           "name": "นินจาดวงตาสยบมาร (2005)",
           "image": "https://www.nung2hdd.com/wp-content/uploads/2020/11/shinobi-227981958-large-200x300.jpg",
           "url": "https://streamhls.com/view/83e1f1c1-6706-5d4c-a361-36f87994a6b5.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "ศึกตำนาน 7 อัศวิน แค้นเอดินเบอระ ภาค 1 (2022)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2020/11/The-Seven-Deadly-Sins-Grudge-of-Edinburgh-200x300.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "ศึกตำนาน 7 อัศวิน แค้นเอดินเบอระ ภาค 1 (2022)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/11/The-Seven-Deadly-Sins-Grudge-of-Edinburgh-200x300.jpg",
-          "url": "https://play.kakjeawplay.xyz/c0bdf00c-78a8-4e79-bb99-7fae1bf8a996/_",
-          "info": "พากย์ไทย"
-        },
-        {
-          "name": "ศึกตำนาน 7 อัศวิน แค้นเอดินเบอระ ภาค 1 (2022)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/11/The-Seven-Deadly-Sins-Grudge-of-Edinburgh-200x300.jpg",
-          "url": "https://streamhls.com/view/1a64d9f2-74b8-5d92-83e7-626efc0227b3.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "โดราเอมอน ตอน สงครามอวกาศจิ๋วของโนบิตะ 2021 (2022)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2020/11/eiga_doraemon_nobita_no_little_star_wars-426021314-large-200x300.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "โดราเอมอน ตอน สงครามอวกาศจิ๋วของโนบิตะ 2021 (2022)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/11/eiga_doraemon_nobita_no_little_star_wars-426021314-large-200x300.jpg",
-          "url": "https://play.kakjeawplay.xyz/92fe635c-e0f6-4280-b798-7299cd140aa6/_",
-          "info": "พากย์ไทย"
-        },
-        {
-          "name": "โดราเอมอน ตอน สงครามอวกาศจิ๋วของโนบิตะ 2021 (2022)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/11/eiga_doraemon_nobita_no_little_star_wars-426021314-large-200x300.jpg",
-          "url": "https://streamhls.com/view/aac3746c-14b9-5958-afd7-56bc324c2d32.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "ในบ้านไม้ไผ่ (2022)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2020/11/920520-200x300.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "ในบ้านไม้ไผ่ (2022)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/11/920520-200x300.jpg",
-          "url": "https://play.kakjeawplay.xyz/5f73cc8d-d7de-43c9-b5ca-c2e8b05e7b17/_",
-          "info": "Soundtrackซับ"
-        },
-        {
-          "name": "ในบ้านไม้ไผ่ (2022)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/11/920520-200x300.jpg",
-          "url": "https://streamhls.com/view/3bdb5f0f-fc44-53e5-8091-d7416a66fb94.m3u8",
-          "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "แค้นสังหาร เทพบุตรนินจามหากาฬ (2009)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2014/10/Ninja-Assassin-2009.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "แค้นสังหาร เทพบุตรนินจามหากาฬ (2009)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2014/10/Ninja-Assassin-2009.jpg",
-          "url": "https://play.kakjeawplay.xyz/2693cee1-61a0-45a1-bf20-27224e72faa6/_",
-          "info": "พากย์ไทย"
-        },
-        {
-          "name": "แค้นสังหาร เทพบุตรนินจามหากาฬ (2009)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2014/10/Ninja-Assassin-2009.jpg",
-          "url": "https://streamhls.com/view/982909b4-a2fa-5c4e-afc8-9406fb298d04.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "คู่หูสามเหลี่ยมล่าปีศาจ (2021)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2020/12/The-Night-Beyond-the-Tricornered-Window-2021-คู่หูสามเหลี่ยมล่าปีศาจ-200x300.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "คู่หูสามเหลี่ยมล่าปีศาจ (2021)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/12/The-Night-Beyond-the-Tricornered-Window-2021-คู่หูสามเหลี่ยมล่าปีศาจ-200x300.jpg",
-          "url": "https://play.kakjeawplay.xyz/3d60c9ea-b133-42b3-ad11-81379e869976/_",
-          "info": "พากย์ไทย"
-        },
-        {
-          "name": "คู่หูสามเหลี่ยมล่าปีศาจ (2021)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/12/The-Night-Beyond-the-Tricornered-Window-2021-คู่หูสามเหลี่ยมล่าปีศาจ-200x300.jpg",
-          "url": "https://streamhls.com/view/1374a2dd-a523-547c-8df8-c1b1dd0dfaa6.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "ถ้าแมวตัวนั้นหายไปจากโลกนี้ (2016)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/If-Cats-Disappeared-from-the-World-2016.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "ถ้าแมวตัวนั้นหายไปจากโลกนี้ (2016)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/If-Cats-Disappeared-from-the-World-2016.jpg",
-          "url": "https://play.kakjeawplay.xyz/c8646490-8346-40e9-80fc-ce0218b390b7/_",
-          "info": "พากย์ไทย"
-        },
-        {
-          "name": "ถ้าแมวตัวนั้นหายไปจากโลกนี้ (2016)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/If-Cats-Disappeared-from-the-World-2016.jpg",
-          "url": "https://streamhls.com/view/0df51a26-7494-50c3-9f6d-50ab116f121f.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "ให้รักฉันอยู่ในมุมหัวใจเธอ (The Cornered Mouse Dreams of Cheese)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2022/09/The-Cornered-Mouse-Dreams-of-Cheese-2020-200x300.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "ให้รักฉันอยู่ในมุมหัวใจเธอ (The Cornered Mouse Dreams of Cheese)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2022/09/The-Cornered-Mouse-Dreams-of-Cheese-2020-200x300.jpg",
-          "url": "https://play.kakjeawplay.xyz/20fbca52-919b-49c6-b63e-371d3b321da5/_",
-          "info": "พากย์ไทย"
-        },
-        {
-          "name": "ให้รักฉันอยู่ในมุมหัวใจเธอ (The Cornered Mouse Dreams of Cheese)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2022/09/The-Cornered-Mouse-Dreams-of-Cheese-2020-200x300.jpg",
-          "url": "https://streamhls.com/view/64e1f9ea-7633-5710-8f86-0e027edecc2a.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "หน้ากากเสือ (2013)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2022/09/The-Tiger-Mask-2013-200x300.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "หน้ากากเสือ (2013)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2022/09/The-Tiger-Mask-2013-200x300.jpg",
-          "url": "https://play.kakjeawplay.xyz/80497d0f-1695-4201-bd5f-47a68ebff65d/_",
-          "info": "พากย์ไทย"
-        },
-        {
-          "name": "หน้ากากเสือ (2013)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2022/09/The-Tiger-Mask-2013-200x300.jpg",
-          "url": "https://streamhls.com/view/8d5bad50-3044-5c8b-a059-c0468f9c9f70.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "โจเซ่ กับเสือและหมู่ปลา (2020)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2021/11/z1D8xi9x4uEhyFruo7uEHXUMD4K-200x300.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "โจเซ่ กับเสือและหมู่ปลา (2020)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2021/11/z1D8xi9x4uEhyFruo7uEHXUMD4K-200x300.jpg",
-          "url": "https://play.kakjeawplay.xyz/236b8b53-a0ca-4fb7-a0eb-e1aca1e13047/_",
-          "info": "พากย์ไทย"
-        },
-        {
-          "name": "โจเซ่ กับเสือและหมู่ปลา (2020)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2021/11/z1D8xi9x4uEhyFruo7uEHXUMD4K-200x300.jpg",
-          "url": "https://streamhls.com/view/8dc01165-b6e2-55d6-892c-df90c1072317.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "บ้านล่องลอย (2022)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2022/09/Drifting-Home-2022-200x300.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "บ้านล่องลอย (2022)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2022/09/Drifting-Home-2022-200x300.jpg",
-          "url": "https://play.kakjeawplay.xyz/e4ed41e1-15b3-4ee7-8578-23adce403421/_",
-          "info": "พากย์ไทย"
-        },
-        {
-          "name": "บ้านล่องลอย (2022)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2022/09/Drifting-Home-2022-200x300.jpg",
-          "url": "https://streamhls.com/view/49c2272c-44d1-5239-a01e-b6d658620a46.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "บรรยายไทย (2018)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2022/09/3jxisIBemGKyl3FhLXaJzrcpTC7-200x300.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "บรรยายไทย (2018)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2022/09/3jxisIBemGKyl3FhLXaJzrcpTC7-200x300.jpg",
-          "url": "https://play.kakjeawplay.xyz/2b4a36fd-541f-4e79-b00e-4b157ef07ebd/_",
-          "info": "Soundtrackซับ"
-        },
-        {
-          "name": "บรรยายไทย (2018)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2022/09/3jxisIBemGKyl3FhLXaJzrcpTC7-200x300.jpg",
-          "url": "https://streamhls.com/view/7948f8d2-bf5a-5a72-b889-218c0eccbbbc.m3u8",
-          "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "ไลฟ์ติดผี (2020)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2022/09/Stigmatized-Properties-2020-200x300.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "ไลฟ์ติดผี (2020)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2022/09/Stigmatized-Properties-2020-200x300.jpg",
-          "url": "https://play.kakjeawplay.xyz/c16e3c3b-ec35-44cf-aad0-f5f02d223ed4/_",
-          "info": "พากย์ไทย"
-        },
-        {
-          "name": "ไลฟ์ติดผี (2020)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2022/09/Stigmatized-Properties-2020-200x300.jpg",
-          "url": "https://streamhls.com/view/2af6efae-a84c-512b-8ebe-c7ed8e01c0cb.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "แขนกลคนแปรธาตุ สการ์ชำระแค้น (2022)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2022/08/Fullmetal-Alchemist-The-Revenge-of-Scar-2022.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "แขนกลคนแปรธาตุ สการ์ชำระแค้น (2022)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2022/08/Fullmetal-Alchemist-The-Revenge-of-Scar-2022.jpg",
-          "url": "https://play.kakjeawplay.xyz/e3650fad-f60b-46a9-af63-79281452e258/_",
-          "info": "พากย์ไทย"
-        },
-        {
-          "name": "แขนกลคนแปรธาตุ สการ์ชำระแค้น (2022)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2022/08/Fullmetal-Alchemist-The-Revenge-of-Scar-2022.jpg",
-          "url": "https://streamhls.com/view/263d6ecb-0503-5fe4-ae54-e4d1aee1038c.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "เซนต์เซย์ย่า ศึกปราสาท 12 ราศี (2014)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2015/01/cda21303a00fd221c77940cbe86f5e931394427997_full_250x354.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "เซนต์เซย์ย่า ศึกปราสาท 12 ราศี (2014)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2015/01/cda21303a00fd221c77940cbe86f5e931394427997_full_250x354.jpg",
-          "url": "https://play.kakjeawplay.xyz/ea291799-4777-4e26-87c1-171e31e6d386/_",
-          "info": "พากย์ไทย"
-        },
-        {
-          "name": "เซนต์เซย์ย่า ศึกปราสาท 12 ราศี (2014)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2015/01/cda21303a00fd221c77940cbe86f5e931394427997_full_250x354.jpg",
-          "url": "https://streamhls.com/view/d3adc7c4-9213-5739-8151-835f9f3d7c9d.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "โตเกียว รีเวนเจอร์ (2021)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2022/08/8y8FBX4bUWvXilteSEfQtypDcIM-200x300.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "โตเกียว รีเวนเจอร์ (2021)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2022/08/8y8FBX4bUWvXilteSEfQtypDcIM-200x300.jpg",
-          "url": "https://play.kakjeawplay.xyz/c1384ac2-e9a2-45f0-905a-c8896223d48a/_",
-          "info": "พากย์ไทย"
-        },
-        {
-          "name": "โตเกียว รีเวนเจอร์ (2021)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2022/08/8y8FBX4bUWvXilteSEfQtypDcIM-200x300.jpg",
-          "url": "https://streamhls.com/view/f16badfd-c22c-56cd-85cf-4ae650cd8cd7.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "บรรยายไทย (2021)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2022/07/yD9RhgIVydQNBK7OLEbCWYcWMUd-200x300.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "บรรยายไทย (2021)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2022/07/yD9RhgIVydQNBK7OLEbCWYcWMUd-200x300.jpg",
-          "url": "https://play.kakjeawplay.xyz/288bd6f4-b813-42a8-934c-769b9656e328/_",
-          "info": "Soundtrackซับ"
-        },
-        {
-          "name": "บรรยายไทย (2021)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2022/07/yD9RhgIVydQNBK7OLEbCWYcWMUd-200x300.jpg",
-          "url": "https://streamhls.com/view/3c17b0f4-c856-5742-b2b6-8d120c36719e.m3u8",
-          "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "The Laws of the Universe The Age of Elohim (2021)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2022/07/The-Laws-of-the-Universe-The-Age-of-Elohim-2021-200x300.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "The Laws of the Universe The Age of Elohim (2021)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2022/07/The-Laws-of-the-Universe-The-Age-of-Elohim-2021-200x300.jpg",
-          "url": "https://play.kakjeawplay.xyz/46740113-c936-446d-be20-5e68b3004308/_",
-          "info": "Soundtrackซับ"
-        },
-        {
-          "name": "The Laws of the Universe The Age of Elohim (2021)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2022/07/The-Laws-of-the-Universe-The-Age-of-Elohim-2021-200x300.jpg",
-          "url": "https://streamhls.com/view/0e5835bb-a4de-56cc-81e5-fed340b22fa4.m3u8",
-          "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "ผีชีวะ สงครามดับพันธุ์ไวรัส (2012)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2016/02/20161230054138rd2.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "ผีชีวะ สงครามดับพันธุ์ไวรัส (2012)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2016/02/20161230054138rd2.jpg",
-          "url": "https://play.kakjeawplay.xyz/8f0c5079-3197-48ef-9a7e-b7fdfccf7fe0/_",
-          "info": "พากย์ไทย"
-        },
-        {
-          "name": "ผีชีวะ สงครามดับพันธุ์ไวรัส (2012)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2016/02/20161230054138rd2.jpg",
-          "url": "https://streamhls.com/view/87896a14-4f42-5b94-b32a-07294cd1a8b5.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "อุลตร้า แกแลคซีไฟท์ ทางแยกแห่งชะตา (2022)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2022/07/ssq389n3QkflYar15H9PIxr1ija-200x300.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "อุลตร้า แกแลคซีไฟท์ ทางแยกแห่งชะตา (2022)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2022/07/ssq389n3QkflYar15H9PIxr1ija-200x300.jpg",
-          "url": "https://play.kakjeawplay.xyz/5f4a455e-2af9-4023-968b-f7064bda2c57/_",
-          "info": "Soundtrackซับ"
-        },
-        {
-          "name": "อุลตร้า แกแลคซีไฟท์ ทางแยกแห่งชะตา (2022)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2022/07/ssq389n3QkflYar15H9PIxr1ija-200x300.jpg",
-          "url": "https://streamhls.com/view/dd369c13-4701-591e-8294-a2cf98c40b7b.m3u8",
-          "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "Uta no Prince Sama Maji Love Kingdom The Movie (2019)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2022/07/gMWL3JlTz2OVPqp2TAa3NimHTor-200x300.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "Uta no Prince Sama Maji Love Kingdom The Movie (2019)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2022/07/gMWL3JlTz2OVPqp2TAa3NimHTor-200x300.jpg",
-          "url": "https://play.kakjeawplay.xyz/329e0599-b67e-4e69-9b9b-9ff61568141b/_",
-          "info": "Soundtrackซับ"
-        },
-        {
-          "name": "Uta no Prince Sama Maji Love Kingdom The Movie (2019)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2022/07/gMWL3JlTz2OVPqp2TAa3NimHTor-200x300.jpg",
-          "url": "https://streamhls.com/view/1def869b-4302-5d38-b198-231c6000afbf.m3u8",
-          "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "Summer Ghost (2021)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2022/07/dH1GfhaaBCftL7CenrIG2OjsLxX-200x300.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "Summer Ghost (2021)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2022/07/dH1GfhaaBCftL7CenrIG2OjsLxX-200x300.jpg",
-          "url": "https://play.kakjeawplay.xyz/21182c1e-d2dd-4359-8697-8077592f86d7/_",
-          "info": "Soundtrackซับ"
-        },
-        {
-          "name": "Summer Ghost (2021)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2022/07/dH1GfhaaBCftL7CenrIG2OjsLxX-200x300.jpg",
-          "url": "https://streamhls.com/view/074a724d-5df7-5718-b9d5-f4bf439b5619.m3u8",
-          "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "Ito (2021) อิโตะ บันทึกไว้บนสาย(ทางเดิน)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2022/07/Ito-2021-200x300.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "Ito (2021) อิโตะ บันทึกไว้บนสาย(ทางเดิน)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2022/07/Ito-2021-200x300.jpg",
-          "url": "https://play.kakjeawplay.xyz/e57a2599-e8e8-4d65-8307-5f37b5320d14/_",
-          "info": "Soundtrackซับ"
-        },
-        {
-          "name": "Ito (2021) อิโตะ บันทึกไว้บนสาย(ทางเดิน)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2022/07/Ito-2021-200x300.jpg",
-          "url": "https://streamhls.com/view/c9487a8c-d16a-54a0-b314-a5a9abb7708c.m3u8",
-          "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "สุดทางรัก (2021)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2022/06/xlEnJ6O2xIlcJPvo23PWUiiSS21-200x300.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "สุดทางรัก (2021)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2022/06/xlEnJ6O2xIlcJPvo23PWUiiSS21-200x300.jpg",
-          "url": "https://play.kakjeawplay.xyz/c5e67ece-7e36-4fc2-85ad-357de3b1c9e9/_",
-          "info": "Soundtrackซับ"
-        },
-        {
-          "name": "สุดทางรัก (2021)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2022/06/xlEnJ6O2xIlcJPvo23PWUiiSS21-200x300.jpg",
-          "url": "https://streamhls.com/view/5347b7f4-bc70-58e8-95ef-58ae3d3c80d9.m3u8",
-          "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "มินามาตะ ภาพถ่ายโลกตะลึง (2021)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2021/06/jeFGxIB5h4naYcIILAPOy8CxPyy-200x300.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "มินามาตะ ภาพถ่ายโลกตะลึง (2021)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2021/06/jeFGxIB5h4naYcIILAPOy8CxPyy-200x300.jpg",
-          "url": "https://play.kakjeawplay.xyz/f3786a74-4480-4bea-82ab-011be65bdc42/_",
-          "info": "พากย์ไทย"
-        },
-        {
-          "name": "มินามาตะ ภาพถ่ายโลกตะลึง (2021)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2021/06/jeFGxIB5h4naYcIILAPOy8CxPyy-200x300.jpg",
-          "url": "https://streamhls.com/view/cf60c2ff-8f8d-535b-9806-d3f2410e16d7.m3u8",
           "info": "พากย์ไทย (ตัวเล่นสำรอง)"
         }
       ]
