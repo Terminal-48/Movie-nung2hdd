@@ -1,10 +1,124 @@
 {
   "name": "หนังอินเดีย",
-  "author": "อัพเดท 07/04/2024",
+  "author": "อัพเดท 26/04/2024",
   "info": "",
   "image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
   "url": "https://raw.githubusercontent.com/Terminal-48/Movie-nung2hdd/main/Movie-cinema-india.w3u",
   "groups": [
+    {
+      "name": "Drushyam 2 (2021)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Drushyam-2-2021.jpg",
+      "info": "",
+      "stations": [
+        {
+          "name": "Drushyam 2 (2021)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Drushyam-2-2021.jpg",
+          "url": "https://play.kakjeawplay.xyz/23529ae3-8e18-4845-8ac3-74378b6f5a4d/_",
+          "info": "Soundtrackซับ"
+        },
+        {
+          "name": "Drushyam 2 (2021)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Drushyam-2-2021.jpg",
+          "url": "https://streamhls.com/view/02e6e7b9-d789-5f3e-bc62-535198aadff0.m3u8",
+          "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
+        }
+      ]
+    },
+    {
+      "name": "ปริศนารัก (2005)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Paheli-2005.jpg",
+      "info": "",
+      "stations": [
+        {
+          "name": "ปริศนารัก (2005)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Paheli-2005.jpg",
+          "url": "https://play.kakjeawplay.xyz/0aa35199-f558-4296-a6d0-b789c4bad644/_",
+          "info": "Soundtrackซับ"
+        },
+        {
+          "name": "ปริศนารัก (2005)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Paheli-2005.jpg",
+          "url": "https://streamhls.com/view/434cc511-0fec-5495-bd6c-2a56afd9755d.m3u8",
+          "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
+        }
+      ]
+    },
+    {
+      "name": "ไต่ระห่ำล่าเดนนรก (2016)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Shivaay-2016.jpg",
+      "info": "",
+      "stations": [
+        {
+          "name": "ไต่ระห่ำล่าเดนนรก (2016)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Shivaay-2016.jpg",
+          "url": "https://play.kakjeawplay.xyz/409a15bd-d229-46e3-9d42-c1ff846181a8/_",
+          "info": "Soundtrackซับ"
+        },
+        {
+          "name": "ไต่ระห่ำล่าเดนนรก (2016)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Shivaay-2016.jpg",
+          "url": "https://streamhls.com/view/e2764fe3-6e65-5dc8-9e29-2fa8b5e06d29.m3u8",
+          "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
+        }
+      ]
+    },
+    {
+      "name": "ฝากรักสุดฟากฟ้า (2006)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Kabhi-Alvida-Naa-Kehna.jpg",
+      "info": "",
+      "stations": [
+        {
+          "name": "ฝากรักสุดฟากฟ้า (2006)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Kabhi-Alvida-Naa-Kehna.jpg",
+          "url": "https://play.kakjeawplay.xyz/fb0d7e61-4791-4685-bd1c-b269f79e101d/_",
+          "info": "พากย์ไทย"
+        },
+        {
+          "name": "ฝากรักสุดฟากฟ้า (2006)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Kabhi-Alvida-Naa-Kehna.jpg",
+          "url": "https://streamhls.com/view/3ff686b7-f727-5a08-a8df-872677e9ea60.m3u8",
+          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
+        }
+      ]
+    },
+    {
+      "name": "ตำนานเพลงแห่งปัญจาบ (2024)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Amar-Singh-Chamkila-2024.jpg",
+      "info": "",
+      "stations": [
+        {
+          "name": "ตำนานเพลงแห่งปัญจาบ (2024)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Amar-Singh-Chamkila-2024.jpg",
+          "url": "https://play.kakjeawplay.xyz/4a5b30ab-8195-4350-8d22-457335687630/_",
+          "info": "Soundtrackซับ"
+        },
+        {
+          "name": "ตำนานเพลงแห่งปัญจาบ (2024)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Amar-Singh-Chamkila-2024.jpg",
+          "url": "https://streamhls.com/view/91ea89df-967d-505c-8471-7f192db887dc.m3u8",
+          "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
+        }
+      ]
+    },
+    {
+      "name": "กัลลีบอย (2019)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Gully-Boy-2019.jpg",
+      "info": "",
+      "stations": [
+        {
+          "name": "กัลลีบอย (2019)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Gully-Boy-2019.jpg",
+          "url": "https://play.kakjeawplay.xyz/0d5ffc4e-9929-4c84-a6ec-b509e4085a89/_",
+          "info": "Soundtrackซับ"
+        },
+        {
+          "name": "กัลลีบอย (2019)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Gully-Boy-2019.jpg",
+          "url": "https://streamhls.com/view/67e3b559-171e-524d-8980-871ab5d010d8.m3u8",
+          "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
+        }
+      ]
+    },
     {
       "name": "อินเดียที่รัก (2024)",
       "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Ae-Watan-Mere-Watan-2024.jpg",
@@ -4056,120 +4170,6 @@
           "image": "https://www.nung2hdd.com/wp-content/uploads/2020/06/u5VwCcyk4M8sqQgwquelUJJuH6n.jpg",
           "url": "https://streamhls.com/view/d3646518-9bf7-567a-96e9-279fcb8acae0.m3u8",
           "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "บรรยายไทย (2019)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2020/06/de4o4FwDCCUt6DREkAdOou05O3T.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "บรรยายไทย (2019)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/06/de4o4FwDCCUt6DREkAdOou05O3T.jpg",
-          "url": "https://play.kakjeawplay.xyz/0a6e0973-8c68-4064-97f6-5e612257ff49/_",
-          "info": "Soundtrackซับ"
-        },
-        {
-          "name": "บรรยายไทย (2019)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/06/de4o4FwDCCUt6DREkAdOou05O3T.jpg",
-          "url": "https://streamhls.com/view/a40460b3-b38e-5b79-a8e2-af83ec91e627.m3u8",
-          "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "บรรยายไทย (2019)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2020/06/pzOELvBuafrpflQQDv9babJ9EvM.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "บรรยายไทย (2019)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/06/pzOELvBuafrpflQQDv9babJ9EvM.jpg",
-          "url": "https://play.kakjeawplay.xyz/fbeacd20-7aa4-4646-bde1-6b5fa69af9ac/_",
-          "info": "Soundtrackซับ"
-        },
-        {
-          "name": "บรรยายไทย (2019)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/06/pzOELvBuafrpflQQDv9babJ9EvM.jpg",
-          "url": "https://streamhls.com/view/b5e7034b-2f3b-572a-91c2-96bf791207b8.m3u8",
-          "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "บรรยายไทย (2018)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2020/05/2020050414331481Bgt6R7ZlL._RI_.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "บรรยายไทย (2018)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/05/2020050414331481Bgt6R7ZlL._RI_.jpg",
-          "url": "https://play.kakjeawplay.xyz/b4bfa50d-3de7-428a-8cc2-18efc4094154/_",
-          "info": "Soundtrackซับ"
-        },
-        {
-          "name": "บรรยายไทย (2018)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/05/2020050414331481Bgt6R7ZlL._RI_.jpg",
-          "url": "https://streamhls.com/view/91f231ab-14fb-523c-b31b-fd6fd8d261e6.m3u8",
-          "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "Game Over (2019) เกมโอเวอร์ (ภาษาฮินดี)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2015/11/20190822201121MV5BZDA5OTIyZm.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "Game Over (2019) เกมโอเวอร์ (ภาษาฮินดี)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2015/11/20190822201121MV5BZDA5OTIyZm.jpg",
-          "url": "https://play.kakjeawplay.xyz/eb31ee91-2a98-41cb-a279-f1c4633db085/_",
-          "info": "Soundtrackซับ"
-        },
-        {
-          "name": "Game Over (2019) เกมโอเวอร์ (ภาษาฮินดี)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2015/11/20190822201121MV5BZDA5OTIyZm.jpg",
-          "url": "https://streamhls.com/view/9f0eec9c-0cee-58e9-aa0e-c387fd9c10e6.m3u8",
-          "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "กัปตันแดงเดือด (2019)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2020/02/3ChKqmr9wzBxtsTeJgfRyphuVKH.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "กัปตันแดงเดือด (2019)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/02/3ChKqmr9wzBxtsTeJgfRyphuVKH.jpg",
-          "url": "https://play.kakjeawplay.xyz/79a9dbe1-6cb9-4b30-bef9-c91fc2d3b47c/_",
-          "info": "Soundtrackซับ"
-        },
-        {
-          "name": "กัปตันแดงเดือด (2019)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/02/3ChKqmr9wzBxtsTeJgfRyphuVKH.jpg",
-          "url": "https://streamhls.com/view/c4c0b6d3-bd8e-5987-8d06-78b79d4efeb8.m3u8",
-          "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "โคตรเกรียนเมืองคนบาป (2013)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2014/12/Sparks2013.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "โคตรเกรียนเมืองคนบาป (2013)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2014/12/Sparks2013.jpg",
-          "url": "https://play.kakjeawplay.xyz/a3396518-6f2e-4ee8-9cd2-eac4786b7535/_",
-          "info": "พากย์ไทย"
-        },
-        {
-          "name": "โคตรเกรียนเมืองคนบาป (2013)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2014/12/Sparks2013.jpg",
-          "url": "https://streamhls.com/view/caea18ee-19ec-580b-9e0d-62848f418f04.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
         }
       ]
     }
