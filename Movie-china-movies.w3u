@@ -1,10 +1,200 @@
 {
   "name": "หนังจีน",
-  "author": "อัพเดท 07/04/2024",
+  "author": "อัพเดท 26/04/2024",
   "info": "",
   "image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
   "url": "https://raw.githubusercontent.com/Terminal-48/Movie-nung2hdd/main/Movie-china-movies.w3u",
   "groups": [
+    {
+      "name": "หมวยย้วย…มวยไม่ยอมม้วย (2024)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Yolo.jpg",
+      "info": "",
+      "stations": [
+        {
+          "name": "หมวยย้วย…มวยไม่ยอมม้วย (2024)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Yolo.jpg",
+          "url": "https://play.kakjeawplay.xyz/d88648e9-ce64-49f9-ac84-d76a65881422/_",
+          "info": "พากย์ไทย"
+        },
+        {
+          "name": "หมวยย้วย…มวยไม่ยอมม้วย (2024)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Yolo.jpg",
+          "url": "https://streamhls.com/view/9eead49e-4067-5485-a627-daf65d38a580.m3u8",
+          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
+        }
+      ]
+    },
+    {
+      "name": "เดือดลุยเดี่ยว (2024)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/SRescue-on-One-s-Own.jpg",
+      "info": "",
+      "stations": [
+        {
+          "name": "เดือดลุยเดี่ยว (2024)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/SRescue-on-One-s-Own.jpg",
+          "url": "https://play.kakjeawplay.xyz/92276e4f-982b-4f0b-a691-15f59d1beaed/_",
+          "info": "Soundtrackซับ"
+        },
+        {
+          "name": "เดือดลุยเดี่ยว (2024)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/SRescue-on-One-s-Own.jpg",
+          "url": "https://streamhls.com/view/286e77e4-27d1-5e17-b15d-28fa472b28f1.m3u8",
+          "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
+        }
+      ]
+    },
+    {
+      "name": "ประกาศิตเทพปีศาจ (2024)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/The-Lord-of-The-Monsters-2024.jpg",
+      "info": "",
+      "stations": [
+        {
+          "name": "ประกาศิตเทพปีศาจ (2024)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/The-Lord-of-The-Monsters-2024.jpg",
+          "url": "https://play.kakjeawplay.xyz/8c5ab3f4-780e-4f3d-8691-1aaaaebcca4c/_",
+          "info": "Soundtrackซับ"
+        },
+        {
+          "name": "ประกาศิตเทพปีศาจ (2024)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/The-Lord-of-The-Monsters-2024.jpg",
+          "url": "https://streamhls.com/view/b69ee593-d736-59b6-a250-d18a90490ee9.m3u8",
+          "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
+        }
+      ]
+    },
+    {
+      "name": "เรื่องเล่าขานตำนานปีศาจแมว (2024)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Love-Death-and-Cat-2024.jpg",
+      "info": "",
+      "stations": [
+        {
+          "name": "เรื่องเล่าขานตำนานปีศาจแมว (2024)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Love-Death-and-Cat-2024.jpg",
+          "url": "https://play.kakjeawplay.xyz/5b7e1828-282a-488e-95e6-7bfcf8f20c2c/_",
+          "info": "Soundtrackซับ"
+        },
+        {
+          "name": "เรื่องเล่าขานตำนานปีศาจแมว (2024)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Love-Death-and-Cat-2024.jpg",
+          "url": "https://streamhls.com/view/050506a2-ecd6-55b2-bce9-8fff95c20ec8.m3u8",
+          "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
+        }
+      ]
+    },
+    {
+      "name": "เปาบุ้นจิ้น คดีประหลาดดาวปลาคู่ (2024)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/The-Mystery-of-Jade-2024.jpg",
+      "info": "",
+      "stations": [
+        {
+          "name": "เปาบุ้นจิ้น คดีประหลาดดาวปลาคู่ (2024)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/The-Mystery-of-Jade-2024.jpg",
+          "url": "https://play.kakjeawplay.xyz/06d3bc0d-dbe9-4e91-9389-233a347cde4e/_",
+          "info": "Soundtrackซับ"
+        },
+        {
+          "name": "เปาบุ้นจิ้น คดีประหลาดดาวปลาคู่ (2024)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/The-Mystery-of-Jade-2024.jpg",
+          "url": "https://streamhls.com/view/7a180ccc-85a8-5030-89b0-8c607f158706.m3u8",
+          "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
+        }
+      ]
+    },
+    {
+      "name": "รักแม่นะ (2023)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Ma-I-Love-You-2023.jpg",
+      "info": "",
+      "stations": [
+        {
+          "name": "รักแม่นะ (2023)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Ma-I-Love-You-2023.jpg",
+          "url": "https://play.kakjeawplay.xyz/7abbec9b-9bd0-49c9-a21f-f8dae8b17e9b/_",
+          "info": "Soundtrackซับ"
+        },
+        {
+          "name": "รักแม่นะ (2023)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Ma-I-Love-You-2023.jpg",
+          "url": "https://streamhls.com/view/cfec44b0-65d0-5e43-953e-ba36c964b9a3.m3u8",
+          "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
+        }
+      ]
+    },
+    {
+      "name": "ตำนานสู่ซาน: ยอดกระบี่หวนคืน (2022)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/02/Swords-Drawn-2022.jpg",
+      "info": "",
+      "stations": [
+        {
+          "name": "ตำนานสู่ซาน: ยอดกระบี่หวนคืน (2022)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/02/Swords-Drawn-2022.jpg",
+          "url": "https://play.kakjeawplay.xyz/992470dc-f1d8-4ec9-a10b-25bf505f47a3/_",
+          "info": "พากย์ไทย"
+        },
+        {
+          "name": "ตำนานสู่ซาน: ยอดกระบี่หวนคืน (2022)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/02/Swords-Drawn-2022.jpg",
+          "url": "https://streamhls.com/view/d66296bc-09c1-5754-a521-5bd531a28127.m3u8",
+          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
+        }
+      ]
+    },
+    {
+      "name": "ปะ ฉะ ดะ คนอัดคน (2006)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2015/02/Fatal-Contact.jpg",
+      "info": "",
+      "stations": [
+        {
+          "name": "ปะ ฉะ ดะ คนอัดคน (2006)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2015/02/Fatal-Contact.jpg",
+          "url": "https://play.kakjeawplay.xyz/b8dc7aef-31bd-44fc-89b8-21511b9b11d2/_",
+          "info": "พากย์ไทย"
+        },
+        {
+          "name": "ปะ ฉะ ดะ คนอัดคน (2006)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2015/02/Fatal-Contact.jpg",
+          "url": "https://streamhls.com/view/abc847e4-5c9f-599a-8e7e-2ddf20ddb7c9.m3u8",
+          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
+        }
+      ]
+    },
+    {
+      "name": "ซั่มกระฉูด ทะลุโตเกียว (2014)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2015/02/Naked-Ambition.jpg",
+      "info": "",
+      "stations": [
+        {
+          "name": "ซั่มกระฉูด ทะลุโตเกียว (2014)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2015/02/Naked-Ambition.jpg",
+          "url": "https://play.kakjeawplay.xyz/aa9d17e1-6354-4caa-ae50-ce2ca95dc6b6/_",
+          "info": "พากย์ไทย"
+        },
+        {
+          "name": "ซั่มกระฉูด ทะลุโตเกียว (2014)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2015/02/Naked-Ambition.jpg",
+          "url": "https://streamhls.com/view/af6d853b-d955-59cf-8a0d-691e80337136.m3u8",
+          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
+        }
+      ]
+    },
+    {
+      "name": "แฟนสาวมนุษย์กล (2020)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2020/08/Almost-Human.jpg",
+      "info": "",
+      "stations": [
+        {
+          "name": "แฟนสาวมนุษย์กล (2020)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/08/Almost-Human.jpg",
+          "url": "https://play.kakjeawplay.xyz/f4057cc5-322a-4a94-ad2a-99677507bf3c/_",
+          "info": "พากย์ไทย"
+        },
+        {
+          "name": "แฟนสาวมนุษย์กล (2020)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/08/Almost-Human.jpg",
+          "url": "https://streamhls.com/view/a819e65c-90d3-5324-bcf3-c40fa6a2a423.m3u8",
+          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
+        }
+      ]
+    },
     {
       "name": "มหากาพย์ปล้นจารชน (2024)",
       "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/Rob-N-Roll.png",
@@ -2555,69 +2745,6 @@
           "name": "สวยมรณะ (2022)",
           "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Revenge-Girl-2022.jpg",
           "url": "https://streamhls.com/view/baa612d1-da89-537c-adbd-98063b02abe2.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "เมียผมหายในหมู่ดาว (2023)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Lost-in-the-Stars-2023.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "เมียผมหายในหมู่ดาว (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Lost-in-the-Stars-2023.jpg",
-          "url": "https://play.kakjeawplay.xyz/32e24357-3691-4d38-b26e-a68774fc1b97/_",
-          "info": "Soundtrackซับ"
-        },
-        {
-          "name": "เมียผมหายในหมู่ดาว (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Lost-in-the-Stars-2023.jpg",
-          "url": "https://streamhls.com/view/082f9673-f3db-5682-85e6-e2184975719a.m3u8",
-          "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "The Deliberations of Love สามคราชะตารัก (2023)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/10/The-Deliberations-of-Love-2023.jpg",
-      "info": "",
-      "stations": []
-    },
-    {
-      "name": "รสรักฤทธิ์แค้น (1972)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/10/Intimate-Confessions-of-a-Chinese-Courtesan-1972.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "รสรักฤทธิ์แค้น (1972)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/10/Intimate-Confessions-of-a-Chinese-Courtesan-1972.jpg",
-          "url": "https://play.kakjeawplay.xyz/a8e1cfbb-c7b0-472d-90ee-0779d0a9d0cb/_",
-          "info": "พากย์ไทย"
-        },
-        {
-          "name": "รสรักฤทธิ์แค้น (1972)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/10/Intimate-Confessions-of-a-Chinese-Courtesan-1972.jpg",
-          "url": "https://streamhls.com/view/35eb52c4-da8b-5c2c-81c2-b71be855473c.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "นักชกจากชานตุง (1972)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/10/The-Boxer-from-Shantung-1972.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "นักชกจากชานตุง (1972)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/10/The-Boxer-from-Shantung-1972.jpg",
-          "url": "https://play.kakjeawplay.xyz/6a22057e-16c7-4197-8f8b-c6c672b14eb2/_",
-          "info": "พากย์ไทย"
-        },
-        {
-          "name": "นักชกจากชานตุง (1972)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/10/The-Boxer-from-Shantung-1972.jpg",
-          "url": "https://streamhls.com/view/67b364d5-4a90-5206-a5fa-d4cc85f442dc.m3u8",
           "info": "พากย์ไทย (ตัวเล่นสำรอง)"
         }
       ]
