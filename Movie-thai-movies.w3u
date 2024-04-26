@@ -1,10 +1,105 @@
 {
   "name": "หนังไทย",
-  "author": "อัพเดท 07/04/2024",
+  "author": "อัพเดท 26/04/2024",
   "info": "",
   "image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
   "url": "https://raw.githubusercontent.com/Terminal-48/Movie-nung2hdd/main/Movie-thai-movies.w3u",
   "groups": [
+    {
+      "name": "พัสดุฝ่าแดนมรณะ (2024)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/The-Package.jpg",
+      "info": "",
+      "stations": [
+        {
+          "name": "พัสดุฝ่าแดนมรณะ (2024)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/The-Package.jpg",
+          "url": "https://play.kakjeawplay.xyz/e4f762ca-d9c6-4778-b157-33eecf694e2b/_",
+          "info": "พากย์ไทย"
+        },
+        {
+          "name": "พัสดุฝ่าแดนมรณะ (2024)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/The-Package.jpg",
+          "url": "https://streamhls.com/view/916b9444-d061-58ee-af15-18d9a886f735.m3u8",
+          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
+        }
+      ]
+    },
+    {
+      "name": "ของแขก (2023)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/The-Djinn-s-Curse.jpg",
+      "info": "",
+      "stations": [
+        {
+          "name": "ของแขก (2023)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/The-Djinn-s-Curse.jpg",
+          "url": "https://play.kakjeawplay.xyz/3c70b07a-6206-4f25-a1ea-ee7bc6baab9b/_",
+          "info": "พากย์ไทย"
+        },
+        {
+          "name": "ของแขก (2023)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/The-Djinn-s-Curse.jpg",
+          "url": "https://streamhls.com/view/22d2f56c-20b3-519c-b181-79b2223c00b6.m3u8",
+          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
+        }
+      ]
+    },
+    {
+      "name": "ธี่หยด (2024)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Death-Whisperer.jpg",
+      "info": "",
+      "stations": [
+        {
+          "name": "ธี่หยด (2024)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Death-Whisperer.jpg",
+          "url": "https://play.kakjeawplay.xyz/c187455e-07f0-4fde-9918-d7fc2cb42739/_",
+          "info": "พากย์ไทย"
+        },
+        {
+          "name": "ธี่หยด (2024)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Death-Whisperer.jpg",
+          "url": "https://streamhls.com/view/faec70f7-0166-5ac4-8942-9e5c5fd53b4d.m3u8",
+          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
+        }
+      ]
+    },
+    {
+      "name": "สมมติ (2023)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Supposed.jpg",
+      "info": "",
+      "stations": [
+        {
+          "name": "สมมติ (2023)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Supposed.jpg",
+          "url": "https://play.kakjeawplay.xyz/945b45d6-a1f0-41fe-8d04-0a181258ddc6/_",
+          "info": "พากย์ไทย"
+        },
+        {
+          "name": "สมมติ (2023)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Supposed.jpg",
+          "url": "https://streamhls.com/view/49cc69e3-d980-527d-852e-ffbb606433ae.m3u8",
+          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
+        }
+      ]
+    },
+    {
+      "name": "อุโมงค์ผาเมือง (2011)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2015/02/The-Outrage.jpg",
+      "info": "",
+      "stations": [
+        {
+          "name": "อุโมงค์ผาเมือง (2011)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2015/02/The-Outrage.jpg",
+          "url": "https://play.kakjeawplay.xyz/e62c5f68-5113-46b5-8df0-a0148b5579a1/_",
+          "info": "พากย์ไทย"
+        },
+        {
+          "name": "อุโมงค์ผาเมือง (2011)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2015/02/The-Outrage.jpg",
+          "url": "https://streamhls.com/view/71bd1162-853b-5d9e-85b6-f559e24c0981.m3u8",
+          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
+        }
+      ]
+    },
     {
       "name": "อานนเป็นนักเรียนตัวอย่าง (2023)",
       "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Arnold-Is-a-Model-Student.jpg",
@@ -324,25 +419,6 @@
           "name": "เกม / ล่า / ตาย (2023)",
           "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Bad-Social-2023.jpg",
           "url": "https://streamhls.com/view/bc4d2fd6-227e-5415-99e7-fca3973416f6.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "14 อีกครั้ง (2023)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/I-Love-You-Two-Thousand-2023.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "14 อีกครั้ง (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/I-Love-You-Two-Thousand-2023.jpg",
-          "url": "https://play.kakjeawplay.xyz/55fe9806-0f51-4205-8cd7-56f177e365c6/_",
-          "info": "พากย์ไทย"
-        },
-        {
-          "name": "14 อีกครั้ง (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/I-Love-You-Two-Thousand-2023.jpg",
-          "url": "https://streamhls.com/view/cb379d9d-f6e8-5c91-b1fa-6f9c3bc74984.m3u8",
           "info": "พากย์ไทย (ตัวเล่นสำรอง)"
         }
       ]
@@ -798,6 +874,25 @@
       ]
     },
     {
+      "name": "ปล้นทะลุไมล์ (2023)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/The-X-Treme-Riders-2023.jpg",
+      "info": "",
+      "stations": [
+        {
+          "name": "ปล้นทะลุไมล์ (2023)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/The-X-Treme-Riders-2023.jpg",
+          "url": "https://play.kakjeawplay.xyz/ad2a746f-db94-4f9c-a94e-217264c58cf4/_",
+          "info": "พากย์ไทย"
+        },
+        {
+          "name": "ปล้นทะลุไมล์ (2023)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/The-X-Treme-Riders-2023.jpg",
+          "url": "https://streamhls.com/view/7c98e019-aa69-576c-a586-42791e6ef977.m3u8",
+          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
+        }
+      ]
+    },
+    {
       "name": "อาชีวะ ’90 (2021)",
       "image": "https://www.nung2hdd.com/wp-content/uploads/2022/05/4-Kings-2021.jpg",
       "info": "",
@@ -1192,25 +1287,6 @@
           "name": "เซียนหรั่ง เดอะมูฟวี่ (2023)",
           "image": "https://www.nung2hdd.com/wp-content/uploads/2020/06/ZIEN-LANG-Best-Friends-Forever-2023.jpg",
           "url": "https://streamhls.com/view/3ed4e9d7-5960-5166-8867-4c38dabf84a3.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "อาตมาฟ้าผ่า (2023)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/09/Thunder-Monk-2023.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "อาตมาฟ้าผ่า (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/09/Thunder-Monk-2023.jpg",
-          "url": "https://play.kakjeawplay.xyz/d1a92c74-51d6-4fe3-a729-f6c0bb62d9ed/_",
-          "info": "พากย์ไทย"
-        },
-        {
-          "name": "อาตมาฟ้าผ่า (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/09/Thunder-Monk-2023.jpg",
-          "url": "https://streamhls.com/view/deb2c4cd-9e3d-5844-baf5-f3769f7f26ad.m3u8",
           "info": "พากย์ไทย (ตัวเล่นสำรอง)"
         }
       ]
@@ -1706,6 +1782,25 @@
           "name": "หอแต๋วแตก 6 แหกต่อไม่รอแล้วนะ (2018)",
           "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2018.jpg",
           "url": "https://streamhls.com/view/bb659a7f-ce9e-50d2-a262-387a3db2c516.m3u8",
+          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
+        }
+      ]
+    },
+    {
+      "name": "หอแต๋วแตก ภาค 4 (2012)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2012.jpg",
+      "info": "",
+      "stations": [
+        {
+          "name": "หอแต๋วแตก ภาค 4 (2012)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2012.jpg",
+          "url": "https://play.kakjeawplay.xyz/665de8ab-4e75-47e4-83ab-bb6f5fdb490a/_",
+          "info": "พากย์ไทย"
+        },
+        {
+          "name": "หอแต๋วแตก ภาค 4 (2012)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2012.jpg",
+          "url": "https://streamhls.com/view/4dbc88ca-6e52-54d8-9e7d-0d5ab81779c0.m3u8",
           "info": "พากย์ไทย (ตัวเล่นสำรอง)"
         }
       ]
@@ -2731,25 +2826,6 @@
       ]
     },
     {
-      "name": "มหาอุตม์ (2003)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/02/Maha-ut-2003-มหาอุตม์-200x300.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "มหาอุตม์ (2003)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/02/Maha-ut-2003-มหาอุตม์-200x300.jpg",
-          "url": "https://play.kakjeawplay.xyz/62249f7f-689f-49fe-9214-89d4e0c94b47/_",
-          "info": "พากย์ไทย"
-        },
-        {
-          "name": "มหาอุตม์ (2003)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/02/Maha-ut-2003-มหาอุตม์-200x300.jpg",
-          "url": "https://streamhls.com/view/0639e379-6daf-5800-80fe-2e260266eaa8.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
       "name": "วานิชชิ่ง พอยท์ (2015)",
       "image": "https://www.nung2hdd.com/wp-content/uploads/2020/10/Vanishing-Point-200x300.jpg",
       "info": "",
@@ -3764,63 +3840,6 @@
           "name": "พี่มาก พระโขนง (2013)",
           "image": "https://www.nung2hdd.com/wp-content/uploads/2019/10/id6vuPytf7KVJVS8Rt8x98RreUn.jpg",
           "url": "https://streamhls.com/view/ffb1b1e8-cda2-513b-a394-08282ffae761.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "บักแตงโม Bugtangmo (2022)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2022/07/hRIpHIqc24NeVNcKgNJXttoaQ1l-200x300.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "บักแตงโม Bugtangmo (2022)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2022/07/hRIpHIqc24NeVNcKgNJXttoaQ1l-200x300.jpg",
-          "url": "https://play.kakjeawplay.xyz/43942d14-6537-44f3-8956-8c47d7aee7e3/_",
-          "info": "พากย์ไทย"
-        },
-        {
-          "name": "บักแตงโม Bugtangmo (2022)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2022/07/hRIpHIqc24NeVNcKgNJXttoaQ1l-200x300.jpg",
-          "url": "https://streamhls.com/view/d020606e-f2dc-56d3-b2cf-bc8169160c9a.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "พี่นาค 3 (2022)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2022/07/7uWGD8TaFrDsh6AUpfdJNqjn4kM-200x300.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "พี่นาค 3 (2022)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2022/07/7uWGD8TaFrDsh6AUpfdJNqjn4kM-200x300.jpg",
-          "url": "https://play.kakjeawplay.xyz/bd01ce10-1cbe-4b11-a9a2-f8c953f6d695/_",
-          "info": "พากย์ไทย"
-        },
-        {
-          "name": "พี่นาค 3 (2022)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2022/07/7uWGD8TaFrDsh6AUpfdJNqjn4kM-200x300.jpg",
-          "url": "https://streamhls.com/view/60abfaa4-7771-5e0d-abd5-8d393c67c529.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "พี่นาค 2 (2020)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2020/08/iablO2wxcgmKSl2s9LZNkJ6ewvd-200x300.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "พี่นาค 2 (2020)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/08/iablO2wxcgmKSl2s9LZNkJ6ewvd-200x300.jpg",
-          "url": "https://play.kakjeawplay.xyz/d6ad5ff2-44c8-4bbf-a033-e9719c223d5a/_",
-          "info": "พากย์ไทย"
-        },
-        {
-          "name": "พี่นาค 2 (2020)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/08/iablO2wxcgmKSl2s9LZNkJ6ewvd-200x300.jpg",
-          "url": "https://streamhls.com/view/c2bc7202-4e51-5848-b74d-c08bdd2deb18.m3u8",
           "info": "พากย์ไทย (ตัวเล่นสำรอง)"
         }
       ]
