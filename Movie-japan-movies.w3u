@@ -1,10 +1,124 @@
 {
   "name": "หนังญี่ปุ่น",
-  "author": "อัพเดท 07/04/2024",
+  "author": "อัพเดท 26/04/2024",
   "info": "",
   "image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
   "url": "https://raw.githubusercontent.com/Terminal-48/Movie-nung2hdd/main/Movie-japan-movies.w3u",
   "groups": [
+    {
+      "name": "เลิฟไลฟ์! เดอะ สคูล ไอดอล มูฟวี่ (2015)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Love-Live-The-School-Idol-Movie.jpg",
+      "info": "",
+      "stations": [
+        {
+          "name": "เลิฟไลฟ์! เดอะ สคูล ไอดอล มูฟวี่ (2015)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Love-Live-The-School-Idol-Movie.jpg",
+          "url": "https://play.kakjeawplay.xyz/3e7d7fbd-bf9b-4fd9-bed0-39a4e6e63aa2/_",
+          "info": "พากย์ไทย"
+        },
+        {
+          "name": "เลิฟไลฟ์! เดอะ สคูล ไอดอล มูฟวี่ (2015)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Love-Live-The-School-Idol-Movie.jpg",
+          "url": "https://streamhls.com/view/e731db10-78fa-522b-9710-65ddd3238219.m3u8",
+          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
+        }
+      ]
+    },
+    {
+      "name": "ศึกรุ่งอรุณ (2023)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Touken-Ranbu-2-2023.jpg",
+      "info": "",
+      "stations": [
+        {
+          "name": "ศึกรุ่งอรุณ (2023)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Touken-Ranbu-2-2023.jpg",
+          "url": "https://play.kakjeawplay.xyz/c91189d0-ebd3-4c93-81cb-c2525631dc95/_",
+          "info": "Soundtrackซับ"
+        },
+        {
+          "name": "ศึกรุ่งอรุณ (2023)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Touken-Ranbu-2-2023.jpg",
+          "url": "https://streamhls.com/view/a38faaf7-27f9-5d45-992c-b5ff8e698981.m3u8",
+          "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
+        }
+      ]
+    },
+    {
+      "name": "โรฮังกับความลับของพิพิธภัณฑ์ลูฟร์ (2023)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Rohan-at-the-Louvre.jpg",
+      "info": "",
+      "stations": [
+        {
+          "name": "โรฮังกับความลับของพิพิธภัณฑ์ลูฟร์ (2023)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Rohan-at-the-Louvre.jpg",
+          "url": "https://play.kakjeawplay.xyz/31a9d575-6466-416f-aec8-fa163dd8034b/_",
+          "info": "พากย์ไทย"
+        },
+        {
+          "name": "โรฮังกับความลับของพิพิธภัณฑ์ลูฟร์ (2023)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Rohan-at-the-Louvre.jpg",
+          "url": "https://streamhls.com/view/029d30c4-ac52-504b-b6e1-a8cfc4e99418.m3u8",
+          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
+        }
+      ]
+    },
+    {
+      "name": "หลุมหลอนซ่อนคำสาป (2023)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/The-Forbidden-Play.png",
+      "info": "",
+      "stations": [
+        {
+          "name": "หลุมหลอนซ่อนคำสาป (2023)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/The-Forbidden-Play.png",
+          "url": "https://play.kakjeawplay.xyz/bbf1af93-f718-40e9-962d-a06bd7a8d948/_",
+          "info": "พากย์ไทย"
+        },
+        {
+          "name": "หลุมหลอนซ่อนคำสาป (2023)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/The-Forbidden-Play.png",
+          "url": "https://streamhls.com/view/a40a337f-06ee-5025-a62f-a6c0a16f5c41.m3u8",
+          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
+        }
+      ]
+    },
+    {
+      "name": "One-Percenter (2023)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/One-Percenter-2023.jpg",
+      "info": "",
+      "stations": [
+        {
+          "name": "One-Percenter (2023)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/One-Percenter-2023.jpg",
+          "url": "https://play.kakjeawplay.xyz/b61ae2e6-20eb-4c9f-92f7-cb0bb4d6d433/_",
+          "info": "Soundtrackซับ"
+        },
+        {
+          "name": "One-Percenter (2023)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/One-Percenter-2023.jpg",
+          "url": "https://streamhls.com/view/ac40f672-1247-5eb0-b7fa-90e44480bde0.m3u8",
+          "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
+        }
+      ]
+    },
+    {
+      "name": "โดราเอมอน ตอน ฟากฟ้าแห่งยูโทเปียของโนบิตะ (2023)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2020/04/Doraemon-The-Movie-42-Nobita-Sky-Utopia-2023.jpg",
+      "info": "",
+      "stations": [
+        {
+          "name": "โดราเอมอน ตอน ฟากฟ้าแห่งยูโทเปียของโนบิตะ (2023)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/04/Doraemon-The-Movie-42-Nobita-Sky-Utopia-2023.jpg",
+          "url": "https://play.kakjeawplay.xyz/81487242-122b-4269-9f46-c96ab2301eee/_",
+          "info": "พากย์ไทย"
+        },
+        {
+          "name": "โดราเอมอน ตอน ฟากฟ้าแห่งยูโทเปียของโนบิตะ (2023)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/04/Doraemon-The-Movie-42-Nobita-Sky-Utopia-2023.jpg",
+          "url": "https://streamhls.com/view/fd183a3b-1e31-59fc-b141-d30a3cef4dc6.m3u8",
+          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
+        }
+      ]
+    },
     {
       "name": "ใกล้กว่านี้จะรักแล้วนะ (2023)",
       "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Takumi-kun-The-Dawn-of-the-Long-Tales-2023.jpg",
@@ -343,25 +457,6 @@
           "name": "เด็กชายกับนกกระสา (2023)",
           "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/The-Boy-and-the-Heron-2023.png",
           "url": "https://streamhls.com/view/d3fbce5d-7e55-53d7-9e28-d2f954e4f26b.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "หลุมหลอนซ่อนคำสาป (2023)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/The-Forbidden-Play.png",
-      "info": "",
-      "stations": [
-        {
-          "name": "หลุมหลอนซ่อนคำสาป (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/The-Forbidden-Play.png",
-          "url": "https://play.kakjeawplay.xyz/bdb0f1fb-f90e-4d73-958f-d47d94f14e30/_",
-          "info": "พากย์ไทย"
-        },
-        {
-          "name": "หลุมหลอนซ่อนคำสาป (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/The-Forbidden-Play.png",
-          "url": "https://streamhls.com/view/c8977c53-5c30-52a1-8a69-c193f13f30e4.m3u8",
           "info": "พากย์ไทย (ตัวเล่นสำรอง)"
         }
       ]
@@ -1167,25 +1262,6 @@
           "name": "เดธโน้ต สมุดโน้ตกระชากวิญญาณ (2006)",
           "image": "https://www.nung2hdd.com/wp-content/uploads/2023/10/Death-Note-2006.jpg",
           "url": "https://streamhls.com/view/7788de5a-88a7-5866-bce5-6d74b2a53ff1.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "โดราเอมอน ตอน ฟากฟ้าแห่งยูโทเปียของโนบิตะ (2023)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2020/04/Doraemon-The-Movie-42-Nobita-Sky-Utopia-2023.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "โดราเอมอน ตอน ฟากฟ้าแห่งยูโทเปียของโนบิตะ (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/04/Doraemon-The-Movie-42-Nobita-Sky-Utopia-2023.jpg",
-          "url": "https://play.kakjeawplay.xyz/6bf87c3a-f35e-48c5-8194-3ce8baf73d5c/_",
-          "info": "พากย์ไทย"
-        },
-        {
-          "name": "โดราเอมอน ตอน ฟากฟ้าแห่งยูโทเปียของโนบิตะ (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/04/Doraemon-The-Movie-42-Nobita-Sky-Utopia-2023.jpg",
-          "url": "https://streamhls.com/view/c45657e9-f524-5e01-9e9a-af28a5d90b98.m3u8",
           "info": "พากย์ไทย (ตัวเล่นสำรอง)"
         }
       ]
@@ -3137,101 +3213,6 @@
           "name": "ป่าผีดุ (2021)",
           "image": "https://www.nung2hdd.com/wp-content/uploads/2020/11/jukai_mura-815984100-large-200x300.jpg",
           "url": "https://streamhls.com/view/ab5cc1a7-cae1-569d-9a0c-48a1b3137553.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "ไวโอเล็ต เอเวอร์การ์เดน (2019)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2020/11/violet_evergarden_gaiden_eien_to_jido_shuki_ningyo-186426281-large-200x300.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "ไวโอเล็ต เอเวอร์การ์เดน (2019)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/11/violet_evergarden_gaiden_eien_to_jido_shuki_ningyo-186426281-large-200x300.jpg",
-          "url": "https://play.kakjeawplay.xyz/8fb0d357-7cc4-4d9f-8555-ea846322cc13/_",
-          "info": "Soundtrackซับ"
-        },
-        {
-          "name": "ไวโอเล็ต เอเวอร์การ์เดน (2019)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/11/violet_evergarden_gaiden_eien_to_jido_shuki_ningyo-186426281-large-200x300.jpg",
-          "url": "https://streamhls.com/view/69efa43e-e1c2-5e7b-9c1c-0b545ff49422.m3u8",
-          "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "เรียกเขาว่าอีกา ภาค 3 (2014)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/Crows-Explode.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "เรียกเขาว่าอีกา ภาค 3 (2014)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/Crows-Explode.jpg",
-          "url": "https://play.kakjeawplay.xyz/059b4046-493d-4a74-861e-e68c63a1271e/_",
-          "info": "พากย์ไทย"
-        },
-        {
-          "name": "เรียกเขาว่าอีกา ภาค 3 (2014)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/Crows-Explode.jpg",
-          "url": "https://streamhls.com/view/009c68bb-5052-55fd-8275-96eff7941b51.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "เรียกเขาว่า อีกา 2 (2009)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2018/05/xHRzuBpohTCQ8ve0PB2oxujLuE5.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "เรียกเขาว่า อีกา 2 (2009)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2018/05/xHRzuBpohTCQ8ve0PB2oxujLuE5.jpg",
-          "url": "https://play.kakjeawplay.xyz/a7bba83c-2291-4a29-9397-5bbe786db36d/_",
-          "info": "พากย์ไทย"
-        },
-        {
-          "name": "เรียกเขาว่า อีกา 2 (2009)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2018/05/xHRzuBpohTCQ8ve0PB2oxujLuE5.jpg",
-          "url": "https://streamhls.com/view/85580ca0-ce07-5827-8e14-4c8eafc4a70a.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "เรียกเขาว่า อีกา 1 (2007)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2014/06/Crows-Zero-2007.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "เรียกเขาว่า อีกา 1 (2007)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2014/06/Crows-Zero-2007.jpg",
-          "url": "https://play.kakjeawplay.xyz/1f617094-869a-4f24-8f5b-6aae32658108/_",
-          "info": "พากย์ไทย"
-        },
-        {
-          "name": "เรียกเขาว่า อีกา 1 (2007)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2014/06/Crows-Zero-2007.jpg",
-          "url": "https://streamhls.com/view/9fcecef1-32de-5fa3-a639-d7441a046441.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "นินจาดวงตาสยบมาร (2005)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2020/11/shinobi-227981958-large-200x300.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "นินจาดวงตาสยบมาร (2005)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/11/shinobi-227981958-large-200x300.jpg",
-          "url": "https://play.kakjeawplay.xyz/405f7e81-3b97-4105-9deb-3a5b2d59cda1/_",
-          "info": "พากย์ไทย"
-        },
-        {
-          "name": "นินจาดวงตาสยบมาร (2005)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/11/shinobi-227981958-large-200x300.jpg",
-          "url": "https://streamhls.com/view/83e1f1c1-6706-5d4c-a361-36f87994a6b5.m3u8",
           "info": "พากย์ไทย (ตัวเล่นสำรอง)"
         }
       ]
