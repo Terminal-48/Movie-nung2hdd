@@ -367,6 +367,19 @@
           "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
         }
       ]
+    },
+    {
+      "name": "มือปืนสิ้นหวัง (2024)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Desperate-Sniper-2024.jpg",
+      "info": "",
+      "stations": [
+        {
+          "name": "มือปืนสิ้นหวัง (2024)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Desperate-Sniper-2024.jpg",
+          "url": "https://streamhls.com/view/c376f815-e713-5d8c-9c79-652961665c61.m3u8",
+          "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
+        }
+      ]
     }
   ]
 }
