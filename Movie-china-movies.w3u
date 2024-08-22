@@ -380,6 +380,97 @@
           "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
         }
       ]
+    },
+    {
+      "name": "หมดหน้าตัก (2024)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/All-in-2024.jpg",
+      "info": "",
+      "stations": [
+        {
+          "name": "หมดหน้าตัก (2024)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/All-in-2024.jpg",
+          "url": "https://streamhls.com/view/8a9bcd32-1021-59e4-b30f-9d5c9481777e.m3u8",
+          "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
+        }
+      ]
+    },
+    {
+      "name": "ตี๋เหรินเจี๋ย ปริศนาโครงกระดูก (2022)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Detective-Dee-The-Skeleton-General.jpg",
+      "info": "",
+      "stations": [
+        {
+          "name": "ตี๋เหรินเจี๋ย ปริศนาโครงกระดูก (2022)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Detective-Dee-The-Skeleton-General.jpg",
+          "url": "https://streamhls.com/view/949b1418-8e8e-5aeb-ae25-b174ee447f92.m3u8",
+          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
+        }
+      ]
+    },
+    {
+      "name": "วาดรัก ใจสองดวง (2023)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/08/Painted-Heart-Twin-Tribulations-2023.jpg",
+      "info": "",
+      "stations": [
+        {
+          "name": "วาดรัก ใจสองดวง (2023)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/08/Painted-Heart-Twin-Tribulations-2023.jpg",
+          "url": "https://streamhls.com/view/5be20c23-7ce2-5263-a481-4a8b5ecebaae.m3u8",
+          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
+        }
+      ]
+    },
+    {
+      "name": "ซอมบี้ผีวัดเก่า (2024)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/05/The-Zombies-2024.png",
+      "info": "",
+      "stations": [
+        {
+          "name": "ซอมบี้ผีวัดเก่า (2024)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/05/The-Zombies-2024.png",
+          "url": "https://streamhls.com/view/a198bb78-d384-57e8-b2d8-98f83b74d534.m3u8",
+          "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
+        }
+      ]
+    },
+    {
+      "name": "คดีประหลาดแห่งจิ่วโจว (2024)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/05/Novoland-2024.png",
+      "info": "",
+      "stations": [
+        {
+          "name": "คดีประหลาดแห่งจิ่วโจว (2024)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/05/Novoland-2024.png",
+          "url": "https://streamhls.com/view/9009d562-4158-51eb-a8d3-2ee8d44ad61c.m3u8",
+          "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
+        }
+      ]
+    },
+    {
+      "name": "เจ้าสาวแห่งถ้ำบุปผาโรยรา (2024)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/05/Bride-and-The-Beast-2024.png",
+      "info": "",
+      "stations": [
+        {
+          "name": "เจ้าสาวแห่งถ้ำบุปผาโรยรา (2024)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/05/Bride-and-The-Beast-2024.png",
+          "url": "https://streamhls.com/view/48670733-3dbd-5bc3-a4b7-a1b74c0f58df.m3u8",
+          "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
+        }
+      ]
+    },
+    {
+      "name": "ตำนานเซี่ยเหยาหวนเมืองตะวันตก (2024)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/05/The-Legend-of-Xie-Yaohuan-2024.png",
+      "info": "",
+      "stations": [
+        {
+          "name": "ตำนานเซี่ยเหยาหวนเมืองตะวันตก (2024)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/05/The-Legend-of-Xie-Yaohuan-2024.png",
+          "url": "https://streamhls.com/view/6683fb0b-3f74-58ac-aade-f2e4ddd6c7e5.m3u8",
+          "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
+        }
+      ]
     }
   ]
 }
