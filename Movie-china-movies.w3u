@@ -1,10 +1,88 @@
 {
   "name": "หนังจีน",
-  "author": "อัพเดท 26/04/2024",
+  "author": "อัพเดท 22/08/2024",
   "info": "",
   "image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
   "url": "https://raw.githubusercontent.com/Terminal-48/Movie-nung2hdd/main/Movie-china-movies.w3u",
   "groups": [
+    {
+      "name": "เมืองพญายม ปิดบัญชียมบาล (2024)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/Twilight-of-the-Warriors-Walled-In-2024.jpg",
+      "info": "",
+      "stations": [
+        {
+          "name": "เมืองพญายม ปิดบัญชียมบาล (2024)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/Twilight-of-the-Warriors-Walled-In-2024.jpg",
+          "url": "https://streamhls.com/view/699c7fb8-31e4-504e-8af8-2a52ae7f644c.m3u8",
+          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
+        }
+      ]
+    },
+    {
+      "name": "ปล้นย้อนศร (2024)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/Breaking-and-Re-entering.jpg",
+      "info": "",
+      "stations": [
+        {
+          "name": "ปล้นย้อนศร (2024)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/Breaking-and-Re-entering.jpg",
+          "url": "https://streamhls.com/view/952a512c-1210-59a8-9403-ee7d9fb9e698.m3u8",
+          "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
+        }
+      ]
+    },
+    {
+      "name": "โคตรคนโค่นคนอันตราย 2 (2019)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2020/11/ja9oIIP33Pgm9295Gn67zBz8Vjy.jpg",
+      "info": "",
+      "stations": [
+        {
+          "name": "โคตรคนโค่นคนอันตราย 2 (2019)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/11/ja9oIIP33Pgm9295Gn67zBz8Vjy.jpg",
+          "url": "https://streamhls.com/view/e149d7a4-790a-59ea-9a5a-15e41616d11f.m3u8",
+          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
+        }
+      ]
+    },
+    {
+      "name": "โคตรคนโค่นคนอันตราย (2013)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2020/11/lMbSpB7e0rMWc2wMDLQFmyAYUcX.jpg",
+      "info": "",
+      "stations": [
+        {
+          "name": "โคตรคนโค่นคนอันตราย (2013)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/11/lMbSpB7e0rMWc2wMDLQFmyAYUcX.jpg",
+          "url": "https://streamhls.com/view/df510db6-0dc5-5c3f-9573-cd802526c9c9.m3u8",
+          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
+        }
+      ]
+    },
+    {
+      "name": "คนอันตรายล่าข้ามโลก 3 (2023)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/The-White-Storm-3-Heaven-or-Hell.jpg",
+      "info": "",
+      "stations": [
+        {
+          "name": "คนอันตรายล่าข้ามโลก 3 (2023)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/The-White-Storm-3-Heaven-or-Hell.jpg",
+          "url": "https://streamhls.com/view/7a0845ff-a40e-54aa-b49a-d92cbe7a60bd.m3u8",
+          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
+        }
+      ]
+    },
+    {
+      "name": "ดอกโบตั๋นที่ลุกไหม้ (2022)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/08/Burning-Peony-2022.jpg",
+      "info": "",
+      "stations": [
+        {
+          "name": "ดอกโบตั๋นที่ลุกไหม้ (2022)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/08/Burning-Peony-2022.jpg",
+          "url": "https://streamhls.com/view/f090e3bf-f82d-5d5b-919f-809de29a7ec5.m3u8",
+          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
+        }
+      ]
+    },
     {
       "name": "หมวยย้วย…มวยไม่ยอมม้วย (2024)",
       "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Yolo.jpg",
@@ -13,1161 +91,8 @@
         {
           "name": "หมวยย้วย…มวยไม่ยอมม้วย (2024)",
           "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Yolo.jpg",
-          "url": "https://play.kakjeawplay.xyz/d88648e9-ce64-49f9-ac84-d76a65881422/_",
-          "info": "พากย์ไทย"
-        },
-        {
-          "name": "หมวยย้วย…มวยไม่ยอมม้วย (2024)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Yolo.jpg",
           "url": "https://streamhls.com/view/9eead49e-4067-5485-a627-daf65d38a580.m3u8",
           "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "เดือดลุยเดี่ยว (2024)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/SRescue-on-One-s-Own.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "เดือดลุยเดี่ยว (2024)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/SRescue-on-One-s-Own.jpg",
-          "url": "https://play.kakjeawplay.xyz/92276e4f-982b-4f0b-a691-15f59d1beaed/_",
-          "info": "Soundtrackซับ"
-        },
-        {
-          "name": "เดือดลุยเดี่ยว (2024)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/SRescue-on-One-s-Own.jpg",
-          "url": "https://streamhls.com/view/286e77e4-27d1-5e17-b15d-28fa472b28f1.m3u8",
-          "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "ประกาศิตเทพปีศาจ (2024)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/The-Lord-of-The-Monsters-2024.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "ประกาศิตเทพปีศาจ (2024)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/The-Lord-of-The-Monsters-2024.jpg",
-          "url": "https://play.kakjeawplay.xyz/8c5ab3f4-780e-4f3d-8691-1aaaaebcca4c/_",
-          "info": "Soundtrackซับ"
-        },
-        {
-          "name": "ประกาศิตเทพปีศาจ (2024)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/The-Lord-of-The-Monsters-2024.jpg",
-          "url": "https://streamhls.com/view/b69ee593-d736-59b6-a250-d18a90490ee9.m3u8",
-          "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "เรื่องเล่าขานตำนานปีศาจแมว (2024)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Love-Death-and-Cat-2024.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "เรื่องเล่าขานตำนานปีศาจแมว (2024)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Love-Death-and-Cat-2024.jpg",
-          "url": "https://play.kakjeawplay.xyz/5b7e1828-282a-488e-95e6-7bfcf8f20c2c/_",
-          "info": "Soundtrackซับ"
-        },
-        {
-          "name": "เรื่องเล่าขานตำนานปีศาจแมว (2024)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Love-Death-and-Cat-2024.jpg",
-          "url": "https://streamhls.com/view/050506a2-ecd6-55b2-bce9-8fff95c20ec8.m3u8",
-          "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "เปาบุ้นจิ้น คดีประหลาดดาวปลาคู่ (2024)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/The-Mystery-of-Jade-2024.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "เปาบุ้นจิ้น คดีประหลาดดาวปลาคู่ (2024)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/The-Mystery-of-Jade-2024.jpg",
-          "url": "https://play.kakjeawplay.xyz/06d3bc0d-dbe9-4e91-9389-233a347cde4e/_",
-          "info": "Soundtrackซับ"
-        },
-        {
-          "name": "เปาบุ้นจิ้น คดีประหลาดดาวปลาคู่ (2024)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/The-Mystery-of-Jade-2024.jpg",
-          "url": "https://streamhls.com/view/7a180ccc-85a8-5030-89b0-8c607f158706.m3u8",
-          "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "รักแม่นะ (2023)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Ma-I-Love-You-2023.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "รักแม่นะ (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Ma-I-Love-You-2023.jpg",
-          "url": "https://play.kakjeawplay.xyz/7abbec9b-9bd0-49c9-a21f-f8dae8b17e9b/_",
-          "info": "Soundtrackซับ"
-        },
-        {
-          "name": "รักแม่นะ (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Ma-I-Love-You-2023.jpg",
-          "url": "https://streamhls.com/view/cfec44b0-65d0-5e43-953e-ba36c964b9a3.m3u8",
-          "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "ตำนานสู่ซาน: ยอดกระบี่หวนคืน (2022)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/02/Swords-Drawn-2022.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "ตำนานสู่ซาน: ยอดกระบี่หวนคืน (2022)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/02/Swords-Drawn-2022.jpg",
-          "url": "https://play.kakjeawplay.xyz/992470dc-f1d8-4ec9-a10b-25bf505f47a3/_",
-          "info": "พากย์ไทย"
-        },
-        {
-          "name": "ตำนานสู่ซาน: ยอดกระบี่หวนคืน (2022)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/02/Swords-Drawn-2022.jpg",
-          "url": "https://streamhls.com/view/d66296bc-09c1-5754-a521-5bd531a28127.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "ปะ ฉะ ดะ คนอัดคน (2006)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2015/02/Fatal-Contact.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "ปะ ฉะ ดะ คนอัดคน (2006)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2015/02/Fatal-Contact.jpg",
-          "url": "https://play.kakjeawplay.xyz/b8dc7aef-31bd-44fc-89b8-21511b9b11d2/_",
-          "info": "พากย์ไทย"
-        },
-        {
-          "name": "ปะ ฉะ ดะ คนอัดคน (2006)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2015/02/Fatal-Contact.jpg",
-          "url": "https://streamhls.com/view/abc847e4-5c9f-599a-8e7e-2ddf20ddb7c9.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "ซั่มกระฉูด ทะลุโตเกียว (2014)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2015/02/Naked-Ambition.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "ซั่มกระฉูด ทะลุโตเกียว (2014)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2015/02/Naked-Ambition.jpg",
-          "url": "https://play.kakjeawplay.xyz/aa9d17e1-6354-4caa-ae50-ce2ca95dc6b6/_",
-          "info": "พากย์ไทย"
-        },
-        {
-          "name": "ซั่มกระฉูด ทะลุโตเกียว (2014)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2015/02/Naked-Ambition.jpg",
-          "url": "https://streamhls.com/view/af6d853b-d955-59cf-8a0d-691e80337136.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "แฟนสาวมนุษย์กล (2020)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2020/08/Almost-Human.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "แฟนสาวมนุษย์กล (2020)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/08/Almost-Human.jpg",
-          "url": "https://play.kakjeawplay.xyz/f4057cc5-322a-4a94-ad2a-99677507bf3c/_",
-          "info": "พากย์ไทย"
-        },
-        {
-          "name": "แฟนสาวมนุษย์กล (2020)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/08/Almost-Human.jpg",
-          "url": "https://streamhls.com/view/a819e65c-90d3-5324-bcf3-c40fa6a2a423.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "มหากาพย์ปล้นจารชน (2024)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/Rob-N-Roll.png",
-      "info": "",
-      "stations": [
-        {
-          "name": "มหากาพย์ปล้นจารชน (2024)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/Rob-N-Roll.png",
-          "url": "https://play.kakjeawplay.xyz/b387c531-6b79-435a-aca6-fe3faaa80f8f/_",
-          "info": "พากย์ไทย"
-        },
-        {
-          "name": "มหากาพย์ปล้นจารชน (2024)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/Rob-N-Roll.png",
-          "url": "https://streamhls.com/view/3822fa88-df7d-5fb2-b8f0-3266a1fefed9.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "บทลงโทษความชั่วร้าย (2024)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/Punish-Evil.png",
-      "info": "",
-      "stations": [
-        {
-          "name": "บทลงโทษความชั่วร้าย (2024)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/Punish-Evil.png",
-          "url": "https://play.kakjeawplay.xyz/bf71fc73-f93f-4ca5-9f4f-a7a5cd22c710/_",
-          "info": "Soundtrackซับ"
-        },
-        {
-          "name": "บทลงโทษความชั่วร้าย (2024)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/Punish-Evil.png",
-          "url": "https://streamhls.com/view/4f12ea90-bc90-59fe-b1ae-48ca421210d1.m3u8",
-          "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "ปิดหน่วยล่า คนหมาเดือด (2013)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2015/02/Badges-Of-Fury.png",
-      "info": "",
-      "stations": [
-        {
-          "name": "ปิดหน่วยล่า คนหมาเดือด (2013)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2015/02/Badges-Of-Fury.png",
-          "url": "https://play.kakjeawplay.xyz/a4496d3c-c713-4736-b87e-872dfce9da7e/_",
-          "info": "พากย์ไทย"
-        },
-        {
-          "name": "ปิดหน่วยล่า คนหมาเดือด (2013)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2015/02/Badges-Of-Fury.png",
-          "url": "https://streamhls.com/view/66e545aa-52b0-5d98-872c-c823ea369f36.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "ไล่ล่าวายร้าย (2024)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/HUNT-THE-WICKED.png",
-      "info": "",
-      "stations": [
-        {
-          "name": "ไล่ล่าวายร้าย (2024)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/HUNT-THE-WICKED.png",
-          "url": "https://play.kakjeawplay.xyz/f0df85e1-9e7a-429f-a950-79848723ff9a/_",
-          "info": "Soundtrackซับ"
-        },
-        {
-          "name": "ไล่ล่าวายร้าย (2024)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/HUNT-THE-WICKED.png",
-          "url": "https://streamhls.com/view/1612707d-c851-5637-b0e7-01266c5cd4c4.m3u8",
-          "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "ศึกท้าดวลเดือด (2024)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/The-Lost-Man.png",
-      "info": "",
-      "stations": [
-        {
-          "name": "ศึกท้าดวลเดือด (2024)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/The-Lost-Man.png",
-          "url": "https://play.kakjeawplay.xyz/3ed09450-6a2a-443b-b9e3-7048614ec010/_",
-          "info": "Soundtrackซับ"
-        },
-        {
-          "name": "ศึกท้าดวลเดือด (2024)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/The-Lost-Man.png",
-          "url": "https://streamhls.com/view/a9bf4bf2-9094-582d-a141-05350a537de9.m3u8",
-          "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "โคตรพยัคฆ์ชนคนมือทอง (2023)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/The-Goldfinger.png",
-      "info": "",
-      "stations": [
-        {
-          "name": "โคตรพยัคฆ์ชนคนมือทอง (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/The-Goldfinger.png",
-          "url": "https://play.kakjeawplay.xyz/714e1992-a2cf-4e89-8d39-787f98e0f29d/_",
-          "info": "พากย์ไทย"
-        },
-        {
-          "name": "โคตรพยัคฆ์ชนคนมือทอง (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/The-Goldfinger.png",
-          "url": "https://streamhls.com/view/870d1269-ae60-5af3-a03f-09ed898eabc0.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "ยุทธภูมิทะเลแดง (2018)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2018/10/Operation-Red-Sea.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "ยุทธภูมิทะเลแดง (2018)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2018/10/Operation-Red-Sea.jpg",
-          "url": "https://play.kakjeawplay.xyz/c00839de-6af6-4de9-99d1-254581cef06e/_",
-          "info": "พากย์ไทย"
-        },
-        {
-          "name": "ยุทธภูมิทะเลแดง (2018)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2018/10/Operation-Red-Sea.jpg",
-          "url": "https://streamhls.com/view/3038d0af-f7e4-50a6-8d82-bc71f69324d2.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "เรื่องลึกลับคืนฝนตกกับโคมไฟฤดูใบไม้ผลิ (2024)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/Night-Rain-and-Autumn-Lantern-Hear-Strange-Stories-2024.png",
-      "info": "",
-      "stations": [
-        {
-          "name": "เรื่องลึกลับคืนฝนตกกับโคมไฟฤดูใบไม้ผลิ (2024)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/Night-Rain-and-Autumn-Lantern-Hear-Strange-Stories-2024.png",
-          "url": "https://play.kakjeawplay.xyz/8f7d2719-21ed-433b-a7ed-9a7e5d460a23/_",
-          "info": "Soundtrackซับ"
-        },
-        {
-          "name": "เรื่องลึกลับคืนฝนตกกับโคมไฟฤดูใบไม้ผลิ (2024)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/Night-Rain-and-Autumn-Lantern-Hear-Strange-Stories-2024.png",
-          "url": "https://streamhls.com/view/ea9cf719-95b8-521c-b259-e15682521e02.m3u8",
-          "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "เรื่องแปลกเซียงซี (2024)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/XIANGXI-GUISHI-2024.png",
-      "info": "",
-      "stations": [
-        {
-          "name": "เรื่องแปลกเซียงซี (2024)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/XIANGXI-GUISHI-2024.png",
-          "url": "https://play.kakjeawplay.xyz/633506c1-008c-448b-b68a-6bb269f35948/_",
-          "info": "Soundtrackซับ"
-        },
-        {
-          "name": "เรื่องแปลกเซียงซี (2024)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/XIANGXI-GUISHI-2024.png",
-          "url": "https://streamhls.com/view/d14f2130-c502-519d-8620-77f7334c1c19.m3u8",
-          "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "สงครามมหาโหด (2024)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/CRUEL-WAR-2024.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "สงครามมหาโหด (2024)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/CRUEL-WAR-2024.jpg",
-          "url": "https://play.kakjeawplay.xyz/c355b610-8241-4320-8a1f-855e62812b12/_",
-          "info": "Soundtrackซับ"
-        },
-        {
-          "name": "สงครามมหาโหด (2024)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/CRUEL-WAR-2024.jpg",
-          "url": "https://streamhls.com/view/02ed326d-f4f2-53ff-9848-c838b1c9554b.m3u8",
-          "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "นักดาบคนแปลกหน้า (2024)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/The-Wild-Blade-of-Strangers-2024.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "นักดาบคนแปลกหน้า (2024)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/The-Wild-Blade-of-Strangers-2024.jpg",
-          "url": "https://play.kakjeawplay.xyz/ec6592c9-ff22-4467-8224-4fb395d5e25b/_",
-          "info": "Soundtrackซับ"
-        },
-        {
-          "name": "นักดาบคนแปลกหน้า (2024)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/The-Wild-Blade-of-Strangers-2024.jpg",
-          "url": "https://streamhls.com/view/1cee764f-7c6c-5d45-99f3-274e4265f08a.m3u8",
-          "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "สามผู้กล้าท้าแม่น้ำลับ (2023)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/The-River-2023.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "สามผู้กล้าท้าแม่น้ำลับ (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/The-River-2023.jpg",
-          "url": "https://play.kakjeawplay.xyz/06afe1fb-2582-4fa7-a59f-09009c0accf0/_",
-          "info": "พากย์ไทย"
-        },
-        {
-          "name": "สามผู้กล้าท้าแม่น้ำลับ (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/The-River-2023.jpg",
-          "url": "https://streamhls.com/view/28193662-b09a-5994-8f80-ccd4eeefc5a6.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "สุสานเมืองกู่โหลว (2024)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/Ancient-Building-Town-Mausoleum-Palace-2024.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "สุสานเมืองกู่โหลว (2024)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/Ancient-Building-Town-Mausoleum-Palace-2024.jpg",
-          "url": "https://play.kakjeawplay.xyz/c5ce6b33-befc-42ba-9249-8452901fce75/_",
-          "info": "Soundtrackซับ"
-        },
-        {
-          "name": "สุสานเมืองกู่โหลว (2024)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/Ancient-Building-Town-Mausoleum-Palace-2024.jpg",
-          "url": "https://streamhls.com/view/39cff2eb-2e3e-5fb2-b3d0-709115247848.m3u8",
-          "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "ขวางม้าและคว้าดาบ (2024)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/BLOCKING-THE-HORSE-2024.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "ขวางม้าและคว้าดาบ (2024)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/BLOCKING-THE-HORSE-2024.jpg",
-          "url": "https://play.kakjeawplay.xyz/136161da-8914-4474-b44c-cbe42b5cc227/_",
-          "info": "Soundtrackซับ"
-        },
-        {
-          "name": "ขวางม้าและคว้าดาบ (2024)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/BLOCKING-THE-HORSE-2024.jpg",
-          "url": "https://streamhls.com/view/82dd538d-5343-567b-b75f-24fa53dbfb8f.m3u8",
-          "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "ชั่ว เลว เหี้ยม (2023)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/the-Snake-and-the-Pigeon-2023.png",
-      "info": "",
-      "stations": [
-        {
-          "name": "ชั่ว เลว เหี้ยม (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/the-Snake-and-the-Pigeon-2023.png",
-          "url": "https://play.kakjeawplay.xyz/c0f2aeeb-ce38-4880-8abc-0306e179a0bf/_",
-          "info": "Soundtrackซับ"
-        },
-        {
-          "name": "ชั่ว เลว เหี้ยม (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/the-Snake-and-the-Pigeon-2023.png",
-          "url": "https://streamhls.com/view/d408fd99-019b-5995-9ce9-1e6dcaa965ac.m3u8",
-          "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "ตี๋เหรินเจี๋ยปีศาจแห่งจันทร์ (2024)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/02/Detective-Dee-and-the-Phantom-of-Waning-Moon-2024.png",
-      "info": "",
-      "stations": [
-        {
-          "name": "ตี๋เหรินเจี๋ยปีศาจแห่งจันทร์ (2024)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/02/Detective-Dee-and-the-Phantom-of-Waning-Moon-2024.png",
-          "url": "https://play.kakjeawplay.xyz/80c71999-82c0-4117-9eea-32757bcc487d/_",
-          "info": "Soundtrackซับ"
-        },
-        {
-          "name": "ตี๋เหรินเจี๋ยปีศาจแห่งจันทร์ (2024)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/02/Detective-Dee-and-the-Phantom-of-Waning-Moon-2024.png",
-          "url": "https://streamhls.com/view/e238f407-bcea-5ceb-aee8-066d4cfe9216.m3u8",
-          "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "ตำนานปลาแฮร์ริ่ง (2022)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/02/The-Legend-of-Herring.png",
-      "info": "",
-      "stations": [
-        {
-          "name": "ตำนานปลาแฮร์ริ่ง (2022)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/02/The-Legend-of-Herring.png",
-          "url": "https://play.kakjeawplay.xyz/9065c547-388c-4801-a79c-9c413247a6f3/_",
-          "info": "พากย์ไทย"
-        },
-        {
-          "name": "ตำนานปลาแฮร์ริ่ง (2022)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/02/The-Legend-of-Herring.png",
-          "url": "https://streamhls.com/view/f699cd68-4fa5-5fd4-82cd-502a8f834120.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "บันทึกดาบโบราณ (2024)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Sword-E-Flag-2024.png",
-      "info": "",
-      "stations": [
-        {
-          "name": "บันทึกดาบโบราณ (2024)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Sword-E-Flag-2024.png",
-          "url": "https://play.kakjeawplay.xyz/e3efe3ff-aa35-4145-81e7-ebc69f567987/_",
-          "info": "Soundtrackซับ"
-        },
-        {
-          "name": "บันทึกดาบโบราณ (2024)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Sword-E-Flag-2024.png",
-          "url": "https://streamhls.com/view/121d9389-b7f8-5caf-97b2-8c675961b5c5.m3u8",
-          "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "แก๊งโฉด โคตรระห่ำ (2024)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Wolf-Hiding-2023.png",
-      "info": "",
-      "stations": [
-        {
-          "name": "แก๊งโฉด โคตรระห่ำ (2024)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Wolf-Hiding-2023.png",
-          "url": "https://play.kakjeawplay.xyz/a63c161d-d418-4995-bc19-4a5baea6691d/_",
-          "info": "Soundtrackซับ"
-        },
-        {
-          "name": "แก๊งโฉด โคตรระห่ำ (2024)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Wolf-Hiding-2023.png",
-          "url": "https://streamhls.com/view/d05af8d0-e2f8-5567-8cdc-5325429091f6.m3u8",
-          "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "แด่หัวใจแม่ แด่หัวใจลูก (1993)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/The-Joy-Luck-Club.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "แด่หัวใจแม่ แด่หัวใจลูก (1993)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/The-Joy-Luck-Club.jpg",
-          "url": "https://play.kakjeawplay.xyz/e4c95831-5413-4fa7-911e-687a7bc6f71f/_",
-          "info": "พากย์ไทย"
-        },
-        {
-          "name": "แด่หัวใจแม่ แด่หัวใจลูก (1993)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/The-Joy-Luck-Club.jpg",
-          "url": "https://streamhls.com/view/342f3ca6-67fe-5874-b83f-cad6930cc562.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "ภารกิจท้านรก (2023)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Moscow-Mission.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "ภารกิจท้านรก (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Moscow-Mission.jpg",
-          "url": "https://play.kakjeawplay.xyz/fe16f2ff-e07e-4990-a8ca-c8f052de2c8e/_",
-          "info": "พากย์ไทย"
-        },
-        {
-          "name": "ภารกิจท้านรก (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Moscow-Mission.jpg",
-          "url": "https://streamhls.com/view/300bcad2-f13d-5f4e-a40e-950c66bfbfb6.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "สงครามพินาศ (2024)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Break-War.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "สงครามพินาศ (2024)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Break-War.jpg",
-          "url": "https://play.kakjeawplay.xyz/2396ddca-d93b-42c6-9bc6-b864301da49a/_",
-          "info": "Soundtrackซับ"
-        },
-        {
-          "name": "สงครามพินาศ (2024)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Break-War.jpg",
-          "url": "https://streamhls.com/view/0baeba3b-bc88-5360-8028-4bd011cd67f5.m3u8",
-          "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "ล่าขุมทรัพย์ สุสานโบราณ (2022)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/08/Coffin-Mountain-Tomb-2022.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "ล่าขุมทรัพย์ สุสานโบราณ (2022)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/08/Coffin-Mountain-Tomb-2022.jpg",
-          "url": "https://play.kakjeawplay.xyz/4822913b-4b35-477b-a49c-6ae84c7384b9/_",
-          "info": "พากย์ไทย"
-        },
-        {
-          "name": "ล่าขุมทรัพย์ สุสานโบราณ (2022)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/08/Coffin-Mountain-Tomb-2022.jpg",
-          "url": "https://streamhls.com/view/47f532bb-43d5-50b2-b8a5-679e43e79e76.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "Love for Life (Zui ai) (2011)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Love-for-Life-2011.png",
-      "info": "",
-      "stations": [
-        {
-          "name": "Love for Life (Zui ai) (2011)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Love-for-Life-2011.png",
-          "url": "https://play.kakjeawplay.xyz/4b86bf47-e05d-435a-b2e1-ca6fc21dfde0/_",
-          "info": "พากย์ไทย"
-        },
-        {
-          "name": "Love for Life (Zui ai) (2011)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Love-for-Life-2011.png",
-          "url": "https://streamhls.com/view/186a5809-f8ff-5d2a-83ad-ec4c4a5be020.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "ความลับเมืองหลงเฉิง (2024)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/The-Longcheng-Mystery-Case-2024.png",
-      "info": "",
-      "stations": [
-        {
-          "name": "ความลับเมืองหลงเฉิง (2024)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/The-Longcheng-Mystery-Case-2024.png",
-          "url": "https://play.kakjeawplay.xyz/a8f456a9-d178-4d48-8994-9ca83175a6c5/_",
-          "info": "Soundtrackซับ"
-        },
-        {
-          "name": "ความลับเมืองหลงเฉิง (2024)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/The-Longcheng-Mystery-Case-2024.png",
-          "url": "https://streamhls.com/view/eabadae7-f7d0-59a4-8517-652df95cef81.m3u8",
-          "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "โรงเรียนผีเฮี้ยน (2023)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/The-Bridge-Curse-Ritual-2023.png",
-      "info": "",
-      "stations": [
-        {
-          "name": "โรงเรียนผีเฮี้ยน (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/The-Bridge-Curse-Ritual-2023.png",
-          "url": "https://play.kakjeawplay.xyz/9a8b5aba-80ff-4e98-bfa1-3e58b1d2aa94/_",
-          "info": "Soundtrackซับ"
-        },
-        {
-          "name": "โรงเรียนผีเฮี้ยน (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/The-Bridge-Curse-Ritual-2023.png",
-          "url": "https://streamhls.com/view/63cdb51f-9bbb-5290-b542-4a0bb1e03139.m3u8",
-          "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "เหนือพยัคฆ์ (1971)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/A-Touch-of-Zen.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "เหนือพยัคฆ์ (1971)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/A-Touch-of-Zen.jpg",
-          "url": "https://play.kakjeawplay.xyz/b01e748b-a925-4008-860c-b22221af4609/_",
-          "info": "Soundtrackซับ"
-        },
-        {
-          "name": "เหนือพยัคฆ์ (1971)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/A-Touch-of-Zen.jpg",
-          "url": "https://streamhls.com/view/127c517b-5529-56ae-825c-873595621707.m3u8",
-          "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "Nai Nai & Wai Po (2023)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Nai-Nai-Wai-Po-2023-1.png",
-      "info": "",
-      "stations": [
-        {
-          "name": "Nai Nai & Wai Po (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Nai-Nai-Wai-Po-2023-1.png",
-          "url": "https://play.kakjeawplay.xyz/5cf2aa58-1fa3-4df0-a66c-63adac4aba80/_",
-          "info": "Soundtrackซับ"
-        },
-        {
-          "name": "Nai Nai & Wai Po (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Nai-Nai-Wai-Po-2023-1.png",
-          "url": "https://streamhls.com/view/3a623a6e-c2aa-5ce3-884a-ee7eb557b858.m3u8",
-          "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "คนหมาเดือด (2005)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2015/12/Unleashed.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "คนหมาเดือด (2005)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2015/12/Unleashed.jpg",
-          "url": "https://play.kakjeawplay.xyz/04bdb55c-b4cf-4f22-8056-21e0b4d81946/_",
-          "info": "พากย์ไทย"
-        },
-        {
-          "name": "คนหมาเดือด (2005)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2015/12/Unleashed.jpg",
-          "url": "https://streamhls.com/view/bab8d02b-4797-5886-8f86-68117bb9080f.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "ผู้พิทักษ์หมัดเทวดา 2 (2022)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/02/The-Thousand-Faces-of-Dunshu-2.png",
-      "info": "",
-      "stations": [
-        {
-          "name": "ผู้พิทักษ์หมัดเทวดา 2 (2022)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/02/The-Thousand-Faces-of-Dunshu-2.png",
-          "url": "https://play.kakjeawplay.xyz/75c6b50d-80bb-412d-8176-d6aad232c045/_",
-          "info": "พากย์ไทย"
-        },
-        {
-          "name": "ผู้พิทักษ์หมัดเทวดา 2 (2022)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/02/The-Thousand-Faces-of-Dunshu-2.png",
-          "url": "https://streamhls.com/view/9c9114e0-536b-5dc6-aea2-bd1a17d72113.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "ควบสู้ฟัด (2023)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/06/Ride-On-2023.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "ควบสู้ฟัด (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/06/Ride-On-2023.jpg",
-          "url": "https://play.kakjeawplay.xyz/8f80fb16-19e3-48fe-a214-b263abffa8bb/_",
-          "info": "พากย์ไทย"
-        },
-        {
-          "name": "ควบสู้ฟัด (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/06/Ride-On-2023.jpg",
-          "url": "https://streamhls.com/view/4b5d99b8-8392-5ea5-ac0d-dba321c04069.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "กำเนิดเทพเจ้า 1: อาณาจักรแห่งพายุ (2023)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Creation-of-the-Gods-I-Kingdom-of-Storms-2023.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "กำเนิดเทพเจ้า 1: อาณาจักรแห่งพายุ (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Creation-of-the-Gods-I-Kingdom-of-Storms-2023.jpg",
-          "url": "https://play.kakjeawplay.xyz/4a780de5-d065-45d8-be13-27e66651f967/_",
-          "info": "Soundtrackซับ"
-        },
-        {
-          "name": "กำเนิดเทพเจ้า 1: อาณาจักรแห่งพายุ (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Creation-of-the-Gods-I-Kingdom-of-Storms-2023.jpg",
-          "url": "https://streamhls.com/view/496178a0-9660-533c-b32c-5f3666d4223b.m3u8",
-          "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "กับดักรักอำพราง (2023)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Lost-in-Perfection-2023.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "กับดักรักอำพราง (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Lost-in-Perfection-2023.jpg",
-          "url": "https://play.kakjeawplay.xyz/9011a0cd-7ed6-4994-963c-0a328d193656/_",
-          "info": "Soundtrackซับ"
-        },
-        {
-          "name": "กับดักรักอำพราง (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Lost-in-Perfection-2023.jpg",
-          "url": "https://streamhls.com/view/fc3693d6-e75d-5eff-8bda-9ce2a9ab4779.m3u8",
-          "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "ในแดนราชินี (2024)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/The-Land-of-Women-2024.png",
-      "info": "",
-      "stations": [
-        {
-          "name": "ในแดนราชินี (2024)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/The-Land-of-Women-2024.png",
-          "url": "https://play.kakjeawplay.xyz/f49209e2-6512-4ab7-a937-a30781a57f11/_",
-          "info": "Soundtrackซับ"
-        },
-        {
-          "name": "ในแดนราชินี (2024)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/The-Land-of-Women-2024.png",
-          "url": "https://streamhls.com/view/b2854583-b777-59db-b0a3-916cd51e5fba.m3u8",
-          "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "ยุทธจักรของคนเลว (2024)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/The-Story-of-Yuan-Tiangang-2024.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "ยุทธจักรของคนเลว (2024)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/The-Story-of-Yuan-Tiangang-2024.jpg",
-          "url": "https://play.kakjeawplay.xyz/df02e20f-00de-4013-b05d-2ec1f86edb9a/_",
-          "info": "Soundtrackซับ"
-        },
-        {
-          "name": "ยุทธจักรของคนเลว (2024)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/The-Story-of-Yuan-Tiangang-2024.jpg",
-          "url": "https://streamhls.com/view/3a51500f-d800-5c0e-ad90-a07e44925386.m3u8",
-          "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "เรื่องประหลาดฉางเล่อ (2024)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/The-Legend-of-Bayi-s-Grandpa-2024.png",
-      "info": "",
-      "stations": [
-        {
-          "name": "เรื่องประหลาดฉางเล่อ (2024)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/The-Legend-of-Bayi-s-Grandpa-2024.png",
-          "url": "https://play.kakjeawplay.xyz/1ffa7051-3c86-4b0e-9ea2-e167d58462ee/_",
-          "info": "Soundtrackซับ"
-        },
-        {
-          "name": "เรื่องประหลาดฉางเล่อ (2024)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/The-Legend-of-Bayi-s-Grandpa-2024.png",
-          "url": "https://streamhls.com/view/4b2acf31-a3c2-5b83-8423-1f79593a1742.m3u8",
-          "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "ตี๋เหรินเจี๋ย ผจญกับดักเทพมังกร (2013)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2018/08/Young-Detective-Dee-Rise-of-the-Sea-Dragon.png",
-      "info": "",
-      "stations": [
-        {
-          "name": "ตี๋เหรินเจี๋ย ผจญกับดักเทพมังกร (2013)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2018/08/Young-Detective-Dee-Rise-of-the-Sea-Dragon.png",
-          "url": "https://play.kakjeawplay.xyz/eb8cb8f1-ffb8-4017-99c4-dc1949960354/_",
-          "info": "พากย์ไทย"
-        },
-        {
-          "name": "ตี๋เหรินเจี๋ย ผจญกับดักเทพมังกร (2013)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2018/08/Young-Detective-Dee-Rise-of-the-Sea-Dragon.png",
-          "url": "https://streamhls.com/view/071fffb8-ec6b-57d4-b736-d45e7106060b.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "ตี๋เหรินเจี๋ย ปริศนาพลิกฟ้า 4 จตุรเทพ (2018)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2019/06/Detective-Dee-The-Four-Heavenly-Kings.png",
-      "info": "",
-      "stations": [
-        {
-          "name": "ตี๋เหรินเจี๋ย ปริศนาพลิกฟ้า 4 จตุรเทพ (2018)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2019/06/Detective-Dee-The-Four-Heavenly-Kings.png",
-          "url": "https://play.kakjeawplay.xyz/e6b4d0a5-d904-44b9-9ad4-e220eba36bb6/_",
-          "info": "พากย์ไทย"
-        },
-        {
-          "name": "ตี๋เหรินเจี๋ย ปริศนาพลิกฟ้า 4 จตุรเทพ (2018)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2019/06/Detective-Dee-The-Four-Heavenly-Kings.png",
-          "url": "https://streamhls.com/view/a0d80ec5-0806-5993-9a44-105feb33f11d.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "ตี๋เหรินเจี๋ย คลองมังกรผวา (2023)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Legend-Of-Detective-Dee-2023.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "ตี๋เหรินเจี๋ย คลองมังกรผวา (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Legend-Of-Detective-Dee-2023.jpg",
-          "url": "https://play.kakjeawplay.xyz/1e955e11-2fed-431b-a4ee-5ae8d707aba4/_",
-          "info": "พากย์ไทย"
-        },
-        {
-          "name": "ตี๋เหรินเจี๋ย คลองมังกรผวา (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Legend-Of-Detective-Dee-2023.jpg",
-          "url": "https://streamhls.com/view/23765029-23c7-5250-a7c8-eead3dd1f861.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "ไล่ล่าเพราะข้าโกรธ (2023)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Angry-Pursuit-2023.png",
-      "info": "",
-      "stations": [
-        {
-          "name": "ไล่ล่าเพราะข้าโกรธ (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Angry-Pursuit-2023.png",
-          "url": "https://play.kakjeawplay.xyz/95d365af-7826-4239-a615-7867fa4ab016/_",
-          "info": "Soundtrackซับ"
-        },
-        {
-          "name": "ไล่ล่าเพราะข้าโกรธ (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Angry-Pursuit-2023.png",
-          "url": "https://streamhls.com/view/7a759d11-9589-51c6-97a4-f0c0636fb316.m3u8",
-          "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "ซิ่งให้สุดหยุดที่เธอ (2021)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2022/08/Ne-Zha-2021.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "ซิ่งให้สุดหยุดที่เธอ (2021)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2022/08/Ne-Zha-2021.jpg",
-          "url": "https://play.kakjeawplay.xyz/f8c50f7f-6bf7-4bc1-9a22-62d0640abd0d/_",
-          "info": "พากย์ไทย"
-        },
-        {
-          "name": "ซิ่งให้สุดหยุดที่เธอ (2021)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2022/08/Ne-Zha-2021.jpg",
-          "url": "https://streamhls.com/view/b3298e63-5f65-5c01-9174-54a1f28c85cd.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "อาชญากรระห่ำ (2024)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Desperado-2024-IQIYI.png",
-      "info": "",
-      "stations": [
-        {
-          "name": "อาชญากรระห่ำ (2024)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Desperado-2024-IQIYI.png",
-          "url": "https://play.kakjeawplay.xyz/6fda9659-9a7a-43ab-9ce2-cf6aa5af338a/_",
-          "info": "Soundtrackซับ"
-        },
-        {
-          "name": "อาชญากรระห่ำ (2024)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Desperado-2024-IQIYI.png",
-          "url": "https://streamhls.com/view/4af7fe05-c4b9-5cbc-8c1d-c3144c25e04d.m3u8",
-          "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "ปราบยาสายฟ้าฟาด (2023)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Thunder-rescue-2023-IQIYI.png",
-      "info": "",
-      "stations": [
-        {
-          "name": "ปราบยาสายฟ้าฟาด (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Thunder-rescue-2023-IQIYI.png",
-          "url": "https://play.kakjeawplay.xyz/d6c1e041-4dfd-47ee-aede-0048ab1748a5/_",
-          "info": "Soundtrackซับ"
-        },
-        {
-          "name": "ปราบยาสายฟ้าฟาด (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Thunder-rescue-2023-IQIYI.png",
-          "url": "https://streamhls.com/view/845e113d-492b-5698-9891-18c5028bbdd3.m3u8",
-          "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "สระนาคาพิศวง (2023)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Snake-Beauty-2023.png",
-      "info": "",
-      "stations": [
-        {
-          "name": "สระนาคาพิศวง (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Snake-Beauty-2023.png",
-          "url": "https://streamhls.com/view/04e9744e-602a-59cd-a7c4-96ffe36f439e.m3u8",
-          "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "ลุยสุสานพระราชวัง (2023)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Misty-Creed-2023.png",
-      "info": "",
-      "stations": [
-        {
-          "name": "ลุยสุสานพระราชวัง (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Misty-Creed-2023.png",
-          "url": "https://play.kakjeawplay.xyz/88ebba0b-6779-4830-8dad-7a1bf4d4da23/_",
-          "info": "Soundtrackซับ"
-        },
-        {
-          "name": "ลุยสุสานพระราชวัง (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Misty-Creed-2023.png",
-          "url": "https://streamhls.com/view/cce3c708-c6bf-5f50-a66f-311a0b67cd28.m3u8",
-          "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "จอมเวทย์มายา (2023)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/The-Great-Magician-2023.png",
-      "info": "",
-      "stations": [
-        {
-          "name": "จอมเวทย์มายา (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/The-Great-Magician-2023.png",
-          "url": "https://streamhls.com/view/255294e1-83ab-52d2-b500-83c8317017b2.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "ในนามของความยุติธรรม (2023)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/The-battle-for-justice.png",
-      "info": "",
-      "stations": [
-        {
-          "name": "ในนามของความยุติธรรม (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/The-battle-for-justice.png",
-          "url": "https://play.kakjeawplay.xyz/a526359f-fc9a-4060-b61c-22ac3e35b12e/_",
-          "info": "Soundtrackซับ"
-        },
-        {
-          "name": "ในนามของความยุติธรรม (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/The-battle-for-justice.png",
-          "url": "https://streamhls.com/view/1265cf67-4eaf-5d84-a5af-e70273feb6da.m3u8",
-          "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "สมบัติจักรพรรดิ (2023)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/the-Ennead-legacy-of-yuhuang.png",
-      "info": "",
-      "stations": [
-        {
-          "name": "สมบัติจักรพรรดิ (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/the-Ennead-legacy-of-yuhuang.png",
-          "url": "https://play.kakjeawplay.xyz/b34306c6-f887-4271-8271-89cd5eae9d9c/_",
-          "info": "Soundtrackซับ"
-        },
-        {
-          "name": "สมบัติจักรพรรดิ (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/the-Ennead-legacy-of-yuhuang.png",
-          "url": "https://streamhls.com/view/f4c52a78-3138-5fac-a2b5-8e57374f8c98.m3u8",
-          "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "คู่มหาประลัย อุบัติการณ์ถล่มเมือง (2012)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Black-White-The-Dawn-of-Assault-2012.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "คู่มหาประลัย อุบัติการณ์ถล่มเมือง (2012)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Black-White-The-Dawn-of-Assault-2012.jpg",
-          "url": "https://play.kakjeawplay.xyz/dc96a537-e4be-403a-9220-70cc698cc048/_",
-          "info": "พากย์ไทย"
-        },
-        {
-          "name": "คู่มหาประลัย อุบัติการณ์ถล่มเมือง (2012)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Black-White-The-Dawn-of-Assault-2012.jpg",
-          "url": "https://streamhls.com/view/815a3ee9-8d73-5e7f-9b10-c8c4df5750c8.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "คู่มหาประลัย ไวรัสล้างโลก (2014)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2015/06/Black-White-The-Dawn-of-Justice.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "คู่มหาประลัย ไวรัสล้างโลก (2014)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2015/06/Black-White-The-Dawn-of-Justice.jpg",
-          "url": "https://play.kakjeawplay.xyz/2e7b1689-80db-49ef-a37b-f5b990673fc9/_",
-          "info": "พากย์ไทย"
-        },
-        {
-          "name": "คู่มหาประลัย ไวรัสล้างโลก (2014)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2015/06/Black-White-The-Dawn-of-Justice.jpg",
-          "url": "https://streamhls.com/view/4381c9ea-d28f-5fee-9a3f-c02cea2783d1.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "ชะตานำพารัก (2023)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/TALE-OF-PHANTOM-A-LOVE-STORY-2023.png",
-      "info": "",
-      "stations": [
-        {
-          "name": "ชะตานำพารัก (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/TALE-OF-PHANTOM-A-LOVE-STORY-2023.png",
-          "url": "https://play.kakjeawplay.xyz/4e76874f-7b72-4600-9fcf-f93ca031dbd2/_",
-          "info": "Soundtrackซับ"
-        },
-        {
-          "name": "ชะตานำพารัก (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/TALE-OF-PHANTOM-A-LOVE-STORY-2023.png",
-          "url": "https://streamhls.com/view/4fbac75d-5b43-5f6a-ae6f-9dcc3a8ef0f9.m3u8",
-          "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "รอยเท้าคู่ที่สาม (2023)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Third-pair-of-shoe-prints.png",
-      "info": "",
-      "stations": [
-        {
-          "name": "รอยเท้าคู่ที่สาม (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Third-pair-of-shoe-prints.png",
-          "url": "https://play.kakjeawplay.xyz/ed90d8ae-72c4-4b57-91e3-404380b7a5ce/_",
-          "info": "Soundtrackซับ"
-        },
-        {
-          "name": "รอยเท้าคู่ที่สาม (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Third-pair-of-shoe-prints.png",
-          "url": "https://streamhls.com/view/baf667fb-84ef-5029-b8d1-3ca40d804fd2.m3u8",
-          "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
         }
       ]
     },
@@ -1179,509 +104,59 @@
         {
           "name": "ฝ่ายุทธการ โคตรทีมมหาประลัย (2022)",
           "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Wolf-Pack-2022.jpg",
-          "url": "https://play.kakjeawplay.xyz/e30d7d00-5eab-4a12-a84d-0c128a74010b/_",
-          "info": "พากย์ไทย"
-        },
-        {
-          "name": "ฝ่ายุทธการ โคตรทีมมหาประลัย (2022)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Wolf-Pack-2022.jpg",
           "url": "https://streamhls.com/view/1f761225-5046-5654-bc52-505e0107c8bf.m3u8",
           "info": "พากย์ไทย (ตัวเล่นสำรอง)"
         }
       ]
     },
     {
-      "name": "นักสู้หมัดเทวดา (2004)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Xanda-2004.jpg",
+      "name": "มือปืนคนแกร่ง (2024)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Hard-guy-sniper.jpg",
       "info": "",
-      "stations": [
-        {
-          "name": "นักสู้หมัดเทวดา (2004)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Xanda-2004.jpg",
-          "url": "https://streamhls.com/view/0ff510e0-7960-5cec-abbd-5131c716e595.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
+      "stations": []
     },
     {
-      "name": "นักสืบหน่วยหลอน (2019)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/The-9th-Precinct.jpg",
+      "name": "ปฏิบัติการช่วยเธอจากนรก (2024)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Curbing-Violence.jpg",
       "info": "",
       "stations": [
         {
-          "name": "นักสืบหน่วยหลอน (2019)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/The-9th-Precinct.jpg",
-          "url": "https://streamhls.com/view/46d7515d-1b28-5322-bce7-f7f44d017c55.m3u8",
+          "name": "ปฏิบัติการช่วยเธอจากนรก (2024)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Curbing-Violence.jpg",
+          "url": "https://streamhls.com/view/531a1f7c-33d7-530b-ac5c-17af1b8b7057.m3u8",
           "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
         }
       ]
     },
     {
-      "name": "รักนี้ชั่วนิรันดร์ (2019)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2021/07/sjPPBNhmq4fMS74xqMDSSpFet8q.jpg",
+      "name": "สัญญากับคุณชีวิตที่ปลอดภัยและอบอุ่น (2019)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Promise-You-A-Secure-and-Warm-Life.png",
       "info": "",
       "stations": [
         {
-          "name": "รักนี้ชั่วนิรันดร์ (2019)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2021/07/sjPPBNhmq4fMS74xqMDSSpFet8q.jpg",
-          "url": "https://play.kakjeawplay.xyz/510fb7a2-9982-4a84-934d-1aa50109771a/_",
-          "info": "พากย์ไทย"
-        },
-        {
-          "name": "รักนี้ชั่วนิรันดร์ (2019)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2021/07/sjPPBNhmq4fMS74xqMDSSpFet8q.jpg",
-          "url": "https://streamhls.com/view/e5158121-220d-501d-a47e-44b67a6dcadc.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "บอดี้การ์ดสาวสายบู๊ (2023)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Exquisite-Bodyguard-2023.png",
-      "info": "",
-      "stations": [
-        {
-          "name": "บอดี้การ์ดสาวสายบู๊ (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Exquisite-Bodyguard-2023.png",
-          "url": "https://play.kakjeawplay.xyz/63b29b3f-00b9-4944-999d-15f12f7ab5bb/_",
-          "info": "Soundtrackซับ"
-        },
-        {
-          "name": "บอดี้การ์ดสาวสายบู๊ (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Exquisite-Bodyguard-2023.png",
-          "url": "https://streamhls.com/view/60ba99f1-83fe-55a8-b84a-51db6739c8bf.m3u8",
+          "name": "สัญญากับคุณชีวิตที่ปลอดภัยและอบอุ่น (2019)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Promise-You-A-Secure-and-Warm-Life.png",
+          "url": "https://streamhls.com/view/73006fa2-fd71-5271-82d7-c5dbd397e9f3.m3u8",
           "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
         }
       ]
     },
     {
-      "name": "ฮิตติดเทรนด์ (2023)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Trending-Topic-2023.png",
+      "name": "ชิมมี่ เจ้าจ๋อพลังเทพ (2023)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Shimmy-The-First-Monkey-King.jpg",
+      "info": "",
+      "stations": []
+    },
+    {
+      "name": "ป่าอันมืดมิด (2024)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Dark-Forest-2024.jpg",
       "info": "",
       "stations": [
         {
-          "name": "ฮิตติดเทรนด์ (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Trending-Topic-2023.png",
-          "url": "https://play.kakjeawplay.xyz/64c9a4db-1fc2-4521-8db7-7494bf60e120/_",
-          "info": "Soundtrackซับ"
-        },
-        {
-          "name": "ฮิตติดเทรนด์ (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Trending-Topic-2023.png",
-          "url": "https://streamhls.com/view/711cb4f4-ad4b-5778-bfb2-dc1ef3aa7910.m3u8",
+          "name": "ป่าอันมืดมิด (2024)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Dark-Forest-2024.jpg",
+          "url": "https://streamhls.com/view/7a9ef4cb-5a7c-505e-b922-ed92140dcb44.m3u8",
           "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "ร่างที่ถูกทิ้ง (2023)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/The-Abandoned-2023.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "ร่างที่ถูกทิ้ง (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/The-Abandoned-2023.jpg",
-          "url": "https://streamhls.com/view/6978548a-a8fa-52bd-9812-8c59d7001d09.m3u8",
-          "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "ปฏิบัติการสู้เสี่ยงตาย (2023)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Ban-Drug-2023.png",
-      "info": "",
-      "stations": [
-        {
-          "name": "ปฏิบัติการสู้เสี่ยงตาย (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Ban-Drug-2023.png",
-          "url": "https://play.kakjeawplay.xyz/df102ce4-0d31-44ff-bdd3-1879d046602c/_",
-          "info": "Soundtrackซับ"
-        },
-        {
-          "name": "ปฏิบัติการสู้เสี่ยงตาย (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Ban-Drug-2023.png",
-          "url": "https://streamhls.com/view/de27b0b2-3a89-504d-a704-4bc4800d679a.m3u8",
-          "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "คนไม่แตก นรกแตก (1997)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Island-of-Greed-1997.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "คนไม่แตก นรกแตก (1997)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Island-of-Greed-1997.jpg",
-          "url": "https://play.kakjeawplay.xyz/12c6a108-1bee-42bf-a34c-fe5463dbf440/_",
-          "info": "Soundtrackซับ"
-        },
-        {
-          "name": "คนไม่แตก นรกแตก (1997)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Island-of-Greed-1997.jpg",
-          "url": "https://streamhls.com/view/7cfec9fb-bc32-59af-900e-e472a6b19300.m3u8",
-          "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "ชะตากรรมหายนะปีศาจ (2023)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Fate-of-Devil-Devastation-2023.png",
-      "info": "",
-      "stations": [
-        {
-          "name": "ชะตากรรมหายนะปีศาจ (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Fate-of-Devil-Devastation-2023.png",
-          "url": "https://play.kakjeawplay.xyz/9a95263e-08c2-47e8-a778-a67545a31d71/_",
-          "info": "Soundtrackซับ"
-        },
-        {
-          "name": "ชะตากรรมหายนะปีศาจ (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Fate-of-Devil-Devastation-2023.png",
-          "url": "https://streamhls.com/view/6c939975-b0a1-5ae4-96d2-4880bbc965ae.m3u8",
-          "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "เทพสวรรค์เหมาซาน (2022)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Maoshan-Heavenly-Master-2022.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "เทพสวรรค์เหมาซาน (2022)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Maoshan-Heavenly-Master-2022.jpg",
-          "url": "https://play.kakjeawplay.xyz/cb8462d0-7ea8-49c0-a693-9d7b077e93cc/_",
-          "info": "พากย์ไทย"
-        },
-        {
-          "name": "เทพสวรรค์เหมาซาน (2022)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Maoshan-Heavenly-Master-2022.jpg",
-          "url": "https://streamhls.com/view/6690aa3c-4097-5490-bbe9-a15525641540.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "โคตรไต้ฝุ่น (2022)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/10/Typhoon-2022.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "โคตรไต้ฝุ่น (2022)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/10/Typhoon-2022.jpg",
-          "url": "https://play.kakjeawplay.xyz/ebb5a5c3-47e4-4813-bb6d-8809c4d4a8b9/_",
-          "info": "พากย์ไทย"
-        },
-        {
-          "name": "โคตรไต้ฝุ่น (2022)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/10/Typhoon-2022.jpg",
-          "url": "https://streamhls.com/view/692efba3-f244-5a05-8391-09166204dfa6.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "เถ้าแก่เนี้ย 3 (2023)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/09/Queen-of-Triads-3-2023.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "เถ้าแก่เนี้ย 3 (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/09/Queen-of-Triads-3-2023.jpg",
-          "url": "https://play.kakjeawplay.xyz/cc7e217d-5a04-4ccb-83f6-b6440428a904/_",
-          "info": "Soundtrackซับ"
-        },
-        {
-          "name": "เถ้าแก่เนี้ย 3 (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/09/Queen-of-Triads-3-2023.jpg",
-          "url": "https://streamhls.com/view/62f6b63f-459b-5911-861e-cfa1817f226f.m3u8",
-          "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "มู่หลาน เจ้าหญิงนักรบ (2020)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Kung-Fu-Mulan.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "มู่หลาน เจ้าหญิงนักรบ (2020)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Kung-Fu-Mulan.jpg",
-          "url": "https://play.kakjeawplay.xyz/96f08858-76ce-42ad-88e9-c381d407ac0f/_",
-          "info": "พากย์ไทย"
-        },
-        {
-          "name": "มู่หลาน เจ้าหญิงนักรบ (2020)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Kung-Fu-Mulan.jpg",
-          "url": "https://streamhls.com/view/0b57c513-5775-5711-a838-a9a8b4aed6cf.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "ตีแสกตะวัน (1991)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2020/07/Once-a-Thief.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "ตีแสกตะวัน (1991)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/07/Once-a-Thief.jpg",
-          "url": "https://play.kakjeawplay.xyz/4863e65b-b793-414e-abcf-6ace1fec154b/_",
-          "info": "พากย์ไทย"
-        },
-        {
-          "name": "ตีแสกตะวัน (1991)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/07/Once-a-Thief.jpg",
-          "url": "https://streamhls.com/view/1893cee4-0ef7-5558-82b2-334bdca30b20.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "No.1 For You (Movie Version) (2023)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/We-Best-Love-2021.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "No.1 For You (Movie Version) (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/We-Best-Love-2021.jpg",
-          "url": "https://play.kakjeawplay.xyz/649b2700-63ab-46fa-a74a-5d96fcc01291/_",
-          "info": "Soundtrackซับ"
-        },
-        {
-          "name": "No.1 For You (Movie Version) (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/We-Best-Love-2021.jpg",
-          "url": "https://streamhls.com/view/cd659a23-568b-5e0d-83f2-429cb8ccef61.m3u8",
-          "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "จิ้งจอกภูเขาหิมะ (1984)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/New-Tales-of-The-Flying-Fox.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "จิ้งจอกภูเขาหิมะ (1984)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/New-Tales-of-The-Flying-Fox.jpg",
-          "url": "https://play.kakjeawplay.xyz/e6ffc9ff-3a7e-4eb8-a02c-98348cd4ed38/_",
-          "info": "พากย์ไทย"
-        },
-        {
-          "name": "จิ้งจอกภูเขาหิมะ (1984)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/New-Tales-of-The-Flying-Fox.jpg",
-          "url": "https://streamhls.com/view/7feb1f19-b1e1-510c-a822-c3545c518f61.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "สัประยุทธ์ทะลุฟ้า 2 (2023)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/FIGHTS-BREAK-SPHERE-2-2023.png",
-      "info": "",
-      "stations": [
-        {
-          "name": "สัประยุทธ์ทะลุฟ้า 2 (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/FIGHTS-BREAK-SPHERE-2-2023.png",
-          "url": "https://play.kakjeawplay.xyz/6a8ca783-30e3-4707-8642-7015e6480d19/_",
-          "info": "Soundtrackซับ"
-        },
-        {
-          "name": "สัประยุทธ์ทะลุฟ้า 2 (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/FIGHTS-BREAK-SPHERE-2-2023.png",
-          "url": "https://streamhls.com/view/1f55a1a6-66e1-5f31-96db-6b837b042c67.m3u8",
-          "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "ศึกรบทะลุสวรรค์ (2023)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Fights-Break-Sphere-2023.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "ศึกรบทะลุสวรรค์ (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Fights-Break-Sphere-2023.jpg",
-          "url": "https://play.kakjeawplay.xyz/1163de79-f823-4e1a-aba7-01276d37b408/_",
-          "info": "Soundtrackซับ"
-        },
-        {
-          "name": "ศึกรบทะลุสวรรค์ (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Fights-Break-Sphere-2023.jpg",
-          "url": "https://streamhls.com/view/ac5dda7a-33c5-58dc-bf6f-e5f8d4594b03.m3u8",
-          "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "ตามหามังกร ประตูแห่งชีวิตและความตาย (2023)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/THE-LOST-LEGEND-2023.png",
-      "info": "",
-      "stations": [
-        {
-          "name": "ตามหามังกร ประตูแห่งชีวิตและความตาย (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/THE-LOST-LEGEND-2023.png",
-          "url": "https://play.kakjeawplay.xyz/1a00e928-9b9a-497e-9f64-edeee0f0b4fb/_",
-          "info": "Soundtrackซับ"
-        },
-        {
-          "name": "ตามหามังกร ประตูแห่งชีวิตและความตาย (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/THE-LOST-LEGEND-2023.png",
-          "url": "https://streamhls.com/view/366d3da4-17b6-5d97-8c48-51e70e380653.m3u8",
-          "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "คดีประหลาดรองเท้าปัก (2023)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/XIU-HUA-XIE-QI-AN-2024.png",
-      "info": "",
-      "stations": [
-        {
-          "name": "คดีประหลาดรองเท้าปัก (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/XIU-HUA-XIE-QI-AN-2024.png",
-          "url": "https://play.kakjeawplay.xyz/0e1f9ed8-395b-4c30-acd2-804479122bec/_",
-          "info": "Soundtrackซับ"
-        },
-        {
-          "name": "คดีประหลาดรองเท้าปัก (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/XIU-HUA-XIE-QI-AN-2024.png",
-          "url": "https://streamhls.com/view/9eb31eb8-9916-5352-bc51-d29d0aeb5ef1.m3u8",
-          "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "สวัสดีคุณผี! (2023)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Hello-Ghost-2023.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "สวัสดีคุณผี! (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Hello-Ghost-2023.jpg",
-          "url": "https://play.kakjeawplay.xyz/35d07349-c360-43f3-9465-4de6555014dd/_",
-          "info": "Soundtrackซับ"
-        },
-        {
-          "name": "สวัสดีคุณผี! (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Hello-Ghost-2023.jpg",
-          "url": "https://streamhls.com/view/8ee9889f-5be4-5e8d-a89d-812c54dc8b72.m3u8",
-          "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "เชือกอาถรรพ์ 3 (2023)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/The-Rope-Curse-3.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "เชือกอาถรรพ์ 3 (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/The-Rope-Curse-3.jpg",
-          "url": "https://play.kakjeawplay.xyz/d145a3a1-e420-4d80-b37c-f6ec0d4ff8c9/_",
-          "info": "Soundtrackซับ"
-        },
-        {
-          "name": "เชือกอาถรรพ์ 3 (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/The-Rope-Curse-3.jpg",
-          "url": "https://streamhls.com/view/53da6ee3-4d9f-53c7-a7a8-8ef85a1e3b20.m3u8",
-          "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "เชือกอาถรรพ์ 2 (2020)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2020/12/74MuudAjlX4gpQLnIhH35lAbx4q.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "เชือกอาถรรพ์ 2 (2020)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/12/74MuudAjlX4gpQLnIhH35lAbx4q.jpg",
-          "url": "https://play.kakjeawplay.xyz/0cdaacda-00f2-4ad8-b166-a1e4b4752260/_",
-          "info": "Soundtrackซับ"
-        },
-        {
-          "name": "เชือกอาถรรพ์ 2 (2020)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/12/74MuudAjlX4gpQLnIhH35lAbx4q.jpg",
-          "url": "https://streamhls.com/view/e88c6f45-b2dc-5aeb-909e-253b4f75e801.m3u8",
-          "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "เชือกอาถรรพ์ (2018)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2021/01/tNaSkqxO2mKWkpg51a894OdOXf6.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "เชือกอาถรรพ์ (2018)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2021/01/tNaSkqxO2mKWkpg51a894OdOXf6.jpg",
-          "url": "https://play.kakjeawplay.xyz/c871be58-e89b-4bef-a874-5f52c8764aff/_",
-          "info": "Soundtrackซับ"
-        },
-        {
-          "name": "เชือกอาถรรพ์ (2018)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2021/01/tNaSkqxO2mKWkpg51a894OdOXf6.jpg",
-          "url": "https://streamhls.com/view/7ba21a9f-a518-57da-a4e1-8d8bc60a9c17.m3u8",
-          "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "ตัวตนคนไม่รู้ (2023)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/ShenFenBuXiang.png",
-      "info": "",
-      "stations": [
-        {
-          "name": "ตัวตนคนไม่รู้ (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/ShenFenBuXiang.png",
-          "url": "https://play.kakjeawplay.xyz/73440b64-5e4a-4f0f-934f-cbfcaa0d6f4d/_",
-          "info": "Soundtrackซับ"
-        },
-        {
-          "name": "ตัวตนคนไม่รู้ (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/ShenFenBuXiang.png",
-          "url": "https://streamhls.com/view/531350c5-03f0-5037-b469-64c2a9cd0dfa.m3u8",
-          "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "หมอฉินนิติเวชสืบคดี (2023)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Dr-Qin-2023.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "หมอฉินนิติเวชสืบคดี (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Dr-Qin-2023.jpg",
-          "url": "https://play.kakjeawplay.xyz/0617aee8-cc5a-4045-97ee-f1e2db1f50de/_",
-          "info": "Soundtrackซับ"
-        },
-        {
-          "name": "หมอฉินนิติเวชสืบคดี (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Dr-Qin-2023.jpg",
-          "url": "https://streamhls.com/view/e93d5dfb-6ba8-5f1e-a28e-4c0c1819dcdd.m3u8",
-          "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "กอดคอกันไว้ อย่าให้ใครเจาะกะโหลก (1990)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Bullet-in-the-Head-1990.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "กอดคอกันไว้ อย่าให้ใครเจาะกะโหลก (1990)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Bullet-in-the-Head-1990.jpg",
-          "url": "https://play.kakjeawplay.xyz/41737b83-25c3-4cc9-9d16-b78cd1bfc8b1/_",
-          "info": "พากย์ไทย"
-        },
-        {
-          "name": "กอดคอกันไว้ อย่าให้ใครเจาะกะโหลก (1990)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Bullet-in-the-Head-1990.jpg",
-          "url": "https://streamhls.com/view/3bbade75-c5b5-5830-b4d0-7184de19ab1d.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
         }
       ]
     },
@@ -1693,1059 +168,203 @@
         {
           "name": "เดือดร้อนให้หาลุงหัว (2023)",
           "image": "https://www.nung2hdd.com/wp-content/uploads/2023/09/The-Comeback-2023.jpg",
-          "url": "https://play.kakjeawplay.xyz/e43e3b72-3ee3-4aae-a5bc-721d301e6aac/_",
-          "info": "Soundtrackซับ"
-        },
-        {
-          "name": "เดือดร้อนให้หาลุงหัว (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/09/The-Comeback-2023.jpg",
-          "url": "https://streamhls.com/view/53ce76e1-9eb6-5107-993b-dce26c7ad334.m3u8",
-          "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "เจ้าสาวกระดาษ (2023)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Paper-Bride-2023.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "เจ้าสาวกระดาษ (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Paper-Bride-2023.jpg",
-          "url": "https://play.kakjeawplay.xyz/b1fbd3da-e5b2-4f58-9983-31d6d1460058/_",
-          "info": "Soundtrackซับ"
-        },
-        {
-          "name": "เจ้าสาวกระดาษ (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Paper-Bride-2023.jpg",
-          "url": "https://streamhls.com/view/a2629a55-d66b-5c98-ad62-26deb27e46d7.m3u8",
-          "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "เรื่องประหลาดของฉางอัน (2023)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/The-Mans-Secret-2023.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "เรื่องประหลาดของฉางอัน (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/The-Mans-Secret-2023.jpg",
-          "url": "https://play.kakjeawplay.xyz/fa4e3b52-a8e9-4532-942a-4a52c39146ff/_",
-          "info": "Soundtrackซับ"
-        },
-        {
-          "name": "เรื่องประหลาดของฉางอัน (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/The-Mans-Secret-2023.jpg",
-          "url": "https://streamhls.com/view/f4690df5-11b5-51ef-a279-a992a788b050.m3u8",
-          "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "เรื่องเล่าพลังลับ (2023)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Secret-Woman-2023.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "เรื่องเล่าพลังลับ (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Secret-Woman-2023.jpg",
-          "url": "https://play.kakjeawplay.xyz/99d16907-caea-4186-a849-b5bf98f4bbc1/_",
-          "info": "Soundtrackซับ"
-        },
-        {
-          "name": "เรื่องเล่าพลังลับ (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Secret-Woman-2023.jpg",
-          "url": "https://streamhls.com/view/fd99ce03-91b8-57df-9156-25dcb44db43a.m3u8",
-          "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "คิงคอง ปะทะ งูยักษ์ (2023)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Kingkong-vs-giant-serpent-2023.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "คิงคอง ปะทะ งูยักษ์ (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Kingkong-vs-giant-serpent-2023.jpg",
-          "url": "https://play.kakjeawplay.xyz/6aa888d9-51f6-40c3-b3c8-edf908cf5210/_",
-          "info": "Soundtrackซับ"
-        },
-        {
-          "name": "คิงคอง ปะทะ งูยักษ์ (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Kingkong-vs-giant-serpent-2023.jpg",
-          "url": "https://streamhls.com/view/cfc0e133-2de9-5f18-89aa-a97315df4356.m3u8",
-          "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "ฝ่ามหันตภัยเพลิงสุริยะ (2023)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/06/The-Wandering-Earth2023.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "ฝ่ามหันตภัยเพลิงสุริยะ (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/06/The-Wandering-Earth2023.jpg",
-          "url": "https://play.kakjeawplay.xyz/c15cec32-f62a-40ff-9b1b-7acd57ff6cd1/_",
-          "info": "พากย์ไทย"
-        },
-        {
-          "name": "ฝ่ามหันตภัยเพลิงสุริยะ (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/06/The-Wandering-Earth2023.jpg",
-          "url": "https://streamhls.com/view/b6b4449a-3667-5292-838c-68445c2ffdac.m3u8",
+          "url": "https://streamhls.com/view/7954d9b5-a3f8-5658-b14e-26c5ae04a718.m3u8",
           "info": "พากย์ไทย (ตัวเล่นสำรอง)"
         }
       ]
     },
     {
-      "name": "ปฏิบัติการล่าระห่ำ (2023)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2020/10/Pursuit-2023.jpg",
+      "name": "ตี๋เหรินเจี๋ยนักมายากลผู้ยิ่งใหญ่ (2024)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Direjia2024.png",
       "info": "",
       "stations": [
         {
-          "name": "ปฏิบัติการล่าระห่ำ (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/10/Pursuit-2023.jpg",
-          "url": "https://play.kakjeawplay.xyz/0a595ee1-4658-43a2-a77b-e84aceb98818/_",
-          "info": "Soundtrackซับ"
-        },
-        {
-          "name": "ปฏิบัติการล่าระห่ำ (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/10/Pursuit-2023.jpg",
-          "url": "https://streamhls.com/view/2551dcac-463c-58c3-8b7d-5efeaf5fa6bd.m3u8",
+          "name": "ตี๋เหรินเจี๋ยนักมายากลผู้ยิ่งใหญ่ (2024)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Direjia2024.png",
+          "url": "https://streamhls.com/view/08fe77d5-d820-5596-a241-395d4fe6fcc3.m3u8",
           "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
         }
       ]
     },
     {
-      "name": "บุรุษนักสู้สุดขอบฟ้า (2022)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Man-On-The-Edge.jpg",
+      "name": "สงครามวัดใจ (2024)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Heart-of-War-Moment-2024.png",
       "info": "",
       "stations": [
         {
-          "name": "บุรุษนักสู้สุดขอบฟ้า (2022)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Man-On-The-Edge.jpg",
-          "url": "https://play.kakjeawplay.xyz/306f1f6d-d279-4270-9034-a89e1075efc5/_",
-          "info": "Soundtrackซับ"
-        },
-        {
-          "name": "บุรุษนักสู้สุดขอบฟ้า (2022)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Man-On-The-Edge.jpg",
-          "url": "https://streamhls.com/view/a4273663-9407-5e16-b248-f758c036cdb1.m3u8",
+          "name": "สงครามวัดใจ (2024)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Heart-of-War-Moment-2024.png",
+          "url": "https://streamhls.com/view/d07b3002-0601-5d9f-85f8-43af0afe8f3d.m3u8",
           "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
         }
       ]
     },
     {
-      "name": "ใส่สุดไม่หยุดโต้ (2023)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Quick-Counterattack-2023.jpg",
+      "name": "FPU หน่วยพยัคฆ์พิทักษ์ข้ามโลก 2024)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Formed-Police-Unit-FPU.jpg",
       "info": "",
       "stations": [
         {
-          "name": "ใส่สุดไม่หยุดโต้ (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Quick-Counterattack-2023.jpg",
-          "url": "https://play.kakjeawplay.xyz/86e78abf-da03-40e5-9ac2-5611421115bd/_",
-          "info": "Soundtrackซับ"
-        },
+          "name": "FPU หน่วยพยัคฆ์พิทักษ์ข้ามโลก 2024)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Formed-Police-Unit-FPU.jpg",
+          "url": "https://streamhls.com/view/2d0262b5-2966-5910-adf5-0773c8b84201.m3u8",
+          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
+        }
+      ]
+    },
+    {
+      "name": "เรื่องเล่าขานงูพิศดารหมู่บ้านซ่างถง (2024)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/The-Strange-Snake-Story-in-Shangtong-Village-2024.jpg",
+      "info": "",
+      "stations": [
         {
-          "name": "ใส่สุดไม่หยุดโต้ (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Quick-Counterattack-2023.jpg",
-          "url": "https://streamhls.com/view/25894812-6da6-5850-82e9-b0a73498d23f.m3u8",
+          "name": "เรื่องเล่าขานงูพิศดารหมู่บ้านซ่างถง (2024)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/The-Strange-Snake-Story-in-Shangtong-Village-2024.jpg",
+          "url": "https://streamhls.com/view/4b7c45ea-f4df-55db-a92c-bd67419b7870.m3u8",
           "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
         }
       ]
     },
     {
-      "name": "คืนหลอนวิญญาณร้าย (2023)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Headless-2023.jpg",
+      "name": "ปรสิตต่างดาว: จุดเริ่มต้น (2024)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/The-Captives-2024.jpg",
       "info": "",
       "stations": [
         {
-          "name": "คืนหลอนวิญญาณร้าย (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Headless-2023.jpg",
-          "url": "https://play.kakjeawplay.xyz/c033da6b-3469-4490-bb26-ef6fe95e4d9b/_",
-          "info": "Soundtrackซับ"
-        },
-        {
-          "name": "คืนหลอนวิญญาณร้าย (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Headless-2023.jpg",
-          "url": "https://streamhls.com/view/ec5e7488-ebae-5a5d-b05a-f217d33088cf.m3u8",
+          "name": "ปรสิตต่างดาว: จุดเริ่มต้น (2024)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/The-Captives-2024.jpg",
+          "url": "https://streamhls.com/view/dcff23c9-2199-5130-b2a6-c24d86190380.m3u8",
           "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
         }
       ]
     },
     {
-      "name": "ทายาท ปรมาจารย์โลก (2023)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Tomb-Making-Notes-2023.jpg",
+      "name": "เจ้าสาวสุดหลอน (2024)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Shuigui-Bride-2024.jpg",
       "info": "",
       "stations": [
         {
-          "name": "ทายาท ปรมาจารย์โลก (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Tomb-Making-Notes-2023.jpg",
-          "url": "https://play.kakjeawplay.xyz/c724856e-c610-4943-99d5-e0f22961ceec/_",
-          "info": "Soundtrackซับ"
-        },
-        {
-          "name": "ทายาท ปรมาจารย์โลก (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Tomb-Making-Notes-2023.jpg",
-          "url": "https://streamhls.com/view/ff3a8d8f-aa56-5bfd-82f2-9bf0d0d11e1d.m3u8",
+          "name": "เจ้าสาวสุดหลอน (2024)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Shuigui-Bride-2024.jpg",
+          "url": "https://streamhls.com/view/9ab6c560-f2de-5eb0-97c8-04b4814db37c.m3u8",
           "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
         }
       ]
     },
     {
-      "name": "จอมเวทย์เหนือเมฆ (2023)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/The-Sorcery-Master-2023.jpg",
+      "name": "กว่าจะรัก (2022)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/03/Almost-Love-2022.jpg",
       "info": "",
       "stations": [
         {
-          "name": "จอมเวทย์เหนือเมฆ (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/The-Sorcery-Master-2023.jpg",
-          "url": "https://play.kakjeawplay.xyz/f41760f2-89c7-4d24-86ad-fbca76c9833c/_",
-          "info": "พากย์ไทย"
-        },
-        {
-          "name": "จอมเวทย์เหนือเมฆ (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/The-Sorcery-Master-2023.jpg",
-          "url": "https://streamhls.com/view/c92cecbd-5c27-52b8-a02c-6e3450120992.m3u8",
+          "name": "กว่าจะรัก (2022)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/03/Almost-Love-2022.jpg",
+          "url": "https://streamhls.com/view/78e3a094-08b7-5db6-ac21-5ab9a98ddfd8.m3u8",
           "info": "พากย์ไทย (ตัวเล่นสำรอง)"
         }
       ]
     },
     {
-      "name": "สุดยอดมนุษย์พ่อ (2023)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Super-Daddy-2023.jpg",
+      "name": "ปริศนานักรบดินเผา (2024)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Mysteries-of-the-Terracotta-Warriors.jpg",
       "info": "",
       "stations": [
         {
-          "name": "สุดยอดมนุษย์พ่อ (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Super-Daddy-2023.jpg",
-          "url": "https://play.kakjeawplay.xyz/dd210359-8ae6-4a74-a28f-001dfd4599da/_",
-          "info": "Soundtrackซับ"
-        },
-        {
-          "name": "สุดยอดมนุษย์พ่อ (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Super-Daddy-2023.jpg",
-          "url": "https://streamhls.com/view/48314d85-7d47-5c7a-8638-c8bd9a0af4e4.m3u8",
+          "name": "ปริศนานักรบดินเผา (2024)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Mysteries-of-the-Terracotta-Warriors.jpg",
+          "url": "https://streamhls.com/view/f7a9af5f-4cd8-51a7-b6fc-d63692771256.m3u8",
           "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
         }
       ]
     },
     {
-      "name": "เรื่องแปลกในป่าลึก (2023)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/The-Weird-Forest-2023-1.jpg",
+      "name": "คมมีดล้างแค้น (2024)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Hovering-Blade.png",
       "info": "",
       "stations": [
         {
-          "name": "เรื่องแปลกในป่าลึก (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/The-Weird-Forest-2023-1.jpg",
-          "url": "https://play.kakjeawplay.xyz/668d8236-d08d-4161-aade-cb2cdf7d7a4f/_",
-          "info": "Soundtrackซับ"
-        },
-        {
-          "name": "เรื่องแปลกในป่าลึก (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/The-Weird-Forest-2023-1.jpg",
-          "url": "https://streamhls.com/view/1a759938-a435-534a-92eb-fe7418a4a0b5.m3u8",
+          "name": "คมมีดล้างแค้น (2024)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Hovering-Blade.png",
+          "url": "https://streamhls.com/view/c64dd90b-5b0a-516d-a6ab-10b249966b81.m3u8",
           "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
         }
       ]
     },
     {
-      "name": "ล่าอาชญากร (2023)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Evil-Hunter-2023.jpg",
+      "name": "พลิกโลกกลับสวรรค์ (2024)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Revolutionize-The-World.png",
       "info": "",
       "stations": [
         {
-          "name": "ล่าอาชญากร (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Evil-Hunter-2023.jpg",
-          "url": "https://play.kakjeawplay.xyz/b415b30e-8caf-4285-b8e0-225fa1defe3d/_",
-          "info": "Soundtrackซับ"
-        },
-        {
-          "name": "ล่าอาชญากร (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Evil-Hunter-2023.jpg",
-          "url": "https://streamhls.com/view/11faea9c-8584-5378-ac25-13a490444935.m3u8",
+          "name": "พลิกโลกกลับสวรรค์ (2024)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Revolutionize-The-World.png",
+          "url": "https://streamhls.com/view/ffc950c2-2980-5d0a-bbe2-68bb4c8da96a.m3u8",
           "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
         }
       ]
     },
     {
-      "name": "3 แบบ…แสบคนละเล่ม! (1986)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/True-Colours-1986.jpg",
+      "name": "ชีวิตที่ถูกยืมมา (2024)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/PUPPET.png",
       "info": "",
       "stations": [
         {
-          "name": "3 แบบ…แสบคนละเล่ม! (1986)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/True-Colours-1986.jpg",
-          "url": "https://play.kakjeawplay.xyz/7cc4c432-897f-43bd-9334-ccf17031a49b/_",
-          "info": "พากย์ไทย"
-        },
-        {
-          "name": "3 แบบ…แสบคนละเล่ม! (1986)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/True-Colours-1986.jpg",
-          "url": "https://streamhls.com/view/e7ac5ea1-deaa-5889-99c2-ca2e9016c7a7.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "ดาบทะลวงอก (1967)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/The-Trail-of-the-Broken-Blade-1967.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "ดาบทะลวงอก (1967)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/The-Trail-of-the-Broken-Blade-1967.jpg",
-          "url": "https://play.kakjeawplay.xyz/24219186-2ddb-4669-bd19-5a35a8c2c4fc/_",
-          "info": "พากย์ไทย"
-        },
-        {
-          "name": "ดาบทะลวงอก (1967)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/The-Trail-of-the-Broken-Blade-1967.jpg",
-          "url": "https://streamhls.com/view/08cb3cd6-322c-51ad-b189-e110d286c801.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "หงส์ฟ้าแส้พญายม (1971)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/The-Shadow-Whip-1971.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "หงส์ฟ้าแส้พญายม (1971)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/The-Shadow-Whip-1971.jpg",
-          "url": "https://play.kakjeawplay.xyz/f360515d-56a2-4946-ab3b-4ef8d4f0889b/_",
-          "info": "พากย์ไทย"
-        },
-        {
-          "name": "หงส์ฟ้าแส้พญายม (1971)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/The-Shadow-Whip-1971.jpg",
-          "url": "https://streamhls.com/view/50702006-20ee-588d-a01e-ee03f7135a00.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "Operation Pink Squad II: Haunted Tower (1989) อย่าฉุดผีหลุด (อื้อซ่าส์ห้าไม่หก ภาค 2)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Operation-Pink-Squad-II-Haunted-Tower-1989.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "Operation Pink Squad II: Haunted Tower (1989) อย่าฉุดผีหลุด (อื้อซ่าส์ห้าไม่หก ภาค 2)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Operation-Pink-Squad-II-Haunted-Tower-1989.jpg",
-          "url": "https://play.kakjeawplay.xyz/03de84f8-b8b1-4447-afa9-59933dd8dedc/_",
-          "info": "พากย์ไทย"
-        },
-        {
-          "name": "Operation Pink Squad II: Haunted Tower (1989) อย่าฉุดผีหลุด (อื้อซ่าส์ห้าไม่หก ภาค 2)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Operation-Pink-Squad-II-Haunted-Tower-1989.jpg",
-          "url": "https://streamhls.com/view/6ddc5fb3-a9ad-5d14-ac7c-2d755eb62c41.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "จอมโหดวังมหากล (1982)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/House-of-Traps-1982.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "จอมโหดวังมหากล (1982)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/House-of-Traps-1982.jpg",
-          "url": "https://play.kakjeawplay.xyz/f78b327d-0bf4-4cc3-9976-53d4dbf2c741/_",
-          "info": "พากย์ไทย"
-        },
-        {
-          "name": "จอมโหดวังมหากล (1982)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/House-of-Traps-1982.jpg",
-          "url": "https://streamhls.com/view/492df897-d5ca-5884-a006-840b11ca5058.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "สุสานแม่น้ำฮวงโห (2023)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Tomb-Keeper-2023.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "สุสานแม่น้ำฮวงโห (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Tomb-Keeper-2023.jpg",
-          "url": "https://play.kakjeawplay.xyz/22ab481f-c8f1-48d7-9f46-8c4079cba4f3/_",
-          "info": "Soundtrackซับ"
-        },
-        {
-          "name": "สุสานแม่น้ำฮวงโห (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Tomb-Keeper-2023.jpg",
-          "url": "https://streamhls.com/view/d28433f2-df08-55e8-9325-a8a23566e9f2.m3u8",
+          "name": "ชีวิตที่ถูกยืมมา (2024)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/PUPPET.png",
+          "url": "https://streamhls.com/view/d9683ae1-797b-5571-bbad-b5da3f2d5ced.m3u8",
           "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
         }
       ]
     },
     {
-      "name": "ตี๋เหรินเจี๋ย เส้นทางปริศนา (2023)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/10/Di-Renjie-Secret-Soldier-Borrows-the-Road-2023.jpg",
+      "name": "มนุษย์กลายพันธุ์ (2024)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/MUTANT.png",
       "info": "",
       "stations": [
         {
-          "name": "ตี๋เหรินเจี๋ย เส้นทางปริศนา (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/10/Di-Renjie-Secret-Soldier-Borrows-the-Road-2023.jpg",
-          "url": "https://play.kakjeawplay.xyz/52d3d83c-d3a4-4f70-b2ce-9ff116c9ab78/_",
-          "info": "Soundtrackซับ"
-        },
-        {
-          "name": "ตี๋เหรินเจี๋ย เส้นทางปริศนา (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/10/Di-Renjie-Secret-Soldier-Borrows-the-Road-2023.jpg",
-          "url": "https://streamhls.com/view/f8042c2e-7828-576c-9c5a-e28883c729f0.m3u8",
+          "name": "มนุษย์กลายพันธุ์ (2024)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/MUTANT.png",
+          "url": "https://streamhls.com/view/a358795f-38eb-5b45-97c2-c46ca488d4ba.m3u8",
           "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
         }
       ]
     },
     {
-      "name": "หงษ์ทองคะนองศึก (1966)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Come-Drink-with-Me-1966-1.jpg",
+      "name": "ศึกยอดนักแข่ง (2024)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Lost-But-Win.png",
       "info": "",
       "stations": [
         {
-          "name": "หงษ์ทองคะนองศึก (1966)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Come-Drink-with-Me-1966-1.jpg",
-          "url": "https://play.kakjeawplay.xyz/b676592a-7a44-46d1-b190-2091614bd368/_",
-          "info": "พากย์ไทย"
-        },
-        {
-          "name": "หงษ์ทองคะนองศึก (1966)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Come-Drink-with-Me-1966-1.jpg",
-          "url": "https://streamhls.com/view/073ea660-ee93-5c54-9dd8-a7275c0dcbb8.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "ท้าฟัน (1983)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/duel-to-the-death-1.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "ท้าฟัน (1983)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/duel-to-the-death-1.jpg",
-          "url": "https://play.kakjeawplay.xyz/b54f7a66-c61a-47e5-a448-d38173703008/_",
-          "info": "พากย์ไทย"
-        },
-        {
-          "name": "ท้าฟัน (1983)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/duel-to-the-death-1.jpg",
-          "url": "https://streamhls.com/view/5e5d90b6-a29e-52e9-87db-28b2f95b5be2.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "ฤทธิ์อีแอ่นเงิน (1969)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Vengeance-Is-a-Golden-Blade-1969.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "ฤทธิ์อีแอ่นเงิน (1969)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Vengeance-Is-a-Golden-Blade-1969.jpg",
-          "url": "https://play.kakjeawplay.xyz/83f9b420-369a-439e-a937-8ff3bf86d059/_",
-          "info": "พากย์ไทย"
-        },
-        {
-          "name": "ฤทธิ์อีแอ่นเงิน (1969)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Vengeance-Is-a-Golden-Blade-1969.jpg",
-          "url": "https://streamhls.com/view/fffdab0c-5d9c-57dd-b36c-33f07daca12c.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "ฤทธิ์ฝ่ามืออรหันต์ (1982)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Buddhas-Palm-1982.jpeg",
-      "info": "",
-      "stations": [
-        {
-          "name": "ฤทธิ์ฝ่ามืออรหันต์ (1982)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Buddhas-Palm-1982.jpeg",
-          "url": "https://play.kakjeawplay.xyz/3ac194bd-7537-416d-a23f-62d350ef5eb9/_",
-          "info": "พากย์ไทย"
-        },
-        {
-          "name": "ฤทธิ์ฝ่ามืออรหันต์ (1982)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Buddhas-Palm-1982.jpeg",
-          "url": "https://streamhls.com/view/682974fc-c0de-5764-b037-30a37e479b3a.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "กระบี่ผ่ากระบี่ (1980)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2020/05/s8uFPRWCYcOeVsEWbVI4WGoXdNm.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "กระบี่ผ่ากระบี่ (1980)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/05/s8uFPRWCYcOeVsEWbVI4WGoXdNm.jpg",
-          "url": "https://play.kakjeawplay.xyz/fc4c00bf-d87d-4a9a-b26a-010691c919cc/_",
-          "info": "พากย์ไทย"
-        },
-        {
-          "name": "กระบี่ผ่ากระบี่ (1980)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/05/s8uFPRWCYcOeVsEWbVI4WGoXdNm.jpg",
-          "url": "https://streamhls.com/view/22b5dbdc-40a1-5abb-8b5a-879b596949a5.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "ซอมบี้ธรรมดา (2023)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Zombies-become-generals-2023.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "ซอมบี้ธรรมดา (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Zombies-become-generals-2023.jpg",
-          "url": "https://play.kakjeawplay.xyz/a53db041-946c-40e9-b50a-8f2e5cd546c5/_",
-          "info": "Soundtrackซับ"
-        },
-        {
-          "name": "ซอมบี้ธรรมดา (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Zombies-become-generals-2023.jpg",
-          "url": "https://streamhls.com/view/9b09587f-012b-56da-88d6-63a148ce801f.m3u8",
+          "name": "ศึกยอดนักแข่ง (2024)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Lost-But-Win.png",
+          "url": "https://streamhls.com/view/18df498f-21ca-51d2-a04b-1f6166d2bb56.m3u8",
           "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
         }
       ]
     },
     {
-      "name": "นางพญางูทอง (2023)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Snaker-In-Golden-2023.jpg",
+      "name": "ไล่ล่าป่าลึก (2024)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Jungle-Chase-2024.png",
       "info": "",
       "stations": [
         {
-          "name": "นางพญางูทอง (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Snaker-In-Golden-2023.jpg",
-          "url": "https://play.kakjeawplay.xyz/be50f39f-acf3-4745-a57d-287e95f2112e/_",
-          "info": "Soundtrackซับ"
-        },
-        {
-          "name": "นางพญางูทอง (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Snaker-In-Golden-2023.jpg",
-          "url": "https://streamhls.com/view/40a96a00-572c-5bf1-8043-6c5814c1ab97.m3u8",
+          "name": "ไล่ล่าป่าลึก (2024)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Jungle-Chase-2024.png",
+          "url": "https://streamhls.com/view/57f0fdfd-dd02-52fe-8cc8-aa0eb54d36f7.m3u8",
           "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
         }
       ]
     },
     {
-      "name": "ฆาตกรรมแห่งลั่วหยาง (2023)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Gemini-Mission-2023.jpg",
+      "name": "ร่องรอยหลบหนี (2024)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/ESCAPE-AND-TRACK.png",
       "info": "",
       "stations": [
         {
-          "name": "ฆาตกรรมแห่งลั่วหยาง (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Gemini-Mission-2023.jpg",
-          "url": "https://play.kakjeawplay.xyz/d4fc69c6-e669-409b-859c-0286bf7035b9/_",
-          "info": "Soundtrackซับ"
-        },
-        {
-          "name": "ฆาตกรรมแห่งลั่วหยาง (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Gemini-Mission-2023.jpg",
-          "url": "https://streamhls.com/view/8e376358-fd00-5db6-b238-92401f5a69aa.m3u8",
+          "name": "ร่องรอยหลบหนี (2024)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/ESCAPE-AND-TRACK.png",
+          "url": "https://streamhls.com/view/40704f09-3e2a-5c87-879b-f9ff21396848.m3u8",
           "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "ตำนานศึกราชาวานร (2022)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2022/05/bih1JYgqYuDqHnrit3YCmdCoBs2.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "ตำนานศึกราชาวานร (2022)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2022/05/bih1JYgqYuDqHnrit3YCmdCoBs2.jpg",
-          "url": "https://play.kakjeawplay.xyz/1638abe8-b6b9-4783-a411-c6d6ab7880cc/_",
-          "info": "พากย์ไทย"
-        },
-        {
-          "name": "ตำนานศึกราชาวานร (2022)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2022/05/bih1JYgqYuDqHnrit3YCmdCoBs2.jpg",
-          "url": "https://streamhls.com/view/5dfa18b2-4b2b-5a57-8125-304cfd9d195e.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "สเต็ปกล้าท้าฝัน (2023)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/One-and-Only-2023.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "สเต็ปกล้าท้าฝัน (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/One-and-Only-2023.jpg",
-          "url": "https://play.kakjeawplay.xyz/fe95386b-15c4-4204-be3e-d9ccdb0a0341/_",
-          "info": "พากย์ไทย"
-        },
-        {
-          "name": "สเต็ปกล้าท้าฝัน (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/One-and-Only-2023.jpg",
-          "url": "https://streamhls.com/view/67a7ed2b-3afa-5fa6-8ac9-b9269efd7ed9.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "เดชไอ้ด้วน ภาค 3 (1971)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/The-New-One-Armed-Swordsman-1971.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "เดชไอ้ด้วน ภาค 3 (1971)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/The-New-One-Armed-Swordsman-1971.jpg",
-          "url": "https://play.kakjeawplay.xyz/14836e80-f424-423e-a1a0-8c30ddee58e0/_",
-          "info": "พากย์ไทย"
-        },
-        {
-          "name": "เดชไอ้ด้วน ภาค 3 (1971)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/The-New-One-Armed-Swordsman-1971.jpg",
-          "url": "https://streamhls.com/view/6de6d7c0-2036-5fdf-a7c7-a19808b2ae9c.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "ไอ้หนุ่มหมัดกำมะลอ (1979)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Knockabout-1979.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "ไอ้หนุ่มหมัดกำมะลอ (1979)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Knockabout-1979.jpg",
-          "url": "https://play.kakjeawplay.xyz/5b037bb0-9b17-49f1-8df5-2ce254b3c0ff/_",
-          "info": "พากย์ไทย"
-        },
-        {
-          "name": "ไอ้หนุ่มหมัดกำมะลอ (1979)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Knockabout-1979.jpg",
-          "url": "https://streamhls.com/view/49cd685a-e071-58eb-b54b-1e5c7cfc0447.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "ปู่ผี พ่อนักเลง ลูกกลิ้ง (1991)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/The-Gambling-Ghost-1991.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "ปู่ผี พ่อนักเลง ลูกกลิ้ง (1991)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/The-Gambling-Ghost-1991.jpg",
-          "url": "https://play.kakjeawplay.xyz/6163364d-7a98-4085-ae38-a8ba0349c15e/_",
-          "info": "พากย์ไทย"
-        },
-        {
-          "name": "ปู่ผี พ่อนักเลง ลูกกลิ้ง (1991)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/The-Gambling-Ghost-1991.jpg",
-          "url": "https://streamhls.com/view/223b7108-2d9c-55ee-8194-d21c6d18ec03.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "ฤทธิ์ไอ้แมงมุม (1976)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/The-Web-of-Death-1976.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "ฤทธิ์ไอ้แมงมุม (1976)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/The-Web-of-Death-1976.jpg",
-          "url": "https://play.kakjeawplay.xyz/9faf1396-2c58-4f85-ae37-cb0d07319478/_",
-          "info": "พากย์ไทย"
-        },
-        {
-          "name": "ฤทธิ์ไอ้แมงมุม (1976)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/The-Web-of-Death-1976.jpg",
-          "url": "https://streamhls.com/view/b50e92ae-0fa6-5e61-9b1a-285ef79c6cb3.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "หยางเจี่ยน เทพสามตา มหาศึกผนึกเขาบงกช (2022)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/New-Gods-Yang-Jian-2023.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "หยางเจี่ยน เทพสามตา มหาศึกผนึกเขาบงกช (2022)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/New-Gods-Yang-Jian-2023.jpg",
-          "url": "https://play.kakjeawplay.xyz/4312d880-10dc-431a-a0c2-8ddeeb53c8a9/_",
-          "info": "พากย์ไทย"
-        },
-        {
-          "name": "หยางเจี่ยน เทพสามตา มหาศึกผนึกเขาบงกช (2022)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/New-Gods-Yang-Jian-2023.jpg",
-          "url": "https://streamhls.com/view/96310f2a-1659-5421-a796-1c0668014d94.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "เดชไอ้ด้วน 2 (1969)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Return-of-the-One-Armed-Swordsman-1969.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "เดชไอ้ด้วน 2 (1969)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Return-of-the-One-Armed-Swordsman-1969.jpg",
-          "url": "https://play.kakjeawplay.xyz/d38c6f75-3f15-4a6d-a1b8-0f9971ef2e9e/_",
-          "info": "พากย์ไทย"
-        },
-        {
-          "name": "เดชไอ้ด้วน 2 (1969)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Return-of-the-One-Armed-Swordsman-1969.jpg",
-          "url": "https://streamhls.com/view/a1dda432-2750-52c4-8423-8efe28ff092f.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "คู่ปรับบ้านหยินและหยาง (2023)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/The-Battle-of-Yin-and-Yang-House-2023.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "คู่ปรับบ้านหยินและหยาง (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/The-Battle-of-Yin-and-Yang-House-2023.jpg",
-          "url": "https://play.kakjeawplay.xyz/9761e65b-5422-41ce-ada7-6ac1eb7582d2/_",
-          "info": "Soundtrackซับ"
-        },
-        {
-          "name": "คู่ปรับบ้านหยินและหยาง (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/The-Battle-of-Yin-and-Yang-House-2023.jpg",
-          "url": "https://streamhls.com/view/7a175d0b-29e5-56f8-807b-36d5aaff7785.m3u8",
-          "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "คดีประหลาดของโลงศพปีศาจทั้งสี่ (2023)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Break-Evil-2023-1.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "คดีประหลาดของโลงศพปีศาจทั้งสี่ (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Break-Evil-2023-1.jpg",
-          "url": "https://play.kakjeawplay.xyz/3aae8c84-ff2c-44a0-a2c0-421d0332bd57/_",
-          "info": "Soundtrackซับ"
-        },
-        {
-          "name": "คดีประหลาดของโลงศพปีศาจทั้งสี่ (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Break-Evil-2023-1.jpg",
-          "url": "https://streamhls.com/view/7cdec163-1653-5446-b56d-48770a7a281d.m3u8",
-          "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "เรื่องสยองของกูซาน (2023)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Horror-Story-of-Gusha-2023.png",
-      "info": "",
-      "stations": [
-        {
-          "name": "เรื่องสยองของกูซาน (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Horror-Story-of-Gusha-2023.png",
-          "url": "https://play.kakjeawplay.xyz/a0c886b0-9864-4408-8906-40ee48c912d4/_",
-          "info": "Soundtrackซับ"
-        },
-        {
-          "name": "เรื่องสยองของกูซาน (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Horror-Story-of-Gusha-2023.png",
-          "url": "https://streamhls.com/view/854793e1-96b1-5c10-a988-a25d066612dd.m3u8",
-          "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "ผีก็ช่าง ไม่ผีก็ช่าง (1985)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Those-Merry-Souls-1995.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "ผีก็ช่าง ไม่ผีก็ช่าง (1985)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Those-Merry-Souls-1995.jpg",
-          "url": "https://play.kakjeawplay.xyz/bcb634b1-3d37-4e42-8efb-0173a73101e4/_",
-          "info": "พากย์ไทย"
-        },
-        {
-          "name": "ผีก็ช่าง ไม่ผีก็ช่าง (1985)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Those-Merry-Souls-1995.jpg",
-          "url": "https://streamhls.com/view/063d2859-3451-5ee3-a703-73dfc1b53a0c.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "ถล่มเจ้าระฆังทอง (1977)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Executioners-From-Shaolin-1977.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "ถล่มเจ้าระฆังทอง (1977)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Executioners-From-Shaolin-1977.jpg",
-          "url": "https://play.kakjeawplay.xyz/6903bae3-21ed-464a-84c0-ed9cb43ffa90/_",
-          "info": "พากย์ไทย"
-        },
-        {
-          "name": "ถล่มเจ้าระฆังทอง (1977)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Executioners-From-Shaolin-1977.jpg",
-          "url": "https://streamhls.com/view/175515f1-c901-54d1-8e9a-3230c56ff265.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "นิ้วมหากาฬสาวโลงศพ (1972)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Finger-Of-Doom-1972.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "นิ้วมหากาฬสาวโลงศพ (1972)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Finger-Of-Doom-1972.jpg",
-          "url": "https://play.kakjeawplay.xyz/38c4b476-84ae-460e-a7e4-8fb490a48b12/_",
-          "info": "พากย์ไทย"
-        },
-        {
-          "name": "นิ้วมหากาฬสาวโลงศพ (1972)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Finger-Of-Doom-1972.jpg",
-          "url": "https://streamhls.com/view/1cb8dbe3-4105-5556-abf7-b24d42048429.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "ล่าคำสาป เขาวงกต (2020)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Mojin-The-Tomb-of-Ghost-2021.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "ล่าคำสาป เขาวงกต (2020)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Mojin-The-Tomb-of-Ghost-2021.jpg",
-          "url": "https://play.kakjeawplay.xyz/cf28a898-056b-4519-8959-54e72c798686/_",
-          "info": "พากย์ไทย"
-        },
-        {
-          "name": "ล่าคำสาป เขาวงกต (2020)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Mojin-The-Tomb-of-Ghost-2021.jpg",
-          "url": "https://streamhls.com/view/a917facd-9f4a-581b-a911-00b99265725c.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "Some Like It Hot (2016)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Some-Like-It-Hot-2016.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "Some Like It Hot (2016)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Some-Like-It-Hot-2016.jpg",
-          "url": "https://play.kakjeawplay.xyz/5f2c1378-e2ce-4ffd-95e3-0d2bd0c31348/_",
-          "info": "Soundtrackซับ"
-        },
-        {
-          "name": "Some Like It Hot (2016)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Some-Like-It-Hot-2016.jpg",
-          "url": "https://streamhls.com/view/b095f582-4699-5270-9c86-a618987470ad.m3u8",
-          "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "มีดบินสังหารสรรพสิ่ง (2023)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/The-dagger-of-kill-celestial-being-2023.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "มีดบินสังหารสรรพสิ่ง (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/The-dagger-of-kill-celestial-being-2023.jpg",
-          "url": "https://play.kakjeawplay.xyz/b4a20284-8fa8-4c8b-b3cd-3acba6c33545/_",
-          "info": "Soundtrackซับ"
-        },
-        {
-          "name": "มีดบินสังหารสรรพสิ่ง (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/The-dagger-of-kill-celestial-being-2023.jpg",
-          "url": "https://streamhls.com/view/46cdb572-7b7f-5f9f-840f-2307479f3e18.m3u8",
-          "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "มือปราบดวลเงียบ (2023)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Silent-Duel-2023.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "มือปราบดวลเงียบ (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Silent-Duel-2023.jpg",
-          "url": "https://play.kakjeawplay.xyz/ae89aa94-4d93-49be-804b-d7f6ddf86b06/_",
-          "info": "Soundtrackซับ"
-        },
-        {
-          "name": "มือปราบดวลเงียบ (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Silent-Duel-2023.jpg",
-          "url": "https://streamhls.com/view/a4d362c1-c2a6-5a66-a41d-868611c6fa42.m3u8",
-          "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "ฉลามหมึก (2023)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Sharktopus-2023.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "ฉลามหมึก (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Sharktopus-2023.jpg",
-          "url": "https://play.kakjeawplay.xyz/a25aa757-0255-4076-ad41-3638fbc54084/_",
-          "info": "Soundtrackซับ"
-        },
-        {
-          "name": "ฉลามหมึก (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Sharktopus-2023.jpg",
-          "url": "https://streamhls.com/view/67404815-87ad-5638-967b-dcb2dce3d2d6.m3u8",
-          "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "นางยั่วปทุมทอง (1974)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/The-Golden-Lotus-1974.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "นางยั่วปทุมทอง (1974)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/The-Golden-Lotus-1974.jpg",
-          "url": "https://play.kakjeawplay.xyz/a7ea0fdc-9b70-4379-a99e-a926502f5667/_",
-          "info": "พากย์ไทย"
-        },
-        {
-          "name": "นางยั่วปทุมทอง (1974)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/The-Golden-Lotus-1974.jpg",
-          "url": "https://streamhls.com/view/cd9629bd-8224-561c-a181-587804f2e1bc.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "ไซอิ๋ว ภาค 2 ปราบปีศาจแมงมุม (1967)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/The-Cave-Of-Silken-Web-1967.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "ไซอิ๋ว ภาค 2 ปราบปีศาจแมงมุม (1967)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/The-Cave-Of-Silken-Web-1967.jpg",
-          "url": "https://play.kakjeawplay.xyz/dab39b59-65a4-456a-8d44-d24a61ff64d3/_",
-          "info": "พากย์ไทย"
-        },
-        {
-          "name": "ไซอิ๋ว ภาค 2 ปราบปีศาจแมงมุม (1967)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/The-Cave-Of-Silken-Web-1967.jpg",
-          "url": "https://streamhls.com/view/a5aa9044-a84a-5001-8756-54089d4a1676.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "ฤทธิ์มีดสั้นลี้คิมฮวง ภาค 2 (1981)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Return-of-the-Sentimental-Swordsman-1981-1.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "ฤทธิ์มีดสั้นลี้คิมฮวง ภาค 2 (1981)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Return-of-the-Sentimental-Swordsman-1981-1.jpg",
-          "url": "https://play.kakjeawplay.xyz/86cdcff4-863b-47d6-a06e-ff05b13aa6a5/_",
-          "info": "พากย์ไทย"
-        },
-        {
-          "name": "ฤทธิ์มีดสั้นลี้คิมฮวง ภาค 2 (1981)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Return-of-the-Sentimental-Swordsman-1981-1.jpg",
-          "url": "https://streamhls.com/view/d832ee68-e84c-5042-8a5d-31e121fbce30.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "วิญญาณคฤหาสน์หลอน (2023)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Exorcism-2023.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "วิญญาณคฤหาสน์หลอน (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Exorcism-2023.jpg",
-          "url": "https://play.kakjeawplay.xyz/2c6e64a8-50b7-492d-82b7-56402972fcc4/_",
-          "info": "Soundtrackซับ"
-        },
-        {
-          "name": "วิญญาณคฤหาสน์หลอน (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Exorcism-2023.jpg",
-          "url": "https://streamhls.com/view/b6e702a9-a68e-5910-a2b4-80e85e25b33a.m3u8",
-          "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "ซูเปอร์ตำรวจ (2023)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/China-Super-Police-20223.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "ซูเปอร์ตำรวจ (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/China-Super-Police-20223.jpg",
-          "url": "https://play.kakjeawplay.xyz/cf379079-b9c2-43d7-93f2-dacb2080dfd6/_",
-          "info": "Soundtrackซับ"
-        },
-        {
-          "name": "ซูเปอร์ตำรวจ (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/China-Super-Police-20223.jpg",
-          "url": "https://streamhls.com/view/e4f1c03a-c420-548b-ba90-259c1462fc4a.m3u8",
-          "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "โครงการลับกับมนุษย์ล่องหน (2023)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Breaking-Military-X-Files-Invisible-Person-2023.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "โครงการลับกับมนุษย์ล่องหน (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Breaking-Military-X-Files-Invisible-Person-2023.jpg",
-          "url": "https://play.kakjeawplay.xyz/bf3cc683-1aa2-4a2c-8299-da9203b098d9/_",
-          "info": "Soundtrackซับ"
-        },
-        {
-          "name": "โครงการลับกับมนุษย์ล่องหน (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Breaking-Military-X-Files-Invisible-Person-2023.jpg",
-          "url": "https://streamhls.com/view/d089b930-8948-59a2-8d2c-2132892d083d.m3u8",
-          "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "สวยมรณะ (2022)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Revenge-Girl-2022.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "สวยมรณะ (2022)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Revenge-Girl-2022.jpg",
-          "url": "https://play.kakjeawplay.xyz/0153ff97-a7f7-46fb-9b99-e72322f99c06/_",
-          "info": "พากย์ไทย"
-        },
-        {
-          "name": "สวยมรณะ (2022)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Revenge-Girl-2022.jpg",
-          "url": "https://streamhls.com/view/baa612d1-da89-537c-adbd-98063b02abe2.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
         }
       ]
     }
