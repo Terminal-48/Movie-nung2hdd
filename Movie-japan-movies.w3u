@@ -1,436 +1,91 @@
 {
   "name": "หนังญี่ปุ่น",
-  "author": "อัพเดท 22/08/2024",
+  "author": "อัพเดท 13/03/2025",
   "info": "",
   "image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
   "url": "https://raw.githubusercontent.com/Terminal-48/Movie-nung2hdd/main/Movie-japan-movies.w3u",
   "groups": [
     {
-      "name": "Bad City (2022)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/Bad-City-2022.jpg",
+      "name": "โดราเอมอน เดอะ มูฟวี่ : โลกแห่งซิมโฟนี่ของโนบิตะ (2024)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Doraemon-the-Movie-Nobita-s-Earth-Symphony.jpg",
       "info": "",
       "stations": [
         {
-          "name": "Bad City (2022)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/Bad-City-2022.jpg",
-          "url": "https://streamhls.com/view/afe9b6f7-2ec2-5e08-9672-0acdc4cfe544.m3u8",
-          "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
+          "name": "โดราเอมอน เดอะ มูฟวี่ : โลกแห่งซิมโฟนี่ของโนบิตะ (2024)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Doraemon-the-Movie-Nobita-s-Earth-Symphony.jpg",
+          "url": "https://master.streamhls.com/hlsr2/a2fc04bd41275711ddc9180ac1cafb99/master.m3u8",
+          "info": "พากย์ไทย",
+          "referer": "https://master.streamhls.com/"
         }
       ]
     },
     {
-      "name": "โรงงานของเล่นในป่า (2023)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/Sumikkogurashi.jpg",
+      "name": "ชินจัง เดอะมูฟวี่ ไดอารี่เพื่อนรัก ไดโนเสาร์ของพวกเรา (2024)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2025/03/Crayon-Shin-chan-the-Movie-Our-Dinosaur-Diary.jpg",
       "info": "",
       "stations": [
         {
-          "name": "โรงงานของเล่นในป่า (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/Sumikkogurashi.jpg",
-          "url": "https://streamhls.com/view/3b937790-2c67-5ac7-af6f-a8d535b13bbd.m3u8",
-          "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
+          "name": "ชินจัง เดอะมูฟวี่ ไดอารี่เพื่อนรัก ไดโนเสาร์ของพวกเรา (2024)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2025/03/Crayon-Shin-chan-the-Movie-Our-Dinosaur-Diary.jpg",
+          "url": "https://master.streamhls.com/hlsr2/5ef3e4418bd7a553c1d6c62c86cfcb5f/master.m3u8",
+          "info": "พากย์ไทย",
+          "referer": "https://master.streamhls.com/"
         }
       ]
     },
     {
-      "name": "รักเรายังคิดถึง (2024)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/18×2-Beyond-Youthful-Days-2024.jpg",
+      "name": "เมืองอสูร (2025)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2025/02/Demon-City.jpg",
       "info": "",
       "stations": [
         {
-          "name": "รักเรายังคิดถึง (2024)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/18×2-Beyond-Youthful-Days-2024.jpg",
-          "url": "https://streamhls.com/view/cd0bf5bc-46b9-5e93-9216-71d0b4e8418d.m3u8",
-          "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
+          "name": "เมืองอสูร (2025)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2025/02/Demon-City.jpg",
+          "url": "https://master.streamhls.com/hlsr2/74dd7c96344b685f3efb845210754ab6/master.m3u8",
+          "info": "พากย์ไทย",
+          "referer": "https://master.streamhls.com/"
         }
       ]
     },
     {
-      "name": "สปาย x แฟมิลี โค้ด ไวท์ 2023)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/SPY-x-FAMILY-CODE-White.jpg",
+      "name": "Broken Rage (2024)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2025/02/Broken-Rage-2024.jpg",
       "info": "",
       "stations": [
         {
-          "name": "สปาย x แฟมิลี โค้ด ไวท์ 2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/SPY-x-FAMILY-CODE-White.jpg",
-          "url": "https://streamhls.com/view/53410266-5fe5-54c7-8009-1dba9808bd61.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
+          "name": "Broken Rage (2024)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2025/02/Broken-Rage-2024.jpg",
+          "url": "https://master.streamhls.com/hlsr2/899494a2646d625eb3d1a2b767bece59/master.m3u8",
+          "info": "Soundtrackซับ",
+          "referer": "https://master.streamhls.com/"
         }
       ]
     },
     {
-      "name": "Godzilla Minus One/Minus Color (2024)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/Godzilla-Minus-One.jpg",
+      "name": "โต๊ะโตะจัง เด็กหญิงข้างหน้าต่าง (2024)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Totto-chan-The-Little-Girl-at-the-Window.jpg",
       "info": "",
       "stations": [
         {
-          "name": "Godzilla Minus One/Minus Color (2024)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/Godzilla-Minus-One.jpg",
-          "url": "https://streamhls.com/view/fc3d151a-23b3-50ca-b25a-06e003688c57.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
+          "name": "โต๊ะโตะจัง เด็กหญิงข้างหน้าต่าง (2024)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Totto-chan-The-Little-Girl-at-the-Window.jpg",
+          "url": "https://master.streamhls.com/hlsr2/0368c94a6efcea2a233b2895a9839ba2/master.m3u8",
+          "info": "พากย์ไทย",
+          "referer": "https://master.streamhls.com/"
         }
       ]
     },
     {
-      "name": "Macross Frontier: Labyrinth of Time (2021)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Macross-Frontier-Labyrinth-of-Time-2021.jpg",
+      "name": "ไร้หน้า (2024)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2025/02/Faceless.jpg",
       "info": "",
       "stations": [
         {
-          "name": "Macross Frontier: Labyrinth of Time (2021)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Macross-Frontier-Labyrinth-of-Time-2021.jpg",
-          "url": "https://streamhls.com/view/e5c704f2-3702-52c0-a8a6-279562ff5d75.m3u8",
-          "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "My Home Hero the Movie (2024)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/My-Home-Hero-the-Movie-2024.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "My Home Hero the Movie (2024)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/My-Home-Hero-the-Movie-2024.jpg",
-          "url": "https://streamhls.com/view/13b2dba0-2a99-5f91-958f-6153d3cc49aa.m3u8",
-          "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "เกิดใหม่เป็นนางร้าย จะเลือกทางไหนก็หายนะ เดอะมูฟวี่ (2023)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/My-Next-Life-as-a-Villainess-All-Routes-Lead-to-Doom-The-Movie.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "เกิดใหม่เป็นนางร้าย จะเลือกทางไหนก็หายนะ เดอะมูฟวี่ (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/My-Next-Life-as-a-Villainess-All-Routes-Lead-to-Doom-The-Movie.jpg",
-          "url": "https://streamhls.com/view/6bf79eb7-17dd-5864-8126-1eeabd51a5f8.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "จินตนาการ (2024)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/The-Imaginary.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "จินตนาการ (2024)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/The-Imaginary.jpg",
-          "url": "https://streamhls.com/view/3a9b0908-d2e7-50d9-a372-3fdc1b2c8848.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "อุลตร้าแมนเดกเกอร์ การเดินทางสู่อนาคต (2023)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Ultraman-Decker-Finale-Journey-to-Beyond.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "อุลตร้าแมนเดกเกอร์ การเดินทางสู่อนาคต (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Ultraman-Decker-Finale-Journey-to-Beyond.jpg",
-          "url": "https://streamhls.com/view/3f49df19-4b60-5c42-942b-474da1656e96.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "Love Is Light (2022)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Love-Is-Light-2022.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "Love Is Light (2022)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Love-Is-Light-2022.jpg",
-          "url": "https://streamhls.com/view/586cbeb9-fc4e-56e0-9740-e3f858f619d7.m3u8",
-          "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "ดาบพิฆาตอสูร เดอะมูฟวี่ ปาฏิหาริย์แห่งสายสัมพันธ์ สู่การสั่งสอนของเสาหลัก (2024)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/Demon-Slayer-Kimetsu-no-Yaiba-To-the-Hashira-Training.png",
-      "info": "",
-      "stations": [
-        {
-          "name": "ดาบพิฆาตอสูร เดอะมูฟวี่ ปาฏิหาริย์แห่งสายสัมพันธ์ สู่การสั่งสอนของเสาหลัก (2024)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/Demon-Slayer-Kimetsu-no-Yaiba-To-the-Hashira-Training.png",
-          "url": "https://streamhls.com/view/0a4ad326-9a7b-51c3-a172-7e95492d9653.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "ไฮคิว!! คู่ตบฟ้าประทาน ตอน ศึกที่กองขยะ (2024)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Haikyuu-The-Dumpster-Battle.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "ไฮคิว!! คู่ตบฟ้าประทาน ตอน ศึกที่กองขยะ (2024)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Haikyuu-The-Dumpster-Battle.jpg",
-          "url": "https://streamhls.com/view/6a8cd3d0-5ea2-592c-8ba1-f0e28ade679f.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "ถ้านอนไม่หลับ ไปนับดาวกันไหม (2023)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Insomniacs-After-School.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "ถ้านอนไม่หลับ ไปนับดาวกันไหม (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Insomniacs-After-School.jpg",
-          "url": "https://streamhls.com/view/4275e923-d093-5eff-b056-612062b4010c.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "เด็กชายกับนกกระสา (2023)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/The-Boy-and-the-Heron-2023.png",
-      "info": "",
-      "stations": [
-        {
-          "name": "เด็กชายกับนกกระสา (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/The-Boy-and-the-Heron-2023.png",
-          "url": "https://streamhls.com/view/076d3e95-0a17-50d2-9979-b1442838b6c8.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "วาดรัก… จนกว่าจะหมดเวลา (2024)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Drawing-Closer.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "วาดรัก… จนกว่าจะหมดเวลา (2024)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Drawing-Closer.jpg",
-          "url": "https://streamhls.com/view/48717303-14db-5b4d-affc-5bef97ed14e5.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "เดอะ เฟิสต์ สแลมดังก์ (2022)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/09/The-First-Slam-Dunk-2022.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "เดอะ เฟิสต์ สแลมดังก์ (2022)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/09/The-First-Slam-Dunk-2022.jpg",
-          "url": "https://streamhls.com/view/603f6ed8-d722-56e5-b63c-4e9a6d24d378.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "ยอดนักสืบจิ๋วโคนัน vs. จอมโจรคิด 2024)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Detective-Conan-vs-Kid-the-Phantom-Thief.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "ยอดนักสืบจิ๋วโคนัน vs. จอมโจรคิด 2024)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Detective-Conan-vs-Kid-the-Phantom-Thief.jpg",
-          "url": "https://streamhls.com/view/bd070217-d40c-5108-ac24-7e30449ef487.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "Mobile Suit Gundam SEED FREEDOM (2024)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Mobile-Suit-Gundam-SEED-FREEDOM-2024.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "Mobile Suit Gundam SEED FREEDOM (2024)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Mobile-Suit-Gundam-SEED-FREEDOM-2024.jpg",
-          "url": "https://streamhls.com/view/137a05ef-ebdf-5645-b20f-b5d305182e47.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "ฮันมะ บากิปะทะกำปั้นอสูร โทคิตะ (2024)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Baki-Hanma-VS-Kengan-Ashura.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "ฮันมะ บากิปะทะกำปั้นอสูร โทคิตะ (2024)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Baki-Hanma-VS-Kengan-Ashura.jpg",
-          "url": "https://streamhls.com/view/be3f17d0-21c3-5282-b964-232dd19da08e.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "ไดนาเซนอน มูฟวี่ (2023)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/SSSS-DYNAZENON-Movie.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "ไดนาเซนอน มูฟวี่ (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/SSSS-DYNAZENON-Movie.jpg",
-          "url": "https://streamhls.com/view/d7a0fa1e-7423-5ff9-8ad8-fd59e371946c.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "ก็อดซิลล่า ไมนัส วัน (2023)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/05/Godzilla-Minus-One-2023.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "ก็อดซิลล่า ไมนัส วัน (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/05/Godzilla-Minus-One-2023.jpg",
-          "url": "https://streamhls.com/view/f759f531-d5e9-5eea-9253-945b28ecb572.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "Lumberjack the Monster (2023)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Lumberjack-the-Monster-2023.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "Lumberjack the Monster (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Lumberjack-the-Monster-2023.jpg",
-          "url": "https://streamhls.com/view/9c373215-9689-56ae-9d74-c80ee7429e48.m3u8",
-          "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "เป่าฝันให้เต็มฟ้า (2024)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Blue-Giant.png",
-      "info": "",
-      "stations": [
-        {
-          "name": "เป่าฝันให้เต็มฟ้า (2024)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Blue-Giant.png",
-          "url": "https://streamhls.com/view/35d64c0b-400b-5a67-825c-7fbd8cff2cba.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "ชินจัง เดอะมูฟวี่ มหาสงครามซุปเปอร์พลังจิตซูชิเหินเวหา (2023)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Shin-Jigen-Crayon-Shin-chan-the-Movie.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "ชินจัง เดอะมูฟวี่ มหาสงครามซุปเปอร์พลังจิตซูชิเหินเวหา (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Shin-Jigen-Crayon-Shin-chan-the-Movie.jpg",
-          "url": "https://streamhls.com/view/6437609d-bd90-5cfa-8a64-9195d8edfd7b.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "SSSS กริดแมน มูฟวี่ 2023)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/05/SSSSGRIDMAN-Movie.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "SSSS กริดแมน มูฟวี่ 2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/05/SSSSGRIDMAN-Movie.jpg",
-          "url": "https://streamhls.com/view/f0362c8d-1d63-5d4e-967d-6f4d10cc0041.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "โตเกียว รีเวนเจอร์ส: ฮาโลวีนสีเลือด ศึกตัดสิน (2023)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Tokyo-Revengers-2023-2.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "โตเกียว รีเวนเจอร์ส: ฮาโลวีนสีเลือด ศึกตัดสิน (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Tokyo-Revengers-2023-2.jpg",
-          "url": "https://streamhls.com/view/15c0c995-35c3-540a-a3a9-50acf5bb443a.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "โตเกียว รีเวนเจอร์ส: ฮาโลวีนสีเลือด โชคชะตา (2023)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Tokyo-Revengers-2023.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "โตเกียว รีเวนเจอร์ส: ฮาโลวีนสีเลือด โชคชะตา (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Tokyo-Revengers-2023.jpg",
-          "url": "https://streamhls.com/view/77298e05-7e40-5ddc-88f1-9bfed746113a.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "มาย โอนิ เกิร์ล (2024)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/05/My-Oni-Girl-2024.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "มาย โอนิ เกิร์ล (2024)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/05/My-Oni-Girl-2024.jpg",
-          "url": "https://streamhls.com/view/b6b7df04-bb40-514f-a886-6b2c12ee9cbc.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "ฝนตกวันนั้นผมแอบรักรุ่นพี่ (2023)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/05/The-Water-Flows-to-the-Sea.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "ฝนตกวันนั้นผมแอบรักรุ่นพี่ (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/05/The-Water-Flows-to-the-Sea.jpg",
-          "url": "https://streamhls.com/view/f99fe682-fdb7-5f34-a492-06539e4ef5e6.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "โกลเดนคามุย (2024)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/05/Golden-Kamuy.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "โกลเดนคามุย (2024)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/05/Golden-Kamuy.jpg",
-          "url": "https://streamhls.com/view/5d4ecaa8-687f-5b9d-a6a9-d84ba5061e81.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "เส้นทางชีวิต (2024)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/05/Ikitoshi-Ikerumono-2024.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "เส้นทางชีวิต (2024)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/05/Ikitoshi-Ikerumono-2024.jpg",
-          "url": "https://streamhls.com/view/4b9ba82d-a2a5-5c2c-aa3e-d2e70d673c86.m3u8",
-          "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "ที่ตรงนั้นยังคิดถึง (2023)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/05/Side-By-Side-Saido-bai-saido-tonari-ni-iru-hito-2023.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "ที่ตรงนั้นยังคิดถึง (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/05/Side-By-Side-Saido-bai-saido-tonari-ni-iru-hito-2023.jpg",
-          "url": "https://streamhls.com/view/8500e320-3838-599e-b236-931f99904182.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
+          "name": "ไร้หน้า (2024)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2025/02/Faceless.jpg",
+          "url": "https://master.streamhls.com/hlsr2/d6d26dc75968ed41f2df8bf3e693c04d/master.m3u8",
+          "info": "Soundtrackซับ",
+          "referer": "https://master.streamhls.com/"
         }
       ]
     },
@@ -442,346 +97,79 @@
         {
           "name": "หยุดโลกเหงาไว้ตรงนี้ (2023)",
           "image": "https://www.nung2hdd.com/wp-content/uploads/2024/05/Perfect-Days-2023.jpg",
-          "url": "https://streamhls.com/view/efa8bffc-d0a5-5565-8b2a-b37fdaa3df0a.m3u8",
-          "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
+          "url": "https://master.streamhls.com/hlsr2/76b1c0fa7ab2f704424b4e037814e45f/master.m3u8",
+          "info": "พากย์ไทย",
+          "referer": "https://master.streamhls.com/"
         }
       ]
     },
     {
-      "name": "เลิฟไลฟ์! เดอะ สคูล ไอดอล มูฟวี่ (2015)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Love-Live-The-School-Idol-Movie.jpg",
+      "name": "บ้านผีอิหยังวะ (2024)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2025/01/House-of-Sayuri-2024.jpg",
       "info": "",
       "stations": [
         {
-          "name": "เลิฟไลฟ์! เดอะ สคูล ไอดอล มูฟวี่ (2015)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Love-Live-The-School-Idol-Movie.jpg",
-          "url": "https://streamhls.com/view/e731db10-78fa-522b-9710-65ddd3238219.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
+          "name": "บ้านผีอิหยังวะ (2024)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2025/01/House-of-Sayuri-2024.jpg",
+          "url": "https://master.streamhls.com/hlsr2/f4727eccac0bf0496ffc20ce99086ecc/master.m3u8",
+          "info": "พากย์ไทย",
+          "referer": "https://master.streamhls.com/"
         }
       ]
     },
     {
-      "name": "ศึกรุ่งอรุณ (2023)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Touken-Ranbu-2-2023.jpg",
+      "name": "มหาสงครามกู้แผ่นดิน: ยอดขุนศึกคืนสมรภูมิ (2024)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2025/01/Kingdom-4-Return-of-the-Great-General-2024.jpg",
       "info": "",
       "stations": [
         {
-          "name": "ศึกรุ่งอรุณ (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Touken-Ranbu-2-2023.jpg",
-          "url": "https://streamhls.com/view/a38faaf7-27f9-5d45-992c-b5ff8e698981.m3u8",
-          "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
+          "name": "มหาสงครามกู้แผ่นดิน: ยอดขุนศึกคืนสมรภูมิ (2024)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2025/01/Kingdom-4-Return-of-the-Great-General-2024.jpg",
+          "url": "https://master.streamhls.com/hlsr2/fdc4e82c2737114e8ffbe981ce70059e/master.m3u8",
+          "info": "Soundtrackซับ",
+          "referer": "https://master.streamhls.com/"
         }
       ]
     },
     {
-      "name": "โรฮังกับความลับของพิพิธภัณฑ์ลูฟร์ (2023)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Rohan-at-the-Louvre.jpg",
+      "name": "วันนั้น วันไหน หัวใจบรรเลง (2022)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2025/01/Whisper-of-the-Heart.jpg",
       "info": "",
       "stations": [
         {
-          "name": "โรฮังกับความลับของพิพิธภัณฑ์ลูฟร์ (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Rohan-at-the-Louvre.jpg",
-          "url": "https://streamhls.com/view/029d30c4-ac52-504b-b6e1-a8cfc4e99418.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
+          "name": "วันนั้น วันไหน หัวใจบรรเลง (2022)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2025/01/Whisper-of-the-Heart.jpg",
+          "url": "https://master.streamhls.com/hlsr2/0b31aa7caf97957bd02ac0d6b9597e5c/master.m3u8",
+          "info": "พากย์ไทย",
+          "referer": "https://master.streamhls.com/"
         }
       ]
     },
     {
-      "name": "หลุมหลอนซ่อนคำสาป (2023)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/The-Forbidden-Play.png",
+      "name": "BORDER: Shokuzai (2017)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/12/BORDER-Redemption-2017.jpg",
       "info": "",
       "stations": [
         {
-          "name": "หลุมหลอนซ่อนคำสาป (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/The-Forbidden-Play.png",
-          "url": "https://streamhls.com/view/a40a337f-06ee-5025-a62f-a6c0a16f5c41.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
+          "name": "BORDER: Shokuzai (2017)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/12/BORDER-Redemption-2017.jpg",
+          "url": "https://master.streamhls.com/hlsr2/daeae0db9e2ea8058d2be722c91f0c2c/master.m3u8",
+          "info": "Soundtrackซับ",
+          "referer": "https://master.streamhls.com/"
         }
       ]
     },
     {
-      "name": "One-Percenter (2023)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/One-Percenter-2023.jpg",
+      "name": "เมษายน พาใครบางคนกลับมา (2024)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/12/Come-She-Will.jpg",
       "info": "",
       "stations": [
         {
-          "name": "One-Percenter (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/One-Percenter-2023.jpg",
-          "url": "https://streamhls.com/view/ac40f672-1247-5eb0-b7fa-90e44480bde0.m3u8",
-          "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "โดราเอมอน ตอน ฟากฟ้าแห่งยูโทเปียของโนบิตะ (2023)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2020/04/Doraemon-The-Movie-42-Nobita-Sky-Utopia-2023.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "โดราเอมอน ตอน ฟากฟ้าแห่งยูโทเปียของโนบิตะ (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/04/Doraemon-The-Movie-42-Nobita-Sky-Utopia-2023.jpg",
-          "url": "https://streamhls.com/view/fd183a3b-1e31-59fc-b141-d30a3cef4dc6.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "ใกล้กว่านี้จะรักแล้วนะ (2023)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Takumi-kun-The-Dawn-of-the-Long-Tales-2023.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "ใกล้กว่านี้จะรักแล้วนะ (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Takumi-kun-The-Dawn-of-the-Long-Tales-2023.jpg",
-          "url": "https://streamhls.com/view/abd89294-f285-57c5-8244-64d201118f00.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "แอบรักเติมฝันในวันฟ้าใส (2022)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/The-Blue-Skies-at-Your-Feet-2022.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "แอบรักเติมฝันในวันฟ้าใส (2022)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/The-Blue-Skies-at-Your-Feet-2022.jpg",
-          "url": "https://streamhls.com/view/707fc1e7-cb85-5c38-a2dc-6c284f80108d.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "Digimon Adventure 02: The Beginning (2023)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Digimon-Adventure-02-The-Beginning-2023.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "Digimon Adventure 02: The Beginning (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Digimon-Adventure-02-The-Beginning-2023.jpg",
-          "url": "https://streamhls.com/view/130e9179-4dca-5412-8939-4eee39f23a7c.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "มหัศจรรย์สาวน้อย พริตตี้เคียว ออลสตาร์ เอฟ (2023)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/PreCure-All-Stars-F.png",
-      "info": "",
-      "stations": [
-        {
-          "name": "มหัศจรรย์สาวน้อย พริตตี้เคียว ออลสตาร์ เอฟ (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/PreCure-All-Stars-F.png",
-          "url": "https://streamhls.com/view/6c62e0df-a208-585e-b18d-25877bb78148.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "นางโลม โลกจารึก (2005)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2015/04/Memoirs-of-a-Geisha.png",
-      "info": "",
-      "stations": [
-        {
-          "name": "นางโลม โลกจารึก (2005)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2015/04/Memoirs-of-a-Geisha.png",
-          "url": "https://streamhls.com/view/a5ee92ea-c3f5-5d8d-9f63-bebe79fa4225.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "xxxHOLiC (2022)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/xxxHOLiC-2022.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "xxxHOLiC (2022)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/xxxHOLiC-2022.jpg",
-          "url": "https://streamhls.com/view/d86f4e8f-211c-5451-ab59-c6e115f43328.m3u8",
-          "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "Mobile Suit Gundam: Cucuruz Doan’s Island (2022)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/06/Mobile-Suit-Gundam-Cucuruz-Doan-s-Island-2022.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "Mobile Suit Gundam: Cucuruz Doan’s Island (2022)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/06/Mobile-Suit-Gundam-Cucuruz-Doan-s-Island-2022.jpg",
-          "url": "https://streamhls.com/view/37b5ee7b-ce5f-5025-82f4-382de006c043.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "ชินจัง เดอะมูฟวี่ ตอน นินจาคาถาวายุอลเวง (2022)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/09/Crayon-Shin-chan-2023.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "ชินจัง เดอะมูฟวี่ ตอน นินจาคาถาวายุอลเวง (2022)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/09/Crayon-Shin-chan-2023.jpg",
-          "url": "https://streamhls.com/view/2d10e871-2745-58d6-93be-e8158dc5f271.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "วัยชน คนเมะ! (2022)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/Anime-Supremacy.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "วัยชน คนเมะ! (2022)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/Anime-Supremacy.jpg",
-          "url": "https://streamhls.com/view/14c90e74-b2ab-5592-a5d6-b15a916b2d1d.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "ชิน อุลตร้าแมน (2022)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/Shin-Ultraman-2022.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "ชิน อุลตร้าแมน (2022)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/Shin-Ultraman-2022.jpg",
-          "url": "https://streamhls.com/view/6b6e8512-31f3-5896-9039-b0066be1f8ae.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "มอนสเตอร์ (2023)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Kaibutsu.png",
-      "info": "",
-      "stations": [
-        {
-          "name": "มอนสเตอร์ (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Kaibutsu.png",
-          "url": "https://streamhls.com/view/b8a93196-e785-56b5-ae29-33ba120103a8.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "กันวูแมน (2014)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Gun-Woman.png",
-      "info": "",
-      "stations": [
-        {
-          "name": "กันวูแมน (2014)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Gun-Woman.png",
-          "url": "https://streamhls.com/view/1d2bdfd3-e4af-5ffb-9b3d-d800d8400724.m3u8",
-          "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "เดอะ พาเหรด (2024)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/02/The-Parades.png",
-      "info": "",
-      "stations": [
-        {
-          "name": "เดอะ พาเหรด (2024)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/02/The-Parades.png",
-          "url": "https://streamhls.com/view/6c3758bc-5407-5250-8318-dd3b671256d3.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "ป่าแปลกแลกตาย (2022)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/It-s-in-the-Woods.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "ป่าแปลกแลกตาย (2022)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/It-s-in-the-Woods.jpg",
-          "url": "https://streamhls.com/view/72af1fc2-646d-5df4-8b0c-30709c581686.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "บุกมาปล้น (2024)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Trespassers.png",
-      "info": "",
-      "stations": [
-        {
-          "name": "บุกมาปล้น (2024)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Trespassers.png",
-          "url": "https://streamhls.com/view/c344e76d-dc1a-5ed3-b82f-71945b885088.m3u8",
-          "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "โมบิลสูท กันดั้ม นาร์ราทีฟ (2018)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Mobile-Suit-Gundam-Narrative-2018.png",
-      "info": "",
-      "stations": [
-        {
-          "name": "โมบิลสูท กันดั้ม นาร์ราทีฟ (2018)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Mobile-Suit-Gundam-Narrative-2018.png",
-          "url": "https://streamhls.com/view/4bacd794-d80d-539b-821a-08409ca131fb.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "วันพีซ ฟิล์ม แซด (2012)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/One-Piece-Film-Z-2016.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "วันพีซ ฟิล์ม แซด (2012)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/One-Piece-Film-Z-2016.jpg",
-          "url": "https://streamhls.com/view/080cd7c6-6892-5973-bbc1-088c374250b1.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "มาโบโรชิ (2024)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Maboroshi.png",
-      "info": "",
-      "stations": [
-        {
-          "name": "มาโบโรชิ (2024)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Maboroshi.png",
-          "url": "https://streamhls.com/view/e9392696-c63b-57a8-8131-5fe1a3ce3445.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "สงครามบัลลังก์ผงาดจิ๋นซี 3 (2024)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Kingdom-III-The-Flame-of-Destiny-2023.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "สงครามบัลลังก์ผงาดจิ๋นซี 3 (2024)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Kingdom-III-The-Flame-of-Destiny-2023.jpg",
-          "url": "https://streamhls.com/view/ef2e1427-c752-59d8-acd8-583722cb53cf.m3u8",
-          "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "เกาะผีดุ (2023)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Immersion-2023.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "เกาะผีดุ (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Immersion-2023.jpg",
-          "url": "https://streamhls.com/view/31193815-e5f1-5492-872b-069dd9797865.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
+          "name": "เมษายน พาใครบางคนกลับมา (2024)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/12/Come-She-Will.jpg",
+          "url": "https://master.streamhls.com/hlsr2/566813874606fcf6bb10ff228fdf597a/master.m3u8",
+          "info": "พากย์ไทย",
+          "referer": "https://master.streamhls.com/"
         }
       ]
     },
@@ -793,60 +181,989 @@
         {
           "name": "เทปผีดุ (2023)",
           "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Minna-no-Uta.jpg",
-          "url": "https://streamhls.com/view/c1b8237f-bf1a-514b-99e0-eb233e9c6f83.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
+          "url": "https://master.streamhls.com/hlsr2/3e341c8aa20db9beb220da8f45da3ede/master.m3u8",
+          "info": "พากย์ไทย",
+          "referer": "https://master.streamhls.com/"
         }
       ]
     },
     {
-      "name": "ยอดนักสืบจิ๋วโคนัน เดอะมูฟวี่ 26 มฤตยูใต้น้ำทมิฬ (2023)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Detective-Conan-The-Movie-26.jpg",
+      "name": "ท้องฟ้าสีฟ้าของเธอ (2019)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2020/10/Her-Blue-Sky.jpg",
       "info": "",
       "stations": [
         {
-          "name": "ยอดนักสืบจิ๋วโคนัน เดอะมูฟวี่ 26 มฤตยูใต้น้ำทมิฬ (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Detective-Conan-The-Movie-26.jpg",
-          "url": "https://streamhls.com/view/78c69fca-8cb1-566e-9cd7-601a0a132260.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
+          "name": "ท้องฟ้าสีฟ้าของเธอ (2019)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/10/Her-Blue-Sky.jpg",
+          "url": "https://master.streamhls.com/hlsr2/f401f0f25a602e5eb6d96fc1cb94e008/master.m3u8",
+          "info": "Soundtrackซับ",
+          "referer": "https://master.streamhls.com/"
         }
       ]
     },
     {
-      "name": "ถึงเธอทุกคนที่ผมรัก (2022)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/To-Every-You-I-ve-Loved-Before.jpg",
+      "name": "โมโนโนเกะ เดอะ มูฟวี่: ปีศาจในสายฝน (2024)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/12/Mononoke.jpg",
       "info": "",
       "stations": [
         {
-          "name": "ถึงเธอทุกคนที่ผมรัก (2022)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/To-Every-You-I-ve-Loved-Before.jpg",
-          "url": "https://streamhls.com/view/1635e0d9-8319-5027-aad1-4c9d5a3de38e.m3u8",
-          "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
+          "name": "โมโนโนเกะ เดอะ มูฟวี่: ปีศาจในสายฝน (2024)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/12/Mononoke.jpg",
+          "url": "https://master.streamhls.com/hlsr2/bd79953615a28791acc0036187f49a42/master.m3u8",
+          "info": "พากย์ไทย",
+          "referer": "https://master.streamhls.com/"
         }
       ]
     },
     {
-      "name": "กริดแมนยูนิเวิร์ส (2023)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Gridman-Universe.jpg",
+      "name": "มาสค์ไรเดอร์ เดอะ เฟิร์ส (2005)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/11/Kamen-Rider-The-First.jpg",
       "info": "",
       "stations": [
         {
-          "name": "กริดแมนยูนิเวิร์ส (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Gridman-Universe.jpg",
-          "url": "https://streamhls.com/view/253134c5-f26b-51d9-9e0c-105d9e001806.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
+          "name": "มาสค์ไรเดอร์ เดอะ เฟิร์ส (2005)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/11/Kamen-Rider-The-First.jpg",
+          "url": "https://master.streamhls.com/hlsr2/2d092b0b9d4cab49d330bebc417a7bb0/master.m3u8",
+          "info": "พากย์ไทย",
+          "referer": "https://master.streamhls.com/"
         }
       ]
     },
     {
-      "name": "แดนสามานย์ (2023)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Bad-Lands-2023.jpg",
+      "name": "“รัก”พาตัว (2022)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/11/Wandering.jpg",
       "info": "",
       "stations": [
         {
-          "name": "แดนสามานย์ (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Bad-Lands-2023.jpg",
-          "url": "https://streamhls.com/view/0d68e27e-b491-575a-aa18-f85c95639684.m3u8",
-          "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
+          "name": "“รัก”พาตัว (2022)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/11/Wandering.jpg",
+          "url": "https://master.streamhls.com/hlsr2/afcb096dc1302682ff3a8c62968f74bd/master.m3u8",
+          "info": "พากย์ไทย",
+          "referer": "https://master.streamhls.com/"
+        }
+      ]
+    },
+    {
+      "name": "ไฮคิว!! คู่ตบฟ้าประทาน ตอน ศึกที่กองขยะ (2024)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Haikyuu-The-Dumpster-Battle.jpg",
+      "info": "",
+      "stations": [
+        {
+          "name": "ไฮคิว!! คู่ตบฟ้าประทาน ตอน ศึกที่กองขยะ (2024)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Haikyuu-The-Dumpster-Battle.jpg",
+          "url": "https://master.streamhls.com/hlsr2/ffd345f9b5f5e2ae0898ea1ea7c7caee/master.m3u8",
+          "info": "พากย์ไทย",
+          "referer": "https://master.streamhls.com/"
+        }
+      ]
+    },
+    {
+      "name": "มาย ฮีโร่ อคาเดเมีย (2024)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/11/My-Hero-Academia-Youre-Next-2024.jpg",
+      "info": "",
+      "stations": [
+        {
+          "name": "มาย ฮีโร่ อคาเดเมีย (2024)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/11/My-Hero-Academia-Youre-Next-2024.jpg",
+          "url": "https://master.streamhls.com/hlsr2/2e50a8dc741c42d59a8016db35d4a40d/master.m3u8",
+          "info": "พากย์ไทย",
+          "referer": "https://master.streamhls.com/"
+        }
+      ]
+    },
+    {
+      "name": "ลุคแบ็ค (2024)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/11/Look-Back-2024.jpg",
+      "info": "",
+      "stations": [
+        {
+          "name": "ลุคแบ็ค (2024)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/11/Look-Back-2024.jpg",
+          "url": "https://master.streamhls.com/hlsr2/068956200bd3ee8d5c5d89ac15d4acd0/master.m3u8",
+          "info": "พากย์ไทย",
+          "referer": "https://master.streamhls.com/"
+        }
+      ]
+    },
+    {
+      "name": "สื่อภาษาใจไปถึงเธอ (2024)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Silent-Love-2024.jpg",
+      "info": "",
+      "stations": [
+        {
+          "name": "สื่อภาษาใจไปถึงเธอ (2024)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Silent-Love-2024.jpg",
+          "url": "https://master.streamhls.com/hlsr2/4e9e14571f632155a328812761a63115/master.m3u8",
+          "info": "Soundtrackซับ",
+          "referer": "https://master.streamhls.com/"
+        }
+      ]
+    },
+    {
+      "name": "เด็กชายกับนกกระสา (2023)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/The-Boy-and-the-Heron-2023.png",
+      "info": "",
+      "stations": [
+        {
+          "name": "เด็กชายกับนกกระสา (2023)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/The-Boy-and-the-Heron-2023.png",
+          "url": "https://master.streamhls.com/hlsr2/5a2df8496bb2d9fe6b246e6ff13a6899/master.m3u8",
+          "info": "พากย์ไทย",
+          "referer": "https://master.streamhls.com/"
+        }
+      ]
+    },
+    {
+      "name": "A Touch of Sin (2013)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/A-Touch-of-Sin-2013.jpg",
+      "info": "",
+      "stations": [
+        {
+          "name": "A Touch of Sin (2013)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/A-Touch-of-Sin-2013.jpg",
+          "url": "https://master.streamhls.com/hlsr2/576a4fd548fd61f870abd8e1030c21e8/master.m3u8",
+          "info": "Soundtrackซับ",
+          "referer": "https://master.streamhls.com/"
+        }
+      ]
+    },
+    {
+      "name": "Baby Assassins (2021)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Baby-Assassins-2021.jpg",
+      "info": "",
+      "stations": [
+        {
+          "name": "Baby Assassins (2021)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Baby-Assassins-2021.jpg",
+          "url": "https://master.streamhls.com/hlsr2/1789743b6b6c35657e3a9b7b883d8fb3/master.m3u8",
+          "info": "Soundtrackซับ",
+          "referer": "https://master.streamhls.com/"
+        }
+      ]
+    },
+    {
+      "name": "บันทึกความทรงจำข้ามดวงดาว (2024)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Previously-Saved-Version-2024.jpg",
+      "info": "",
+      "stations": [
+        {
+          "name": "บันทึกความทรงจำข้ามดวงดาว (2024)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Previously-Saved-Version-2024.jpg",
+          "url": "https://master.streamhls.com/hlsr2/24caba24663a5c000901a498c6a8d6b7/master.m3u8",
+          "info": "พากย์ไทย",
+          "referer": "https://master.streamhls.com/"
+        }
+      ]
+    },
+    {
+      "name": "หาย (2024)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Missing.jpg",
+      "info": "",
+      "stations": [
+        {
+          "name": "หาย (2024)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Missing.jpg",
+          "url": "https://master.streamhls.com/hlsr2/10c51e1b51952768317df565fee6b0d0/master.m3u8",
+          "info": "Soundtrackซับ",
+          "referer": "https://master.streamhls.com/"
+        }
+      ]
+    },
+    {
+      "name": "ที่นี่ไม่มีปีศาจ (2023)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Evil-Does-Not-Exist.jpg",
+      "info": "",
+      "stations": [
+        {
+          "name": "ที่นี่ไม่มีปีศาจ (2023)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Evil-Does-Not-Exist.jpg",
+          "url": "https://master.streamhls.com/hlsr2/cb64bab3d0c3ef22f501f71ebae8ec9f/master.m3u8",
+          "info": "พากย์ไทย",
+          "referer": "https://master.streamhls.com/"
+        }
+      ]
+    },
+    {
+      "name": "คิริเอะ เพลงรักคือเธอ (2023)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Kyrie-2023.jpg",
+      "info": "",
+      "stations": [
+        {
+          "name": "คิริเอะ เพลงรักคือเธอ (2023)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Kyrie-2023.jpg",
+          "url": "https://master.streamhls.com/hlsr2/2ff06285fed66da46f511d797021ad3b/master.m3u8",
+          "info": "พากย์ไทย",
+          "referer": "https://master.streamhls.com/"
+        }
+      ]
+    },
+    {
+      "name": "โตรา โตรา โตร่า (1970)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Tora-Tora-Tora-1970.jpg",
+      "info": "",
+      "stations": [
+        {
+          "name": "โตรา โตรา โตร่า (1970)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Tora-Tora-Tora-1970.jpg",
+          "url": "https://master.streamhls.com/hlsr2/cbc48279fe8fb91d954de88c32e0fe78/master.m3u8",
+          "info": "พากย์ไทย",
+          "referer": "https://master.streamhls.com/"
+        }
+      ]
+    },
+    {
+      "name": "เพราะเราพี่น้องกัน (2015)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2015/12/Our-Little-Sister.jpg",
+      "info": "",
+      "stations": [
+        {
+          "name": "เพราะเราพี่น้องกัน (2015)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2015/12/Our-Little-Sister.jpg",
+          "url": "https://master.streamhls.com/hlsr2/5152be22f3e73c446ac03f561b204458/master.m3u8",
+          "info": "พากย์ไทย",
+          "referer": "https://master.streamhls.com/"
+        }
+      ]
+    },
+    {
+      "name": "ยอดนักสืบจิ๋วโคนัน vs. จอมโจรคิด 2024)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Detective-Conan-vs-Kid-the-Phantom-Thief.jpg",
+      "info": "",
+      "stations": [
+        {
+          "name": "ยอดนักสืบจิ๋วโคนัน vs. จอมโจรคิด 2024)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Detective-Conan-vs-Kid-the-Phantom-Thief.jpg",
+          "url": "https://master.streamhls.com/hlsr2/404b7af1f986af3d010003955d37c397/master.m3u8",
+          "info": "พากย์ไทย",
+          "referer": "https://master.streamhls.com/"
+        }
+      ]
+    },
+    {
+      "name": "สปาย x แฟมิลี โค้ด ไวท์ 2023)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/SPY-x-FAMILY-CODE-White.jpg",
+      "info": "",
+      "stations": [
+        {
+          "name": "สปาย x แฟมิลี โค้ด ไวท์ 2023)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/SPY-x-FAMILY-CODE-White.jpg",
+          "url": "https://master.streamhls.com/hlsr2/d4619a51ceeb4694bffc7cd8adcf2c2a/master.m3u8",
+          "info": "พากย์ไทย",
+          "referer": "https://master.streamhls.com/"
+        }
+      ]
+    },
+    {
+      "name": "ตระกูลยากูซ่า (2021)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/Yakuza-and-the-Family-2021.jpg",
+      "info": "",
+      "stations": [
+        {
+          "name": "ตระกูลยากูซ่า (2021)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/Yakuza-and-the-Family-2021.jpg",
+          "url": "https://master.streamhls.com/hlsr2/de85aac3992a998c5bcafb494ae46f1b/master.m3u8",
+          "info": "Soundtrackซับ",
+          "referer": "https://master.streamhls.com/"
+        }
+      ]
+    },
+    {
+      "name": "พริตตี้ การ์เดี้ยน เซเลอร์ มูน คอสมอส เดอะ มูฟวี่ ภาค 2 (2023)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/Pretty-Guardian-Sailor-Moon-Cosmos-The-Movie-2.jpg",
+      "info": "",
+      "stations": [
+        {
+          "name": "พริตตี้ การ์เดี้ยน เซเลอร์ มูน คอสมอส เดอะ มูฟวี่ ภาค 2 (2023)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/Pretty-Guardian-Sailor-Moon-Cosmos-The-Movie-2.jpg",
+          "url": "https://master.streamhls.com/hlsr2/31bd8d65fb7a22b11f4b9576f64953fb/master.m3u8",
+          "info": "พากย์ไทย",
+          "referer": "https://master.streamhls.com/"
+        }
+      ]
+    },
+    {
+      "name": "พริตตี้ การ์เดี้ยน เซเลอร์ มูน คอสมอส เดอะ มูฟวี่ ภาค 1 (2023)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/Pretty-Guardian-Sailor-Moon-Cosmos-The-Movie-1.jpg",
+      "info": "",
+      "stations": [
+        {
+          "name": "พริตตี้ การ์เดี้ยน เซเลอร์ มูน คอสมอส เดอะ มูฟวี่ ภาค 1 (2023)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/Pretty-Guardian-Sailor-Moon-Cosmos-The-Movie-1.jpg",
+          "url": "https://master.streamhls.com/hlsr2/c1f43a27e65774b234a4cf4162ed6eeb/master.m3u8",
+          "info": "พากย์ไทย",
+          "referer": "https://master.streamhls.com/"
+        }
+      ]
+    },
+    {
+      "name": "Bad City (2022)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/Bad-City-2022.jpg",
+      "info": "",
+      "stations": [
+        {
+          "name": "Bad City (2022)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/Bad-City-2022.jpg",
+          "url": "https://master.streamhls.com/hlsr2/d59362fb285723607a846a411e71a255/master.m3u8",
+          "info": "Soundtrackซับ",
+          "referer": "https://master.streamhls.com/"
+        }
+      ]
+    },
+    {
+      "name": "โรงงานของเล่นในป่า (2023)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/Sumikkogurashi.jpg",
+      "info": "",
+      "stations": [
+        {
+          "name": "โรงงานของเล่นในป่า (2023)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/Sumikkogurashi.jpg",
+          "url": "https://master.streamhls.com/hlsr2/1f2f6008983c2369077118ae090fe1b9/master.m3u8",
+          "info": "Soundtrackซับ",
+          "referer": "https://master.streamhls.com/"
+        }
+      ]
+    },
+    {
+      "name": "รักเรายังคิดถึง (2024)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/18×2-Beyond-Youthful-Days-2024.jpg",
+      "info": "",
+      "stations": [
+        {
+          "name": "รักเรายังคิดถึง (2024)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/18×2-Beyond-Youthful-Days-2024.jpg",
+          "url": "https://master.streamhls.com/hlsr2/be142f96059f4439cc8ddcd2ce27f5e5/master.m3u8",
+          "info": "Soundtrackซับ",
+          "referer": "https://master.streamhls.com/"
+        }
+      ]
+    },
+    {
+      "name": "Godzilla Minus One/Minus Color (2024)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/Godzilla-Minus-One.jpg",
+      "info": "",
+      "stations": [
+        {
+          "name": "Godzilla Minus One/Minus Color (2024)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/Godzilla-Minus-One.jpg",
+          "url": "https://master.streamhls.com/hlsr2/489cd37ceddd2c230908ab99963dc0b4/master.m3u8",
+          "info": "พากย์ไทย",
+          "referer": "https://master.streamhls.com/"
+        }
+      ]
+    },
+    {
+      "name": "Macross Frontier: Labyrinth of Time (2021)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Macross-Frontier-Labyrinth-of-Time-2021.jpg",
+      "info": "",
+      "stations": [
+        {
+          "name": "Macross Frontier: Labyrinth of Time (2021)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Macross-Frontier-Labyrinth-of-Time-2021.jpg",
+          "url": "https://master.streamhls.com/hlsr2/ca2493c9954cec3525fa6dac0b6940be/master.m3u8",
+          "info": "Soundtrackซับ",
+          "referer": "https://master.streamhls.com/"
+        }
+      ]
+    },
+    {
+      "name": "My Home Hero the Movie (2024)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/My-Home-Hero-the-Movie-2024.jpg",
+      "info": "",
+      "stations": [
+        {
+          "name": "My Home Hero the Movie (2024)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/My-Home-Hero-the-Movie-2024.jpg",
+          "url": "https://master.streamhls.com/hlsr2/704c783059819989a5997f4b16b68d3e/master.m3u8",
+          "info": "Soundtrackซับ",
+          "referer": "https://master.streamhls.com/"
+        }
+      ]
+    },
+    {
+      "name": "Love Is Light (2022)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Love-Is-Light-2022.jpg",
+      "info": "",
+      "stations": [
+        {
+          "name": "Love Is Light (2022)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Love-Is-Light-2022.jpg",
+          "url": "https://master.streamhls.com/hlsr2/51a0f5ed12b61e70014b431d2a944b13/master.m3u8",
+          "info": "Soundtrackซับ",
+          "referer": "https://master.streamhls.com/"
+        }
+      ]
+    },
+    {
+      "name": "ดาบพิฆาตอสูร เดอะมูฟวี่ ปาฏิหาริย์แห่งสายสัมพันธ์ สู่การสั่งสอนของเสาหลัก (2024)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/Demon-Slayer-Kimetsu-no-Yaiba-To-the-Hashira-Training.png",
+      "info": "",
+      "stations": [
+        {
+          "name": "ดาบพิฆาตอสูร เดอะมูฟวี่ ปาฏิหาริย์แห่งสายสัมพันธ์ สู่การสั่งสอนของเสาหลัก (2024)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/Demon-Slayer-Kimetsu-no-Yaiba-To-the-Hashira-Training.png",
+          "url": "https://master.streamhls.com/hlsr2/781711ce0316dfdfda8f54a2b1726c8b/master.m3u8",
+          "info": "พากย์ไทย",
+          "referer": "https://master.streamhls.com/"
+        }
+      ]
+    },
+    {
+      "name": "ถ้านอนไม่หลับ ไปนับดาวกันไหม (2023)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Insomniacs-After-School.jpg",
+      "info": "",
+      "stations": [
+        {
+          "name": "ถ้านอนไม่หลับ ไปนับดาวกันไหม (2023)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Insomniacs-After-School.jpg",
+          "url": "https://master.streamhls.com/hlsr2/25b95484a982ec7d6a325d3a1fe1c401/master.m3u8",
+          "info": "พากย์ไทย",
+          "referer": "https://master.streamhls.com/"
+        }
+      ]
+    },
+    {
+      "name": "วาดรัก… จนกว่าจะหมดเวลา (2024)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Drawing-Closer.jpg",
+      "info": "",
+      "stations": [
+        {
+          "name": "วาดรัก… จนกว่าจะหมดเวลา (2024)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Drawing-Closer.jpg",
+          "url": "https://master.streamhls.com/hlsr2/e0b15f30a07be221ef62073053230906/master.m3u8",
+          "info": "พากย์ไทย",
+          "referer": "https://master.streamhls.com/"
+        }
+      ]
+    },
+    {
+      "name": "เดอะ เฟิสต์ สแลมดังก์ (2022)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/09/The-First-Slam-Dunk-2022.jpg",
+      "info": "",
+      "stations": [
+        {
+          "name": "เดอะ เฟิสต์ สแลมดังก์ (2022)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/09/The-First-Slam-Dunk-2022.jpg",
+          "url": "https://master.streamhls.com/hlsr2/6648b89a10aa6644346284eb9f785c62/master.m3u8",
+          "info": "พากย์ไทย",
+          "referer": "https://master.streamhls.com/"
+        }
+      ]
+    },
+    {
+      "name": "Mobile Suit Gundam SEED FREEDOM (2024)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Mobile-Suit-Gundam-SEED-FREEDOM-2024.jpg",
+      "info": "",
+      "stations": [
+        {
+          "name": "Mobile Suit Gundam SEED FREEDOM (2024)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Mobile-Suit-Gundam-SEED-FREEDOM-2024.jpg",
+          "url": "https://master.streamhls.com/hlsr2/1037e12d30b995fa2a8cad48e9085e13/master.m3u8",
+          "info": "พากย์ไทย",
+          "referer": "https://master.streamhls.com/"
+        }
+      ]
+    },
+    {
+      "name": "ฮันมะ บากิปะทะกำปั้นอสูร โทคิตะ (2024)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Baki-Hanma-VS-Kengan-Ashura.jpg",
+      "info": "",
+      "stations": [
+        {
+          "name": "ฮันมะ บากิปะทะกำปั้นอสูร โทคิตะ (2024)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Baki-Hanma-VS-Kengan-Ashura.jpg",
+          "url": "https://master.streamhls.com/hlsr2/57703eae8228537616e3c9fbc72681ad/master.m3u8",
+          "info": "พากย์ไทย",
+          "referer": "https://master.streamhls.com/"
+        }
+      ]
+    },
+    {
+      "name": "ไดนาเซนอน มูฟวี่ (2023)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/SSSS-DYNAZENON-Movie.jpg",
+      "info": "",
+      "stations": [
+        {
+          "name": "ไดนาเซนอน มูฟวี่ (2023)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/SSSS-DYNAZENON-Movie.jpg",
+          "url": "https://master.streamhls.com/hlsr2/fa59fffcf251a4d9b7ea520760afd1fe/master.m3u8",
+          "info": "พากย์ไทย",
+          "referer": "https://master.streamhls.com/"
+        }
+      ]
+    },
+    {
+      "name": "ก็อดซิลล่า ไมนัส วัน (2023)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/05/Godzilla-Minus-One-2023.jpg",
+      "info": "",
+      "stations": [
+        {
+          "name": "ก็อดซิลล่า ไมนัส วัน (2023)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/05/Godzilla-Minus-One-2023.jpg",
+          "url": "https://master.streamhls.com/hlsr2/8a22ad53d4a8fd6ce80b0763cea32f52/master.m3u8",
+          "info": "พากย์ไทย",
+          "referer": "https://master.streamhls.com/"
+        }
+      ]
+    },
+    {
+      "name": "Lumberjack the Monster (2023)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Lumberjack-the-Monster-2023.jpg",
+      "info": "",
+      "stations": [
+        {
+          "name": "Lumberjack the Monster (2023)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Lumberjack-the-Monster-2023.jpg",
+          "url": "https://master.streamhls.com/hlsr2/7a3fd8b9034fd71c3a156510128ab659/master.m3u8",
+          "info": "Soundtrackซับ",
+          "referer": "https://master.streamhls.com/"
+        }
+      ]
+    },
+    {
+      "name": "เป่าฝันให้เต็มฟ้า (2024)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Blue-Giant.png",
+      "info": "",
+      "stations": [
+        {
+          "name": "เป่าฝันให้เต็มฟ้า (2024)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Blue-Giant.png",
+          "url": "https://master.streamhls.com/hlsr2/4e470a24e77b736dd530b6d2402fdab2/master.m3u8",
+          "info": "พากย์ไทย",
+          "referer": "https://master.streamhls.com/"
+        }
+      ]
+    },
+    {
+      "name": "ชินจัง เดอะมูฟวี่ มหาสงครามซุปเปอร์พลังจิตซูชิเหินเวหา (2023)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Shin-Jigen-Crayon-Shin-chan-the-Movie.jpg",
+      "info": "",
+      "stations": [
+        {
+          "name": "ชินจัง เดอะมูฟวี่ มหาสงครามซุปเปอร์พลังจิตซูชิเหินเวหา (2023)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Shin-Jigen-Crayon-Shin-chan-the-Movie.jpg",
+          "url": "https://master.streamhls.com/hlsr2/5bae6b5c6230605f52d95e159719005c/master.m3u8",
+          "info": "พากย์ไทย",
+          "referer": "https://master.streamhls.com/"
+        }
+      ]
+    },
+    {
+      "name": "SSSS กริดแมน มูฟวี่ 2023)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/05/SSSSGRIDMAN-Movie.jpg",
+      "info": "",
+      "stations": [
+        {
+          "name": "SSSS กริดแมน มูฟวี่ 2023)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/05/SSSSGRIDMAN-Movie.jpg",
+          "url": "https://master.streamhls.com/hlsr2/b9be9182045a5fb8fdabf8548d3a948b/master.m3u8",
+          "info": "พากย์ไทย",
+          "referer": "https://master.streamhls.com/"
+        }
+      ]
+    },
+    {
+      "name": "โตเกียว รีเวนเจอร์ส: ฮาโลวีนสีเลือด ศึกตัดสิน (2023)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Tokyo-Revengers-2023-2.jpg",
+      "info": "",
+      "stations": [
+        {
+          "name": "โตเกียว รีเวนเจอร์ส: ฮาโลวีนสีเลือด ศึกตัดสิน (2023)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Tokyo-Revengers-2023-2.jpg",
+          "url": "https://master.streamhls.com/hlsr2/bab00ad8b67540036592075e3e2f79f8/master.m3u8",
+          "info": "พากย์ไทย",
+          "referer": "https://master.streamhls.com/"
+        }
+      ]
+    },
+    {
+      "name": "โตเกียว รีเวนเจอร์ส: ฮาโลวีนสีเลือด โชคชะตา (2023)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Tokyo-Revengers-2023.jpg",
+      "info": "",
+      "stations": [
+        {
+          "name": "โตเกียว รีเวนเจอร์ส: ฮาโลวีนสีเลือด โชคชะตา (2023)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Tokyo-Revengers-2023.jpg",
+          "url": "https://master.streamhls.com/hlsr2/bae067807d0549d3547a91a6b2735b00/master.m3u8",
+          "info": "พากย์ไทย",
+          "referer": "https://master.streamhls.com/"
+        }
+      ]
+    },
+    {
+      "name": "มาย โอนิ เกิร์ล (2024)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/05/My-Oni-Girl-2024.jpg",
+      "info": "",
+      "stations": [
+        {
+          "name": "มาย โอนิ เกิร์ล (2024)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/05/My-Oni-Girl-2024.jpg",
+          "url": "https://master.streamhls.com/hlsr2/c5aafcf899add2ff2d62aef1b0c7564f/master.m3u8",
+          "info": "พากย์ไทย",
+          "referer": "https://master.streamhls.com/"
+        }
+      ]
+    },
+    {
+      "name": "ฝนตกวันนั้นผมแอบรักรุ่นพี่ (2023)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/05/The-Water-Flows-to-the-Sea.jpg",
+      "info": "",
+      "stations": [
+        {
+          "name": "ฝนตกวันนั้นผมแอบรักรุ่นพี่ (2023)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/05/The-Water-Flows-to-the-Sea.jpg",
+          "url": "https://master.streamhls.com/hlsr2/84af60ace940a0de298c731ea16d0469/master.m3u8",
+          "info": "พากย์ไทย",
+          "referer": "https://master.streamhls.com/"
+        }
+      ]
+    },
+    {
+      "name": "โกลเดนคามุย (2024)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/05/Golden-Kamuy.jpg",
+      "info": "",
+      "stations": [
+        {
+          "name": "โกลเดนคามุย (2024)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/05/Golden-Kamuy.jpg",
+          "url": "https://master.streamhls.com/hlsr2/f98b0e07fb0db34d0ba479187696a3ea/master.m3u8",
+          "info": "พากย์ไทย",
+          "referer": "https://master.streamhls.com/"
+        }
+      ]
+    },
+    {
+      "name": "เส้นทางชีวิต (2024)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/05/Ikitoshi-Ikerumono-2024.jpg",
+      "info": "",
+      "stations": [
+        {
+          "name": "เส้นทางชีวิต (2024)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/05/Ikitoshi-Ikerumono-2024.jpg",
+          "url": "https://master.streamhls.com/hlsr2/0f097514d73df4bf78f1927bd8c7c7aa/master.m3u8",
+          "info": "Soundtrackซับ",
+          "referer": "https://master.streamhls.com/"
+        }
+      ]
+    },
+    {
+      "name": "ที่ตรงนั้นยังคิดถึง (2023)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/05/Side-By-Side-Saido-bai-saido-tonari-ni-iru-hito-2023.jpg",
+      "info": "",
+      "stations": [
+        {
+          "name": "ที่ตรงนั้นยังคิดถึง (2023)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/05/Side-By-Side-Saido-bai-saido-tonari-ni-iru-hito-2023.jpg",
+          "url": "https://master.streamhls.com/hlsr2/1dca4c01073be425b1861bd126facfa9/master.m3u8",
+          "info": "พากย์ไทย",
+          "referer": "https://master.streamhls.com/"
+        }
+      ]
+    },
+    {
+      "name": "เลิฟไลฟ์! เดอะ สคูล ไอดอล มูฟวี่ (2015)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Love-Live-The-School-Idol-Movie.jpg",
+      "info": "",
+      "stations": [
+        {
+          "name": "เลิฟไลฟ์! เดอะ สคูล ไอดอล มูฟวี่ (2015)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Love-Live-The-School-Idol-Movie.jpg",
+          "url": "https://master.streamhls.com/hlsr2/663be52b4f96299a3592eda719ddcf26/master.m3u8",
+          "info": "พากย์ไทย",
+          "referer": "https://master.streamhls.com/"
+        }
+      ]
+    },
+    {
+      "name": "โดราเอมอน ตอน ฟากฟ้าแห่งยูโทเปียของโนบิตะ (2023)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2020/04/Doraemon-The-Movie-42-Nobita-Sky-Utopia-2023.jpg",
+      "info": "",
+      "stations": [
+        {
+          "name": "โดราเอมอน ตอน ฟากฟ้าแห่งยูโทเปียของโนบิตะ (2023)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/04/Doraemon-The-Movie-42-Nobita-Sky-Utopia-2023.jpg",
+          "url": "https://master.streamhls.com/hlsr2/066159e8dea54f616257d22bc6a938a6/master.m3u8",
+          "info": "พากย์ไทย",
+          "referer": "https://master.streamhls.com/"
+        }
+      ]
+    },
+    {
+      "name": "ใกล้กว่านี้จะรักแล้วนะ (2023)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Takumi-kun-The-Dawn-of-the-Long-Tales-2023.jpg",
+      "info": "",
+      "stations": [
+        {
+          "name": "ใกล้กว่านี้จะรักแล้วนะ (2023)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Takumi-kun-The-Dawn-of-the-Long-Tales-2023.jpg",
+          "url": "https://master.streamhls.com/hlsr2/4eb0de893523d1c8c2ceb7e560ee1edd/master.m3u8",
+          "info": "พากย์ไทย",
+          "referer": "https://master.streamhls.com/"
+        }
+      ]
+    },
+    {
+      "name": "แอบรักเติมฝันในวันฟ้าใส (2022)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/The-Blue-Skies-at-Your-Feet-2022.jpg",
+      "info": "",
+      "stations": [
+        {
+          "name": "แอบรักเติมฝันในวันฟ้าใส (2022)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/The-Blue-Skies-at-Your-Feet-2022.jpg",
+          "url": "https://master.streamhls.com/hlsr2/ff8c695cb5e6974bbdc40aa5ff786f36/master.m3u8",
+          "info": "พากย์ไทย",
+          "referer": "https://master.streamhls.com/"
+        }
+      ]
+    },
+    {
+      "name": "Digimon Adventure 02: The Beginning (2023)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Digimon-Adventure-02-The-Beginning-2023.jpg",
+      "info": "",
+      "stations": [
+        {
+          "name": "Digimon Adventure 02: The Beginning (2023)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Digimon-Adventure-02-The-Beginning-2023.jpg",
+          "url": "https://master.streamhls.com/hlsr2/08d43187236dd4a65a22404b8886e063/master.m3u8",
+          "info": "พากย์ไทย",
+          "referer": "https://master.streamhls.com/"
+        }
+      ]
+    },
+    {
+      "name": "มหัศจรรย์สาวน้อย พริตตี้เคียว ออลสตาร์ เอฟ (2023)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/PreCure-All-Stars-F.png",
+      "info": "",
+      "stations": [
+        {
+          "name": "มหัศจรรย์สาวน้อย พริตตี้เคียว ออลสตาร์ เอฟ (2023)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/PreCure-All-Stars-F.png",
+          "url": "https://master.streamhls.com/hlsr2/a75d529f4c2d8bcc332c08dc80568b1e/master.m3u8",
+          "info": "พากย์ไทย",
+          "referer": "https://master.streamhls.com/"
+        }
+      ]
+    },
+    {
+      "name": "นางโลม โลกจารึก (2005)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2015/04/Memoirs-of-a-Geisha.png",
+      "info": "",
+      "stations": [
+        {
+          "name": "นางโลม โลกจารึก (2005)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2015/04/Memoirs-of-a-Geisha.png",
+          "url": "https://master.streamhls.com/hlsr2/264dc69ce43285f6c0a675961e974a6b/master.m3u8",
+          "info": "พากย์ไทย",
+          "referer": "https://master.streamhls.com/"
+        }
+      ]
+    },
+    {
+      "name": "xxxHOLiC (2022)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/xxxHOLiC-2022.jpg",
+      "info": "",
+      "stations": [
+        {
+          "name": "xxxHOLiC (2022)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/xxxHOLiC-2022.jpg",
+          "url": "https://master.streamhls.com/hlsr2/9828f5bd9ee40dfe25b507428782f4dc/master.m3u8",
+          "info": "Soundtrackซับ",
+          "referer": "https://master.streamhls.com/"
+        }
+      ]
+    },
+    {
+      "name": "Mobile Suit Gundam: Cucuruz Doan’s Island (2022)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/06/Mobile-Suit-Gundam-Cucuruz-Doan-s-Island-2022.jpg",
+      "info": "",
+      "stations": [
+        {
+          "name": "Mobile Suit Gundam: Cucuruz Doan’s Island (2022)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/06/Mobile-Suit-Gundam-Cucuruz-Doan-s-Island-2022.jpg",
+          "url": "https://master.streamhls.com/hlsr2/660a02829cea9b65315dc6230e43ce24/master.m3u8",
+          "info": "พากย์ไทย",
+          "referer": "https://master.streamhls.com/"
+        }
+      ]
+    },
+    {
+      "name": "ชินจัง เดอะมูฟวี่ ตอน นินจาคาถาวายุอลเวง (2022)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/09/Crayon-Shin-chan-2023.jpg",
+      "info": "",
+      "stations": [
+        {
+          "name": "ชินจัง เดอะมูฟวี่ ตอน นินจาคาถาวายุอลเวง (2022)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/09/Crayon-Shin-chan-2023.jpg",
+          "url": "https://master.streamhls.com/hlsr2/ed8d9b9615fd8f9017b122721459adff/master.m3u8",
+          "info": "พากย์ไทย",
+          "referer": "https://master.streamhls.com/"
+        }
+      ]
+    },
+    {
+      "name": "วัยชน คนเมะ! (2022)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/Anime-Supremacy.jpg",
+      "info": "",
+      "stations": [
+        {
+          "name": "วัยชน คนเมะ! (2022)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/Anime-Supremacy.jpg",
+          "url": "https://master.streamhls.com/hlsr2/ceafe42ff096af7895665b1196a55f01/master.m3u8",
+          "info": "พากย์ไทย",
+          "referer": "https://master.streamhls.com/"
+        }
+      ]
+    },
+    {
+      "name": "ชิน อุลตร้าแมน (2022)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/Shin-Ultraman-2022.jpg",
+      "info": "",
+      "stations": [
+        {
+          "name": "ชิน อุลตร้าแมน (2022)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/Shin-Ultraman-2022.jpg",
+          "url": "https://master.streamhls.com/hlsr2/07e709ae6530bec559514cf2a2d60711/master.m3u8",
+          "info": "พากย์ไทย",
+          "referer": "https://master.streamhls.com/"
+        }
+      ]
+    },
+    {
+      "name": "มอนสเตอร์ (2023)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Kaibutsu.png",
+      "info": "",
+      "stations": [
+        {
+          "name": "มอนสเตอร์ (2023)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Kaibutsu.png",
+          "url": "https://master.streamhls.com/hlsr2/18e2202935c85d44f8b6ba23b8b6a9cf/master.m3u8",
+          "info": "พากย์ไทย",
+          "referer": "https://master.streamhls.com/"
+        }
+      ]
+    },
+    {
+      "name": "กันวูแมน (2014)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Gun-Woman.png",
+      "info": "",
+      "stations": [
+        {
+          "name": "กันวูแมน (2014)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Gun-Woman.png",
+          "url": "https://master.streamhls.com/hlsr2/f9246412ff7923763285988d4b7d45e2/master.m3u8",
+          "info": "Soundtrackซับ",
+          "referer": "https://master.streamhls.com/"
+        }
+      ]
+    },
+    {
+      "name": "เดอะ พาเหรด (2024)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/02/The-Parades.png",
+      "info": "",
+      "stations": [
+        {
+          "name": "เดอะ พาเหรด (2024)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/02/The-Parades.png",
+          "url": "https://master.streamhls.com/hlsr2/545860ec04be9df995f6a5f92f5a25ed/master.m3u8",
+          "info": "พากย์ไทย",
+          "referer": "https://master.streamhls.com/"
+        }
+      ]
+    },
+    {
+      "name": "ป่าแปลกแลกตาย (2022)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/It-s-in-the-Woods.jpg",
+      "info": "",
+      "stations": [
+        {
+          "name": "ป่าแปลกแลกตาย (2022)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/It-s-in-the-Woods.jpg",
+          "url": "https://master.streamhls.com/hlsr2/8040a03d4b2a6c6751a1557adc8727d3/master.m3u8",
+          "info": "พากย์ไทย",
+          "referer": "https://master.streamhls.com/"
+        }
+      ]
+    },
+    {
+      "name": "บุกมาปล้น (2024)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Trespassers.png",
+      "info": "",
+      "stations": [
+        {
+          "name": "บุกมาปล้น (2024)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Trespassers.png",
+          "url": "https://master.streamhls.com/hlsr2/70989cc3d120b7f1a38d84f9c8a0d604/master.m3u8",
+          "info": "Soundtrackซับ",
+          "referer": "https://master.streamhls.com/"
+        }
+      ]
+    },
+    {
+      "name": "โมบิลสูท กันดั้ม นาร์ราทีฟ (2018)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Mobile-Suit-Gundam-Narrative-2018.png",
+      "info": "",
+      "stations": [
+        {
+          "name": "โมบิลสูท กันดั้ม นาร์ราทีฟ (2018)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Mobile-Suit-Gundam-Narrative-2018.png",
+          "url": "https://master.streamhls.com/hlsr2/5c95ff87c1e107f4c181bdea0412da24/master.m3u8",
+          "info": "พากย์ไทย",
+          "referer": "https://master.streamhls.com/"
+        }
+      ]
+    },
+    {
+      "name": "วันพีซ ฟิล์ม แซด (2012)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/One-Piece-Film-Z-2016.jpg",
+      "info": "",
+      "stations": [
+        {
+          "name": "วันพีซ ฟิล์ม แซด (2012)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/One-Piece-Film-Z-2016.jpg",
+          "url": "https://master.streamhls.com/hlsr2/5bd3d43dc085c660dd2b61e4de400c42/master.m3u8",
+          "info": "พากย์ไทย",
+          "referer": "https://master.streamhls.com/"
+        }
+      ]
+    },
+    {
+      "name": "มาโบโรชิ (2024)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Maboroshi.png",
+      "info": "",
+      "stations": [
+        {
+          "name": "มาโบโรชิ (2024)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Maboroshi.png",
+          "url": "https://master.streamhls.com/hlsr2/eef8e2699cb6e5313f2a94ccbf690edd/master.m3u8",
+          "info": "พากย์ไทย",
+          "referer": "https://master.streamhls.com/"
+        }
+      ]
+    },
+    {
+      "name": "สงครามบัลลังก์ผงาดจิ๋นซี 3 (2024)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Kingdom-III-The-Flame-of-Destiny-2023.jpg",
+      "info": "",
+      "stations": [
+        {
+          "name": "สงครามบัลลังก์ผงาดจิ๋นซี 3 (2024)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Kingdom-III-The-Flame-of-Destiny-2023.jpg",
+          "url": "https://master.streamhls.com/hlsr2/ec2c7764148931fae106ef5059ccef0c/master.m3u8",
+          "info": "Soundtrackซับ",
+          "referer": "https://master.streamhls.com/"
+        }
+      ]
+    },
+    {
+      "name": "เกาะผีดุ (2023)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Immersion-2023.jpg",
+      "info": "",
+      "stations": [
+        {
+          "name": "เกาะผีดุ (2023)",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Immersion-2023.jpg",
+          "url": "https://master.streamhls.com/hlsr2/59bdc064df4fcc86ad21d4ba461162dc/master.m3u8",
+          "info": "พากย์ไทย",
+          "referer": "https://master.streamhls.com/"
         }
       ]
     },
@@ -858,8 +1175,9 @@
         {
           "name": "ขอให้รักเรานี้ได้มีความสุข (2023)",
           "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/My-Happy-Marriage.jpg",
-          "url": "https://streamhls.com/view/c53b789f-d54b-5bf6-9b39-079f85b60ae7.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
+          "url": "https://master.streamhls.com/hlsr2/ca6e52f0c8128abe4c61cc3935c3f56a/master.m3u8",
+          "info": "พากย์ไทย",
+          "referer": "https://master.streamhls.com/"
         }
       ]
     },
@@ -871,8 +1189,9 @@
         {
           "name": "รักแรก (2021)",
           "image": "https://www.nung2hdd.com/wp-content/uploads/2021/08/2Tw54FDph0yS7Ff7tg3XHjfsfS3.jpg",
-          "url": "https://streamhls.com/view/bfb394f3-8190-545b-8280-ed517804e8b2.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
+          "url": "https://master.streamhls.com/hlsr2/c2b0c41abe72e0f06a9a69b36a526a91/master.m3u8",
+          "info": "พากย์ไทย",
+          "referer": "https://master.streamhls.com/"
         }
       ]
     },
@@ -884,8 +1203,9 @@
         {
           "name": "จอดป้ายนี้ สถานีปาฏิหาริย์ (2011)",
           "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/I-Wish.jpg",
-          "url": "https://streamhls.com/view/33452fc3-2e07-5d74-9ab4-a9ec5671d5e4.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
+          "url": "https://master.streamhls.com/hlsr2/43d4eab7f6c65c1a8f524bf07abdecb8/master.m3u8",
+          "info": "พากย์ไทย",
+          "referer": "https://master.streamhls.com/"
         }
       ]
     },
@@ -897,8 +1217,9 @@
         {
           "name": "เชียร์เกิร์ล เชียร์เธอ (2017)",
           "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Let-s-Go-Jets-2017.jpg",
-          "url": "https://streamhls.com/view/e5c60de6-6398-530c-90c2-ce845c52477a.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
+          "url": "https://master.streamhls.com/hlsr2/163edc7f16b8eda3a14940b5356bb633/master.m3u8",
+          "info": "พากย์ไทย",
+          "referer": "https://master.streamhls.com/"
         }
       ]
     },
@@ -910,8 +1231,9 @@
         {
           "name": "นินจารันทาโร่ (2011)",
           "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Ninja-Kids.jpg",
-          "url": "https://streamhls.com/view/a95981d3-6faf-5f84-8641-72d8e79ad957.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
+          "url": "https://master.streamhls.com/hlsr2/099fee734dc614c68eec75edd4375c16/master.m3u8",
+          "info": "พากย์ไทย",
+          "referer": "https://master.streamhls.com/"
         }
       ]
     },
@@ -923,8 +1245,9 @@
         {
           "name": "เธอสุดแสบที่แอบรัก (2017)",
           "image": "https://www.nung2hdd.com/wp-content/uploads/2018/01/Peach-Girl.jpg",
-          "url": "https://streamhls.com/view/9fe822c7-e019-5c28-b556-a67f719f5122.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
+          "url": "https://master.streamhls.com/hlsr2/f83fccf6e7cebb0d2cbb025710192fd6/master.m3u8",
+          "info": "พากย์ไทย",
+          "referer": "https://master.streamhls.com/"
         }
       ]
     },
@@ -936,8 +1259,9 @@
         {
           "name": "ชินจัง เดอะมูฟวี่ ตอน ปริศนา! บุปผาแห่งโรงเรียนเทนคะสุ (2021)",
           "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Crayon-Shin-chan-Shrouded-in-Mystery-The-Flowers-of-Tenkazu-Academy-2021.jpg",
-          "url": "https://streamhls.com/view/5f246188-a346-59a9-8786-b6e1d985be88.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
+          "url": "https://master.streamhls.com/hlsr2/7dd9f1342c667754500fb9584aba007f/master.m3u8",
+          "info": "พากย์ไทย",
+          "referer": "https://master.streamhls.com/"
         }
       ]
     },
@@ -949,8 +1273,9 @@
         {
           "name": "การผนึกประตูของซุซุเมะ (2023)",
           "image": "https://www.nung2hdd.com/wp-content/uploads/2020/10/Suzume-2023-Poster.jpg",
-          "url": "https://streamhls.com/view/292439f7-b2d5-547c-b8a7-ee8480888a79.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
+          "url": "https://master.streamhls.com/hlsr2/ca6213c7c5faa89b0139a17cae874ece/master.m3u8",
+          "info": "พากย์ไทย",
+          "referer": "https://master.streamhls.com/"
         }
       ]
     },
@@ -962,8 +1287,9 @@
         {
           "name": "ค้างคาวกายสิทธิ์ (2004)",
           "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Devilman-2004.jpg",
-          "url": "https://streamhls.com/view/d6ad40c3-6f5f-5c4e-b206-ea83fbdbd3a9.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
+          "url": "https://master.streamhls.com/hlsr2/abc6e373fb381c5e26a962c646e2ba99/master.m3u8",
+          "info": "พากย์ไทย",
+          "referer": "https://master.streamhls.com/"
         }
       ]
     },
@@ -975,8 +1301,9 @@
         {
           "name": "เกิดกี่ครั้งก็ยังเป็นเธอ (2022)",
           "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Phases-of-the-Moon-2022.jpg",
-          "url": "https://streamhls.com/view/937dd2a6-fd2a-5461-9eb2-50ed225b56f6.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
+          "url": "https://master.streamhls.com/hlsr2/df3cc807bcc539d668732bd76a25277d/master.m3u8",
+          "info": "พากย์ไทย",
+          "referer": "https://master.streamhls.com/"
         }
       ]
     },
@@ -988,8 +1315,9 @@
         {
           "name": "สัมผัสนั้น.. ไม่มีวันลืม (2020)",
           "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Your-Eyes-Tell-2020.jpg",
-          "url": "https://streamhls.com/view/ebb73e80-e806-5739-b26c-f1eb7e4dd8ce.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
+          "url": "https://master.streamhls.com/hlsr2/22d3bccffc11669a86bd15bfcb154234/master.m3u8",
+          "info": "พากย์ไทย",
+          "referer": "https://master.streamhls.com/"
         }
       ]
     },
@@ -1001,8 +1329,9 @@
         {
           "name": "Family (2023)",
           "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Family-2023.jpg",
-          "url": "https://streamhls.com/view/3a72da50-a7ec-525f-a7a3-4799804f6c40.m3u8",
-          "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
+          "url": "https://master.streamhls.com/hlsr2/1c95b6005bc3ee54d7f969504c03c3c4/master.m3u8",
+          "info": "Soundtrackซับ",
+          "referer": "https://master.streamhls.com/"
         }
       ]
     },
@@ -1014,8 +1343,9 @@
         {
           "name": "Sonatine (1993)",
           "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Sonatine-1993.jpg",
-          "url": "https://streamhls.com/view/634ec11e-338b-54b0-a8f8-98a44c220d32.m3u8",
-          "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
+          "url": "https://master.streamhls.com/hlsr2/8ba470238fb96fc1fa6e99759af6cd12/master.m3u8",
+          "info": "Soundtrackซับ",
+          "referer": "https://master.streamhls.com/"
         }
       ]
     },
@@ -1027,8 +1357,9 @@
         {
           "name": "Trumpet of the Cliff (2016)",
           "image": "https://www.nung2hdd.com/wp-content/uploads/2020/09/rBlaoHjlSq9tgAhUYV11ebMEGkV.jpg",
-          "url": "https://streamhls.com/view/24e4cdc6-e1c5-5e2b-b894-a2dd71fbccce.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
+          "url": "https://master.streamhls.com/hlsr2/8514c102e743535dc9ca686baee29177/master.m3u8",
+          "info": "พากย์ไทย",
+          "referer": "https://master.streamhls.com/"
         }
       ]
     },
@@ -1040,8 +1371,9 @@
         {
           "name": "วันโหด (2023)",
           "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Hard-Days-2023-1.jpg",
-          "url": "https://streamhls.com/view/6f18b278-1c5e-5860-8f41-824aa6138a1a.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
+          "url": "https://master.streamhls.com/hlsr2/f0d5c4c8f0427958e0906f552692ce43/master.m3u8",
+          "info": "พากย์ไทย",
+          "referer": "https://master.streamhls.com/"
         }
       ]
     },
@@ -1053,21 +1385,9 @@
         {
           "name": "Cure (1997)",
           "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Cure-1997-1.jpg",
-          "url": "https://streamhls.com/view/615f2d03-9ff7-54fb-9f54-e44738d76b48.m3u8",
-          "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "ซอม 100 – 100 สิ่งที่อยากทำก่อนจะเป็นซอมบี้ (2023)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/08/Zom-100-Bucket-List-of-Dead2023.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "ซอม 100 – 100 สิ่งที่อยากทำก่อนจะเป็นซอมบี้ (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/08/Zom-100-Bucket-List-of-Dead2023.jpg",
-          "url": "https://streamhls.com/view/0479d95d-0ace-5bcb-9648-9effb25c17dc.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
+          "url": "https://master.streamhls.com/hlsr2/f6129ecc9cb5c96352d9c18fd47a8d73/master.m3u8",
+          "info": "Soundtrackซับ",
+          "referer": "https://master.streamhls.com/"
         }
       ]
     },
@@ -1079,8 +1399,9 @@
         {
           "name": "เจ๊ทวงแค้น (2023)",
           "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Knuckle-Girl-2023.jpg",
-          "url": "https://streamhls.com/view/ebf02aad-21d5-59b5-8b7a-446edeaaea43.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
+          "url": "https://master.streamhls.com/hlsr2/e7d2550260cf3f7dd3d5c66d8127012e/master.m3u8",
+          "info": "พากย์ไทย",
+          "referer": "https://master.streamhls.com/"
         }
       ]
     },
@@ -1092,8 +1413,9 @@
         {
           "name": "เพลงแรก รักแรก จูบแรก (2018)",
           "image": "https://www.nung2hdd.com/wp-content/uploads/2018/09/Kids-on-the-Slope-2018.jpg",
-          "url": "https://streamhls.com/view/f51c38a1-99b4-5f8c-ba48-9c38805920e0.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
+          "url": "https://master.streamhls.com/hlsr2/e23e990244516e19112d21190da6a489/master.m3u8",
+          "info": "พากย์ไทย",
+          "referer": "https://master.streamhls.com/"
         }
       ]
     },
@@ -1105,8 +1427,9 @@
         {
           "name": "หมาป่าโดดเดี่ยว ปราสาทเดียวดายในกระจก (2022)",
           "image": "https://www.nung2hdd.com/wp-content/uploads/2023/10/Lonely-Castle-in-the-Mirror-2022.jpg",
-          "url": "https://streamhls.com/view/3c13e3b2-1515-573f-aaee-8500ff9355e6.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
+          "url": "https://master.streamhls.com/hlsr2/d06d6b55fc4a3a83b5899bb7153e8e8e/master.m3u8",
+          "info": "พากย์ไทย",
+          "referer": "https://master.streamhls.com/"
         }
       ]
     },
@@ -1118,8 +1441,9 @@
         {
           "name": "ไดสุเกะ จิเก็น (2023)",
           "image": "https://www.nung2hdd.com/wp-content/uploads/2023/10/Jigen-Daisuke-2023.jpg",
-          "url": "https://streamhls.com/view/34df7550-260a-5815-81ee-29bf6a2154ba.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
+          "url": "https://master.streamhls.com/hlsr2/835ca2efbc116cc0ebafb533d719aeeb/master.m3u8",
+          "info": "พากย์ไทย",
+          "referer": "https://master.streamhls.com/"
         }
       ]
     },
@@ -1131,8 +1455,9 @@
         {
           "name": "มาสค์ไรเดอร์ รีไวซ์ เดอะมูฟวี่ ระเบิดศึกครอบครัว (2022)",
           "image": "https://www.nung2hdd.com/wp-content/uploads/2020/03/Kamen-Rider-Revice-Battle-Familia-2022.jpg",
-          "url": "https://streamhls.com/view/a216ec15-b9af-5c22-9e9d-fe87148e9798.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
+          "url": "https://master.streamhls.com/hlsr2/a277f17bf466f2c750bbc20b890976f8/master.m3u8",
+          "info": "พากย์ไทย",
+          "referer": "https://master.streamhls.com/"
         }
       ]
     },
@@ -1144,8 +1469,9 @@
         {
           "name": "ซอร์ต อาร์ต ออนไลน์ เดอะ มูฟวี่ 2 (2021)",
           "image": "https://www.nung2hdd.com/wp-content/uploads/2022/07/h9PcJ84D8caUoIIvGwSvyDW9Zew.jpg",
-          "url": "https://streamhls.com/view/a64f4a5a-c121-5eb2-9836-49d607490bd0.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
+          "url": "https://master.streamhls.com/hlsr2/d4919b60a694460bb5965191246f0dfe/master.m3u8",
+          "info": "พากย์ไทย",
+          "referer": "https://master.streamhls.com/"
         }
       ]
     },
@@ -1157,8 +1483,9 @@
         {
           "name": "ซอร์ด อาร์ต ออนไลน์ โปรเกรสซีฟ เดอะมูฟวี่ : สแกรโซแห่งสนธยาโศก (2022)",
           "image": "https://www.nung2hdd.com/wp-content/uploads/2023/06/Sword-Art-Online-the-Movie-Progressive-Scherzo-of-Deep-Night.jpg",
-          "url": "https://streamhls.com/view/fc8bee80-be31-56e0-8783-de3617004bbc.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
+          "url": "https://master.streamhls.com/hlsr2/d8408e7ea6464f1ab8657be6f660358e/master.m3u8",
+          "info": "พากย์ไทย",
+          "referer": "https://master.streamhls.com/"
         }
       ]
     },
@@ -1170,8 +1497,9 @@
         {
           "name": "เอริโกะ รับจ้างร้อง (2016)",
           "image": "https://www.nung2hdd.com/wp-content/uploads/2020/04/Eriko-2016.jpg",
-          "url": "https://streamhls.com/view/fa04ac70-fc4d-5d06-801a-b3774ed5d07c.m3u8",
-          "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
+          "url": "https://master.streamhls.com/hlsr2/c8c31ea4c6648a72a0604213773ece56/master.m3u8",
+          "info": "Soundtrackซับ",
+          "referer": "https://master.streamhls.com/"
         }
       ]
     },
@@ -1183,8 +1511,9 @@
         {
           "name": "ปฐมบท สมุดมรณะ (2016)",
           "image": "https://www.nung2hdd.com/wp-content/uploads/2023/10/Death-Note-New-Generation-2016.jpg",
-          "url": "https://streamhls.com/view/6b4fc742-efe2-5466-a4cd-f6afaa05824c.m3u8",
-          "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
+          "url": "https://master.streamhls.com/hlsr2/830d61cfca2a009f0b94221c0e97b587/master.m3u8",
+          "info": "Soundtrackซับ",
+          "referer": "https://master.streamhls.com/"
         }
       ]
     },
@@ -1196,8 +1525,9 @@
         {
           "name": "เดธโน้ต 4 สมุดมรณะ (2016)",
           "image": "https://www.nung2hdd.com/wp-content/uploads/2023/10/Death-Note-4-2016.jpg",
-          "url": "https://streamhls.com/view/a852186c-b851-5688-9438-fcfb667e7946.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
+          "url": "https://master.streamhls.com/hlsr2/fde9879cb61a3780eccf61d253f04efb/master.m3u8",
+          "info": "พากย์ไทย",
+          "referer": "https://master.streamhls.com/"
         }
       ]
     },
@@ -1209,8 +1539,9 @@
         {
           "name": "เดธโน้ต 3 สมุดโน้ตสิ้นโลก (2008)",
           "image": "https://www.nung2hdd.com/wp-content/uploads/2023/10/Death-Note-3-2008.jpg",
-          "url": "https://streamhls.com/view/850d7c9e-4d8f-5a9a-80d5-eed029ceb33e.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
+          "url": "https://master.streamhls.com/hlsr2/a1a8e7efa0b56b090f9b770a10b73079/master.m3u8",
+          "info": "พากย์ไทย",
+          "referer": "https://master.streamhls.com/"
         }
       ]
     },
@@ -1222,8 +1553,9 @@
         {
           "name": "เดธโน้ต สมุดโน้ตกระชากวิญญาณ (2006)",
           "image": "https://www.nung2hdd.com/wp-content/uploads/2023/10/Death-Note-2006.jpg",
-          "url": "https://streamhls.com/view/7788de5a-88a7-5866-bce5-6d74b2a53ff1.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
+          "url": "https://master.streamhls.com/hlsr2/f6dfbf03f49ff694f0212e3d38e107e0/master.m3u8",
+          "info": "พากย์ไทย",
+          "referer": "https://master.streamhls.com/"
         }
       ]
     },
@@ -1235,8 +1567,9 @@
         {
           "name": "ดิจิมอน แอดเวนเจอร์ ลาสต์ อีโวลูชั่น คิซึนะ (2020)",
           "image": "https://www.nung2hdd.com/wp-content/uploads/2020/07/6C9fb7duBSzsXkkobfwuMgEW58F-1.jpg",
-          "url": "https://streamhls.com/view/293d7a85-480d-5fc9-9d5a-ea010a3d142d.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
+          "url": "https://master.streamhls.com/hlsr2/bccde359b378211005d3288960b341a8/master.m3u8",
+          "info": "พากย์ไทย",
+          "referer": "https://master.streamhls.com/"
         }
       ]
     },
@@ -1248,8 +1581,9 @@
         {
           "name": "รักฤดูร้อน (2018)",
           "image": "https://www.nung2hdd.com/wp-content/uploads/2020/04/Blue-Summer-2018.jpg",
-          "url": "https://streamhls.com/view/39e148ec-4c62-5a3e-a2c0-7078643bb6cc.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
+          "url": "https://master.streamhls.com/hlsr2/739053c3aaeabf782d1350cb3ad1b138/master.m3u8",
+          "info": "พากย์ไทย",
+          "referer": "https://master.streamhls.com/"
         }
       ]
     },
@@ -1261,8 +1595,9 @@
         {
           "name": "อาคิระ แด่หัวใจที่โลกไม่เคยรู้ (2004)",
           "image": "https://www.nung2hdd.com/wp-content/uploads/2020/06/jClv47gCRSh2ULVZ4S21oxN3Zve.jpg",
-          "url": "https://streamhls.com/view/dd3fd342-e7c5-5ace-8b9d-400661e57692.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
+          "url": "https://master.streamhls.com/hlsr2/fc158dda38d92e75b79e0f1c6cd9d52a/master.m3u8",
+          "info": "พากย์ไทย",
+          "referer": "https://master.streamhls.com/"
         }
       ]
     },
@@ -1274,8 +1609,9 @@
         {
           "name": "เอพริล ไบรด์ ลมหายใจไม่มีวันจาง (2009)",
           "image": "https://www.nung2hdd.com/wp-content/uploads/2020/04/April-Bride-2009.jpg",
-          "url": "https://streamhls.com/view/326bb98c-380e-5737-98fa-f09edcc9e8d3.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
+          "url": "https://master.streamhls.com/hlsr2/f35d409634e9303b869f77866ecacf51/master.m3u8",
+          "info": "พากย์ไทย",
+          "referer": "https://master.streamhls.com/"
         }
       ]
     },
@@ -1287,47 +1623,9 @@
         {
           "name": "ซาซากิกับมิยาโนะ เดอะ มูฟวี่ ภาคจบการศึกษา (2023)",
           "image": "https://www.nung2hdd.com/wp-content/uploads/2020/05/Sasaki-and-Miyano-Graduation-2023.jpg",
-          "url": "https://streamhls.com/view/bbd01f88-c712-5e9b-8c2d-b71a78e9080a.m3u8",
-          "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "วันพีซ เอพพิโซดออฟอิสท์บลู: การผจญภัยครั้งใหญ่ของ ลูฟี่ และลูกเรือทั้งสี่ (2017)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2020/05/One-Piece-Episode-of-East-Blue-2017.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "วันพีซ เอพพิโซดออฟอิสท์บลู: การผจญภัยครั้งใหญ่ของ ลูฟี่ และลูกเรือทั้งสี่ (2017)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/05/One-Piece-Episode-of-East-Blue-2017.jpg",
-          "url": "https://streamhls.com/view/6bbbf11e-3e42-5326-a0bc-ba3bcad519b9.m3u8",
-          "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "กาลครั้งหนึ่งกับคดีปริศนา (2023)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/09/Once-Upon-a-Crime-2023.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "กาลครั้งหนึ่งกับคดีปริศนา (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/09/Once-Upon-a-Crime-2023.jpg",
-          "url": "https://streamhls.com/view/3c4fb304-9363-59f0-ad5d-7ca6a5450e42.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "Seven Days (2023)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/09/Seven-Days-2023.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "Seven Days (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/09/Seven-Days-2023.jpg",
-          "url": "https://streamhls.com/view/91a1c606-4fb2-5743-a9c5-a0dc2844d597.m3u8",
-          "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
+          "url": "https://master.streamhls.com/hlsr2/46d0e4d7222884b871b94ab50aa69a38/master.m3u8",
+          "info": "Soundtrackซับ",
+          "referer": "https://master.streamhls.com/"
         }
       ]
     },
@@ -1339,8 +1637,9 @@
         {
           "name": "นินจา ปะทะ ฉลาม (2023)",
           "image": "https://www.nung2hdd.com/wp-content/uploads/2023/09/Ninja-vs-Shark-2023.jpg",
-          "url": "https://streamhls.com/view/fc82ba82-47ea-5744-943d-8a2942129ac0.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
+          "url": "https://master.streamhls.com/hlsr2/f5f0dbd8d742ec4b289c3b6078682f2b/master.m3u8",
+          "info": "พากย์ไทย",
+          "referer": "https://master.streamhls.com/"
         }
       ]
     },
@@ -1352,8 +1651,9 @@
         {
           "name": "ซิค ออฟ มายเซลฟ์ (2022)",
           "image": "https://www.nung2hdd.com/wp-content/uploads/2023/09/Sick-of-Myself-2022.jpg",
-          "url": "https://streamhls.com/view/14a1c879-eb1a-5863-87af-85864d5efc94.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
+          "url": "https://master.streamhls.com/hlsr2/ee005335ae41d96016f06282532faa21/master.m3u8",
+          "info": "พากย์ไทย",
+          "referer": "https://master.streamhls.com/"
         }
       ]
     },
@@ -1365,8 +1665,9 @@
         {
           "name": "ยามซากุระร่วงโรย (2007)",
           "image": "https://www.nung2hdd.com/wp-content/uploads/2018/07/5-Centimeters-2007.jpg",
-          "url": "https://streamhls.com/view/8adc0680-dc8d-5472-810f-e4a8dadb2c17.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
+          "url": "https://master.streamhls.com/hlsr2/b43f7a76b81430c8f64228114b7a1520/master.m3u8",
+          "info": "พากย์ไทย",
+          "referer": "https://master.streamhls.com/"
         }
       ]
     },
@@ -1378,8 +1679,9 @@
         {
           "name": "Tokyo Story (1953)",
           "image": "https://www.nung2hdd.com/wp-content/uploads/2023/08/Tokyo-Story-1953.jpg",
-          "url": "https://streamhls.com/view/e2b8be90-7670-5b22-a803-1c7626ffa22f.m3u8",
-          "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
+          "url": "https://master.streamhls.com/hlsr2/0cccb3abea9def0b831b53328cc1a550/master.m3u8",
+          "info": "Soundtrackซับ",
+          "referer": "https://master.streamhls.com/"
         }
       ]
     },
@@ -1391,8 +1693,9 @@
         {
           "name": "มาสค์ไรเดอร์ กีทส์ X รีไวซ์ มูฟวี่ แบทเทิลรอยัล 2022)",
           "image": "https://www.nung2hdd.com/wp-content/uploads/2023/08/Kamen-Rider-Geats-x-Revice-Movie-Battle-Royale-2022.jpg",
-          "url": "https://streamhls.com/view/738e04b3-f74b-559d-a178-86e6d8657357.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
+          "url": "https://master.streamhls.com/hlsr2/130fc99dfbdc39d5b5f36aef008d60d7/master.m3u8",
+          "info": "พากย์ไทย",
+          "referer": "https://master.streamhls.com/"
         }
       ]
     },
@@ -1404,8 +1707,9 @@
         {
           "name": "มหาภัยไวรัส ระบาดโตเกียว (2009)",
           "image": "https://www.nung2hdd.com/wp-content/uploads/2020/09/Pandemic-2009.jpg",
-          "url": "https://streamhls.com/view/b3c7baae-0a11-5aba-9bc5-3d3706e89ecc.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
+          "url": "https://master.streamhls.com/hlsr2/fb562fc3e2bcbbd9a4620d43c86abaa7/master.m3u8",
+          "info": "พากย์ไทย",
+          "referer": "https://master.streamhls.com/"
         }
       ]
     },
@@ -1417,8 +1721,9 @@
         {
           "name": "Ranma ½ The Movie 2 The Battle of Togenkyo Rescue the Brides! (1992)",
           "image": "https://www.nung2hdd.com/wp-content/uploads/2023/08/The-Battle-of-Togenkyo-1992.jpg",
-          "url": "https://streamhls.com/view/7d8a603d-7fa0-5c87-8fe3-e4d6a8063993.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
+          "url": "https://master.streamhls.com/hlsr2/10db5b35573d6afc4c824ad6fe352b1b/master.m3u8",
+          "info": "พากย์ไทย",
+          "referer": "https://master.streamhls.com/"
         }
       ]
     },
@@ -1430,8 +1735,9 @@
         {
           "name": "รันม่า1/2 เดอะมูฟวี่ บุกตะลุยเมืองจีน (1991)",
           "image": "https://www.nung2hdd.com/wp-content/uploads/2023/08/The-Battle-of-Nekonron-1991.jpg",
-          "url": "https://streamhls.com/view/acd7a337-04c1-5b9f-bd4f-471e0a2b0320.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
+          "url": "https://master.streamhls.com/hlsr2/e086414363a815eab74914e4d72a6544/master.m3u8",
+          "info": "พากย์ไทย",
+          "referer": "https://master.streamhls.com/"
         }
       ]
     },
@@ -1443,8 +1749,9 @@
         {
           "name": "แม้จะมองไม่เห็น แม้จะไม่ได้ยิน แต่ก็รักเธอสุดหัวใจ (2023)",
           "image": "https://www.nung2hdd.com/wp-content/uploads/2023/08/See-Hear-Love-2023.jpg",
-          "url": "https://streamhls.com/view/569bd312-c27e-504d-8b51-cdfcd79d92f2.m3u8",
-          "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
+          "url": "https://master.streamhls.com/hlsr2/18ae83e6edd451a21f7c830e70e91a9c/master.m3u8",
+          "info": "Soundtrackซับ",
+          "referer": "https://master.streamhls.com/"
         }
       ]
     },
@@ -1456,8 +1763,9 @@
         {
           "name": "ศึกตำนาน 7 อัศวิน แค้นเอดินเบอระ ภาค 2 (2023)",
           "image": "https://www.nung2hdd.com/wp-content/uploads/2023/08/The-Seven-Deadly-Sins-2023.jpg",
-          "url": "https://streamhls.com/view/193e6d52-7b54-5928-be1e-7d359862e9bb.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
+          "url": "https://master.streamhls.com/hlsr2/fb6b7a1cd700571cdd634fac8200f8b1/master.m3u8",
+          "info": "พากย์ไทย",
+          "referer": "https://master.streamhls.com/"
         }
       ]
     },
@@ -1469,8 +1777,9 @@
         {
           "name": "เกิดใหม่ทั้งทีก็เป็นสไลม์ไปซะแล้ว เดอะมูฟวี่ สายสัมพันธ์สีชาด (2022)",
           "image": "https://www.nung2hdd.com/wp-content/uploads/2020/10/That-Time-I-Got-Reincarnated-as-a-Slime-the-Movie-Scarlet-Bond-2022.jpg",
-          "url": "https://streamhls.com/view/193c0abf-03a0-5ed4-920e-6f59d0dca6c7.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
+          "url": "https://master.streamhls.com/hlsr2/afe0f7c66a9a319332f29c4afc980ebd/master.m3u8",
+          "info": "พากย์ไทย",
+          "referer": "https://master.streamhls.com/"
         }
       ]
     },
@@ -1482,8 +1791,9 @@
         {
           "name": "คืนฝันก่อนฉันลืมเธอ (2022)",
           "image": "https://www.nung2hdd.com/wp-content/uploads/2023/04/Even-if-This-Love-Disappears-from-the-World-Tonight-2022.jpg",
-          "url": "https://streamhls.com/view/e490b123-07f7-5ce8-80ed-e7df4059b95f.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
+          "url": "https://master.streamhls.com/hlsr2/3334f9a3e8b8c840af868e37d02beb90/master.m3u8",
+          "info": "พากย์ไทย",
+          "referer": "https://master.streamhls.com/"
         }
       ]
     },
@@ -1495,8 +1805,9 @@
         {
           "name": "ณ วันนี้ เราจะรำลึก ถึงวันนั้น (2023)",
           "image": "https://www.nung2hdd.com/wp-content/uploads/2020/09/ToDay-Well-Talk-About-Today-2023.jpg",
-          "url": "https://streamhls.com/view/005156d3-e986-51de-8095-14934501101c.m3u8",
-          "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
+          "url": "https://master.streamhls.com/hlsr2/d030df587d3dfb1398c9b323a96526d8/master.m3u8",
+          "info": "Soundtrackซับ",
+          "referer": "https://master.streamhls.com/"
         }
       ]
     },
@@ -1508,8 +1819,9 @@
         {
           "name": "ชิน•มาสค์ไรเดอร์ (2023)",
           "image": "https://www.nung2hdd.com/wp-content/uploads/2023/07/Shin-Kamen-Rider-2023.jpg",
-          "url": "https://streamhls.com/view/9a305f87-d3b1-510c-9089-fe622e4e31d3.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
+          "url": "https://master.streamhls.com/hlsr2/35f491d001aa39c00bd2420ab389eb93/master.m3u8",
+          "info": "พากย์ไทย",
+          "referer": "https://master.streamhls.com/"
         }
       ]
     },
@@ -1521,8 +1833,9 @@
         {
           "name": "การกลับมาของโบรลี่ ภาคที่ 10 (1994)",
           "image": "https://www.nung2hdd.com/wp-content/uploads/2023/07/Dragon-Ball-Z-The-Movie-Broly-Second-Coming-1994.jpg",
-          "url": "https://streamhls.com/view/e7b93b3c-9d0a-5cf1-bbc7-4f28d47301bb.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
+          "url": "https://master.streamhls.com/hlsr2/400bada64e3bfecf532f830b5186d20f/master.m3u8",
+          "info": "พากย์ไทย",
+          "referer": "https://master.streamhls.com/"
         }
       ]
     },
@@ -1534,8 +1847,9 @@
         {
           "name": "ฝ่าวิกฤติกาแล็คซี่ ภาคที่ 9 (1993)",
           "image": "https://www.nung2hdd.com/wp-content/uploads/2023/07/Dragon-Ball-Z-The-Movie-Bojack-Unbound-1993.jpg",
-          "url": "https://streamhls.com/view/c98cf13e-f07a-5689-98d6-cab95e49a85b.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
+          "url": "https://master.streamhls.com/hlsr2/b5ef338a2503038001bf3dfa51822015/master.m3u8",
+          "info": "พากย์ไทย",
+          "referer": "https://master.streamhls.com/"
         }
       ]
     },
@@ -1547,8 +1861,9 @@
         {
           "name": "โบรลี่ ซูปเปอร์ไซย่าในตำนาน ภาคที่ 8 (1993)",
           "image": "https://www.nung2hdd.com/wp-content/uploads/2023/07/Dragon-Ball-Z-The-Movie-Broly-The-Legendary-Super-Saiyan-1993.jpg",
-          "url": "https://streamhls.com/view/6ffb699b-f0a1-5e2c-bae0-b55ca583665a.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
+          "url": "https://master.streamhls.com/hlsr2/6b6cad0cbbd53ee5157c7a4b221d204a/master.m3u8",
+          "info": "พากย์ไทย",
+          "referer": "https://master.streamhls.com/"
         }
       ]
     },
@@ -1560,8 +1875,9 @@
         {
           "name": "ศึกมนุษย์ดัดแปลงหมายเลข 13 ศึกสามซูปเปอร์ไซย่า ภาคที่ 7 (1992)",
           "image": "https://www.nung2hdd.com/wp-content/uploads/2023/07/Dragon-Ball-Z-The-Movie-Super-Android-13-1992.jpg",
-          "url": "https://streamhls.com/view/43c94d5b-8f9c-5324-84cf-19a4faeedb93.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
+          "url": "https://master.streamhls.com/hlsr2/add0453dd9ed9e19b9d89a13b55fa5b1/master.m3u8",
+          "info": "พากย์ไทย",
+          "referer": "https://master.streamhls.com/"
         }
       ]
     },
@@ -1573,8 +1889,9 @@
         {
           "name": "การกลับมาของคูลเลอร์ ภาคที่ 6 (1992)",
           "image": "https://www.nung2hdd.com/wp-content/uploads/2023/07/Dragon-Ball-Z-The-Movie-The-Return-of-Cooler-1992.jpg",
-          "url": "https://streamhls.com/view/b87ba6db-4d4a-54f7-aa82-a6410c9c4af9.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
+          "url": "https://master.streamhls.com/hlsr2/39c2e394db76c5606c99c0a5fc278f36/master.m3u8",
+          "info": "พากย์ไทย",
+          "referer": "https://master.streamhls.com/"
         }
       ]
     },
@@ -1586,60 +1903,9 @@
         {
           "name": "จดหมายจากอิโวจิมา ยุทธภูมิสู้แค่ตาย (2006)",
           "image": "https://www.nung2hdd.com/wp-content/uploads/2016/07/Letters-From-Iwo-Jima-2006.jpg",
-          "url": "https://streamhls.com/view/57b8e413-47fb-526d-b095-cf678069a0c4.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "สองหัวใจ หนึ่งรักเดียว (1993)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2020/09/The-Ocean-Waves1993.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "สองหัวใจ หนึ่งรักเดียว (1993)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/09/The-Ocean-Waves1993.jpg",
-          "url": "https://streamhls.com/view/30083a04-f067-5ff5-9af4-116c85de8001.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "การแก้แค้นของคูลเลอร์ ภาคที่ 5 (1991)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2020/09/Dragon-Ball-Z-The-Movie-Coolers-Revenge-1991.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "การแก้แค้นของคูลเลอร์ ภาคที่ 5 (1991)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/09/Dragon-Ball-Z-The-Movie-Coolers-Revenge-1991.jpg",
-          "url": "https://streamhls.com/view/c5d1e7ae-a8d2-5bd1-89ec-649478f24cd3.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "ศึกซูปเปอร์ไซย่าปะทะซูปเปอร์นาแม็ก ภาคที่ 4 (1991)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2020/09/Dragon-Ball-Z-The-Movie-Lord-Slug-1991.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "ศึกซูปเปอร์ไซย่าปะทะซูปเปอร์นาแม็ก ภาคที่ 4 (1991)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/09/Dragon-Ball-Z-The-Movie-Lord-Slug-1991.jpg",
-          "url": "https://streamhls.com/view/faeaad11-0700-5730-8429-3d6c1296636f.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "ศึกสะท้านพิภพ ภาคที่ 3 (1990)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2020/09/Dragon-Ball-Z-The-Movie-The-Tree-of-Might-1990.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "ศึกสะท้านพิภพ ภาคที่ 3 (1990)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/09/Dragon-Ball-Z-The-Movie-The-Tree-of-Might-1990.jpg",
-          "url": "https://streamhls.com/view/8ee26457-67b4-5e50-9dea-a705d97419f2.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
+          "url": "https://master.streamhls.com/hlsr2/f88c7beb9a47191f8c29b05a80d3c5c0/master.m3u8",
+          "info": "พากย์ไทย",
+          "referer": "https://master.streamhls.com/"
         }
       ]
     },
@@ -1651,8 +1917,9 @@
         {
           "name": "หนึ่งในใต้หล้า ภาคที่ 2 (1990)",
           "image": "https://www.nung2hdd.com/wp-content/uploads/2023/07/Dragon-Ball-Z-The-Movie-The-Worlds-Strongest-1990.jpg",
-          "url": "https://streamhls.com/view/8e3ecaec-c21d-5680-9e42-c1c1949c5f76.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
+          "url": "https://master.streamhls.com/hlsr2/e895b95256cffa84b2d7f2e96232717a/master.m3u8",
+          "info": "พากย์ไทย",
+          "referer": "https://master.streamhls.com/"
         }
       ]
     },
@@ -1664,8 +1931,9 @@
         {
           "name": "โกฮังกลับมาแล้ว ภาคที่ 1 (1989)",
           "image": "https://www.nung2hdd.com/wp-content/uploads/2023/07/Dragon-Ball-Z-The-Movie-Dead-Zone-1989.jpg",
-          "url": "https://streamhls.com/view/ccd0bb68-93d2-5e0f-b78b-37d243dc13d9.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
+          "url": "https://master.streamhls.com/hlsr2/12efc8e1c484f60daf523ca5a183a9b7/master.m3u8",
+          "info": "พากย์ไทย",
+          "referer": "https://master.streamhls.com/"
         }
       ]
     },
@@ -1677,8 +1945,9 @@
         {
           "name": "ดราก้อนบอลซูเปอร์ ซูเปอร์ฮีโร่ (2022)",
           "image": "https://www.nung2hdd.com/wp-content/uploads/2023/07/Dragon-Ball-Super-Super-Hero2022.jpg",
-          "url": "https://streamhls.com/view/aa655528-6ad9-5ee4-9b04-0ba6a28f08e6.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
+          "url": "https://master.streamhls.com/hlsr2/5bbbd1f595fcefd3f2c7d0e4764e64ef/master.m3u8",
+          "info": "พากย์ไทย",
+          "referer": "https://master.streamhls.com/"
         }
       ]
     },
@@ -1690,8 +1959,9 @@
         {
           "name": "อากิระกับอากิระ (2022)",
           "image": "https://www.nung2hdd.com/wp-content/uploads/2023/07/Akira-and-Akira-2022.jpg",
-          "url": "https://streamhls.com/view/2c52ea41-31e3-51f4-b829-bd9637d4d221.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
+          "url": "https://master.streamhls.com/hlsr2/ffa2aa8ec969a6d4477574ce88eb0c8b/master.m3u8",
+          "info": "พากย์ไทย",
+          "referer": "https://master.streamhls.com/"
         }
       ]
     },
@@ -1703,8 +1973,9 @@
         {
           "name": "มหาสงครามจอกศักดิ์สิทธิ์ (2023)",
           "image": "https://www.nung2hdd.com/wp-content/uploads/2023/07/Whispers-Of-Dawn2023.jpg",
-          "url": "https://streamhls.com/view/ad6033ba-625c-56bc-a3d7-3939dccb6121.m3u8",
-          "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
+          "url": "https://master.streamhls.com/hlsr2/4369126d00aaf5952f20f122181d4dd0/master.m3u8",
+          "info": "Soundtrackซับ",
+          "referer": "https://master.streamhls.com/"
         }
       ]
     },
@@ -1716,8 +1987,9 @@
         {
           "name": "มหาเวทย์ผนึกมาร ซีโร่ (2021)",
           "image": "https://www.nung2hdd.com/wp-content/uploads/2022/09/v37lBoMW0IX6eBRqX5esITkEaVN.jpg",
-          "url": "https://streamhls.com/view/671014d4-167b-5807-95f1-4ebbdb62a42e.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
+          "url": "https://master.streamhls.com/hlsr2/7bcf8b83f455048a58e781e6a90d886a/master.m3u8",
+          "info": "พากย์ไทย",
+          "referer": "https://master.streamhls.com/"
         }
       ]
     },
@@ -1729,8 +2001,9 @@
         {
           "name": "แด่มาริโกะของฉัน (2022)",
           "image": "https://www.nung2hdd.com/wp-content/uploads/2023/07/My-Broken-Mariko-2022.jpg",
-          "url": "https://streamhls.com/view/c1e63107-e6fc-59bc-a9cc-a52b544b5089.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
+          "url": "https://master.streamhls.com/hlsr2/857c7fcdf4ab75e3c5dfb766ee9967ca/master.m3u8",
+          "info": "พากย์ไทย",
+          "referer": "https://master.streamhls.com/"
         }
       ]
     },
@@ -1742,8 +2015,9 @@
         {
           "name": "พรุ่งนี้ผมจะเดตกับเธอคนเมื่อวาน (2016)",
           "image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/Tomorrow-I-Will-Date-With-Yesterday’s-You-poster.png",
-          "url": "https://streamhls.com/view/93a2633a-e3b1-5382-8b02-d64b8a642cd6.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
+          "url": "https://master.streamhls.com/hlsr2/564d12a0aebce29d5add30af8e342bbb/master.m3u8",
+          "info": "พากย์ไทย",
+          "referer": "https://master.streamhls.com/"
         }
       ]
     },
@@ -1755,8 +2029,9 @@
         {
           "name": "สงครามเหนือเวหา (2008)",
           "image": "https://www.nung2hdd.com/wp-content/uploads/2023/06/The-Sky-Crawlers-2008.jpg",
-          "url": "https://streamhls.com/view/7c016e80-395a-50fc-87ae-f5674a9da21c.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
+          "url": "https://master.streamhls.com/hlsr2/2a2983ac2e8edf58962d01d8c4011b4b/master.m3u8",
+          "info": "พากย์ไทย",
+          "referer": "https://master.streamhls.com/"
         }
       ]
     },
@@ -1768,8 +2043,9 @@
         {
           "name": "ดาบพิฆาตอสูร บทแทรกซึมย่านเริงรมย์ (2021)",
           "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Demon-Slayer-Kimetsu-No-Yaiba-Entertainment-District-Infiltration-Arc-2021.jpg",
-          "url": "https://streamhls.com/view/796fc614-7dde-529f-aa41-e394f9fe380e.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
+          "url": "https://master.streamhls.com/hlsr2/354f236f9bb7d80c690cea442e77cdbd/master.m3u8",
+          "info": "พากย์ไทย",
+          "referer": "https://master.streamhls.com/"
         }
       ]
     },
@@ -1781,8 +2057,9 @@
         {
           "name": "แบล็คโคลเวอร์: ดาบแห่งจักรพรรดิเวทมนตร์ (2023)",
           "image": "https://www.nung2hdd.com/wp-content/uploads/2023/06/Black-Clover-Sword-of-the-Wizard-King-2023.jpg",
-          "url": "https://streamhls.com/view/b54eb6b2-0362-5032-b46c-3f4c14b86aca.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
+          "url": "https://master.streamhls.com/hlsr2/a2c68fdc8a56016e126079302ea81812/master.m3u8",
+          "info": "พากย์ไทย",
+          "referer": "https://master.streamhls.com/"
         }
       ]
     },
@@ -1794,8 +2071,9 @@
         {
           "name": "หมู่บ้าน (2023)",
           "image": "https://www.nung2hdd.com/wp-content/uploads/2023/06/The-Village2023.jpg",
-          "url": "https://streamhls.com/view/2e6bd56a-2f77-58cb-afba-933cd69af6c7.m3u8",
-          "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
+          "url": "https://master.streamhls.com/hlsr2/f0ba4b15b52cd927b545d26aa5d7b0c2/master.m3u8",
+          "info": "Soundtrackซับ",
+          "referer": "https://master.streamhls.com/"
         }
       ]
     },
@@ -1807,8 +2085,9 @@
         {
           "name": "พ่อบ้านสุดเก๋า เดอะมูฟวี่ (2022)",
           "image": "https://www.nung2hdd.com/wp-content/uploads/2023/06/The-Way-of-the-Househusband-2022.jpg",
-          "url": "https://streamhls.com/view/869cdbfc-a9bc-58cf-a99c-bac8cb817e18.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
+          "url": "https://master.streamhls.com/hlsr2/37613a192527632a991de372e665c163/master.m3u8",
+          "info": "พากย์ไทย",
+          "referer": "https://master.streamhls.com/"
         }
       ]
     },
@@ -1820,8 +2099,9 @@
         {
           "name": "วันพีซ ฟิล์ม เรด (2022)",
           "image": "https://www.nung2hdd.com/wp-content/uploads/2020/12/920073.jpg",
-          "url": "https://streamhls.com/view/ea9f74a3-0ee6-5ed3-b1d1-165cfcd28a57.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
+          "url": "https://master.streamhls.com/hlsr2/c9ed777258684578cb4b2c1b7305366c/master.m3u8",
+          "info": "พากย์ไทย",
+          "referer": "https://master.streamhls.com/"
         }
       ]
     },
@@ -1833,8 +2113,9 @@
         {
           "name": "คณะประพันธ์จรจัด เดอะมูฟวี่ (2018)",
           "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Bungou-Stray-Dogs-Dead-Apple-2018.jpg",
-          "url": "https://streamhls.com/view/fb1d57c0-8c51-5f56-abcc-420f0c470a85.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
+          "url": "https://master.streamhls.com/hlsr2/a0ff6df032fcd9d6d7522203a163dfd1/master.m3u8",
+          "info": "พากย์ไทย",
+          "referer": "https://master.streamhls.com/"
         }
       ]
     },
@@ -1846,8 +2127,9 @@
         {
           "name": "ทฤษฎีสีฟ้า (2022)",
           "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Blue-Thermal-2022.jpg",
-          "url": "https://streamhls.com/view/ca4cb8a1-ee65-583c-8e91-b3e4b36b4b85.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
+          "url": "https://master.streamhls.com/hlsr2/1ebcd34db43ce622744ad3f1525310ce/master.m3u8",
+          "info": "พากย์ไทย",
+          "referer": "https://master.streamhls.com/"
         }
       ]
     },
@@ -1859,8 +2141,9 @@
         {
           "name": "วัน พีช ฟิล์ม โกลด์ (2016)",
           "image": "https://www.nung2hdd.com/wp-content/uploads/2019/08/One-Piece-Film-Gold-2016.jpg",
-          "url": "https://streamhls.com/view/f8235262-d7dc-5adf-9ee2-7f09d7384391.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
+          "url": "https://master.streamhls.com/hlsr2/d47b4a0d75d40a14d4af42d6816031ed/master.m3u8",
+          "info": "พากย์ไทย",
+          "referer": "https://master.streamhls.com/"
         }
       ]
     },
@@ -1872,8 +2155,9 @@
         {
           "name": "วันพีซ เดอะมูฟวี่ สแตมปีด (2019)",
           "image": "https://www.nung2hdd.com/wp-content/uploads/2020/01/One-Piece-Stampede-2018.jpg",
-          "url": "https://streamhls.com/view/991e0bc7-6e98-5714-a6af-d5c4deb3bc1b.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
+          "url": "https://master.streamhls.com/hlsr2/0db6da75a49fd594973cc985d81c2216/master.m3u8",
+          "info": "พากย์ไทย",
+          "referer": "https://master.streamhls.com/"
         }
       ]
     },
@@ -1885,8 +2169,9 @@
         {
           "name": "ฮิโนคิโอะ สื่อรักสมองกล (2005)",
           "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hinokio-2005.jpg",
-          "url": "https://streamhls.com/view/1e73fcf5-eb82-554b-ad1b-212db12f7ee7.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
+          "url": "https://master.streamhls.com/hlsr2/1d9a6392116c68c55a0bbe6adbd97367/master.m3u8",
+          "info": "พากย์ไทย",
+          "referer": "https://master.streamhls.com/"
         }
       ]
     },
@@ -1898,378 +2183,9 @@
         {
           "name": "วันพีซ ภาคพิเศษ: เอพพิโซด ออฟ สกายเปีย (2018)",
           "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/One-Piece-Episode-Of-Skypiea-2018.jpg",
-          "url": "https://streamhls.com/view/fcd4a05c-0110-5677-bb75-85f154fec927.m3u8",
-          "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "ยอดนักสืบจิ๋วโคนัน จุดเริ่มต้นของไฮบาระ ไอ : ปริศนารถด่วนทมิฬ (2023)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Detective-Conan-The-Story-Of-Haibara-Ai-Black-Iron-Mystery-Train-2023.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "ยอดนักสืบจิ๋วโคนัน จุดเริ่มต้นของไฮบาระ ไอ : ปริศนารถด่วนทมิฬ (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Detective-Conan-The-Story-Of-Haibara-Ai-Black-Iron-Mystery-Train-2023.jpg",
-          "url": "https://streamhls.com/view/91d595ab-f427-5a5b-a7ff-434a5b981562.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "The Legend & Butterfly (2023)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/The-Legend-Butterfly.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "The Legend & Butterfly (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/The-Legend-Butterfly.jpg",
-          "url": "https://streamhls.com/view/c99aa39d-e339-5d6c-bc49-d7b52152a9e8.m3u8",
-          "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "You Are the Apple of My Eye (2018)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/You-Are-the-Apple-of-My-Eye-2018.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "You Are the Apple of My Eye (2018)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/You-Are-the-Apple-of-My-Eye-2018.jpg",
-          "url": "https://streamhls.com/view/7b3e21ed-aa46-5e66-9503-becd8b1a1f17.m3u8",
-          "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "ดาบพิฆาตอสูร ภาค การประชุมเสาหลักหน่วยพิฆาตอสูร (2021)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Demon-Slayer-Kimetsu-No-Yaiba-Hashira-Meeting-Butterfly-Mansion-2021.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "ดาบพิฆาตอสูร ภาค การประชุมเสาหลักหน่วยพิฆาตอสูร (2021)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Demon-Slayer-Kimetsu-No-Yaiba-Hashira-Meeting-Butterfly-Mansion-2021.jpg",
-          "url": "https://streamhls.com/view/8797e540-e3e2-5d21-93e6-f3378b0a122d.m3u8",
-          "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "ดาบพิฆาตอสูร ภาค ย่านเริงรมย์ (2022)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Demon-Slayer-Kimetsu-No-Yaiba-Asakusa-Arc-2022.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "ดาบพิฆาตอสูร ภาค ย่านเริงรมย์ (2022)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Demon-Slayer-Kimetsu-No-Yaiba-Asakusa-Arc-2022.jpg",
-          "url": "https://streamhls.com/view/382671dd-e8f0-524c-8a1a-626dde4da7d0.m3u8",
-          "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "ดาบพิฆาตอสูร ภาค สายสัมพันธ์แห่งพี่น้อง (2019)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Demon-Slayer-Brother-And-Sisters-Bond-2019.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "ดาบพิฆาตอสูร ภาค สายสัมพันธ์แห่งพี่น้อง (2019)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Demon-Slayer-Brother-And-Sisters-Bond-2019.jpg",
-          "url": "https://streamhls.com/view/0386215f-f8e6-5b67-bbc0-b01e2306bee9.m3u8",
-          "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "ดาบพิฆาตอสูร ภาค ศึกภูเขานาตากุโมะ (2020)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Demon-Slayer-Kimetsu-No-Yaiba-Nada-Spider-Mountain-2021.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "ดาบพิฆาตอสูร ภาค ศึกภูเขานาตากุโมะ (2020)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Demon-Slayer-Kimetsu-No-Yaiba-Nada-Spider-Mountain-2021.jpg",
-          "url": "https://streamhls.com/view/37782da7-09c2-50e3-b8d9-25727ace0f09.m3u8",
-          "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "Demon Slayer: Entertainment District Decisive Battle Arc (2023)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Kimetsu-No-Yaiba-Entertainment-District-Decisive-Battle-Arc-2023.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "Demon Slayer: Entertainment District Decisive Battle Arc (2023)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Kimetsu-No-Yaiba-Entertainment-District-Decisive-Battle-Arc-2023.jpg",
-          "url": "https://streamhls.com/view/f98c4c23-efb4-5be9-a875-0f2fa9d985eb.m3u8",
-          "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "ดาบพิฆาตอสูร ภาค คฤหาสน์สึซึมิ (2021)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Demon-Slayer-Kimetsu-No-Yaiba-Tsuzumi-Mansion-Arc-2022.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "ดาบพิฆาตอสูร ภาค คฤหาสน์สึซึมิ (2021)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Demon-Slayer-Kimetsu-No-Yaiba-Tsuzumi-Mansion-Arc-2022.jpg",
-          "url": "https://streamhls.com/view/a071d219-4ecb-5165-b187-471300c40c30.m3u8",
-          "info": "Soundtrackซับ (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "ซิตี้ฮันเตอร์ โคตรนักสืบชินจูกุ “บี๊ป” (2019)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2020/01/7urbWvWNsWuBAxJ34sccIevPP2E_400x600.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "ซิตี้ฮันเตอร์ โคตรนักสืบชินจูกุ “บี๊ป” (2019)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/01/7urbWvWNsWuBAxJ34sccIevPP2E_400x600.jpg",
-          "url": "https://streamhls.com/view/02b804c2-1d4a-5cd1-9c40-3737afe3b9f5.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "ผม แมว และการเดินทางของเรา (2018)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2019/04/The-Travelling-Cat-Chronicles-2016.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "ผม แมว และการเดินทางของเรา (2018)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2019/04/The-Travelling-Cat-Chronicles-2016.jpg",
-          "url": "https://streamhls.com/view/505cfd67-881f-56a9-96f9-2324acb64d42.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "ถ้าแมวตัวนั้นหายไปจากโลกนี้ (2016)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/If-Cats-Disappeared-from-the-World-2016.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "ถ้าแมวตัวนั้นหายไปจากโลกนี้ (2016)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/If-Cats-Disappeared-from-the-World-2016.jpg",
-          "url": "https://streamhls.com/view/0df51a26-7494-50c3-9f6d-50ab116f121f.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "ไม ไม อัศจรรย์สาวน้อยจินตนาการ (2009)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Mai-Mai-Miracle-2009.jpg",
-      "info": "",
-      "stations": []
-    },
-    {
-      "name": "ใบไม้ผลิที่ไม่มีเธอเป็นซากุระ (2022)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2022/03/8m2xnZAnMuydc87KCLS2gnUmidh.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "ใบไม้ผลิที่ไม่มีเธอเป็นซากุระ (2022)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2022/03/8m2xnZAnMuydc87KCLS2gnUmidh.jpg",
-          "url": "https://streamhls.com/view/0665cf96-1f4b-549b-9c49-ccb347a7c4d6.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "คาเมนไรเดอร์ เจ (1994)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2016/09/Kamen-Rider-J-1994.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "คาเมนไรเดอร์ เจ (1994)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2016/09/Kamen-Rider-J-1994.jpg",
-          "url": "https://streamhls.com/view/ca31ddf2-6a94-5bdd-bf43-34ca7b068a6a.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "คาเมนไรเดอร์ ชิน (1992)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2016/09/Kamen-Rider-Shin-1992.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "คาเมนไรเดอร์ ชิน (1992)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2016/09/Kamen-Rider-Shin-1992.jpg",
-          "url": "https://streamhls.com/view/b181cb23-5b4e-5cb9-998d-06779026aa55.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "หยุดโลกไว้ที่หัวใจของเธอ (2008)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2020/10/Sand-Chronicles-2008-Poster.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "หยุดโลกไว้ที่หัวใจของเธอ (2008)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/10/Sand-Chronicles-2008-Poster.jpg",
-          "url": "https://streamhls.com/view/de3c6946-323c-5934-a3e9-df493c816936.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "หยุดรักไว้ที่วันนั้น (2021)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2020/10/The-End-Of-The-Pale-Hour-2021-Poster.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "หยุดรักไว้ที่วันนั้น (2021)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/10/The-End-Of-The-Pale-Hour-2021-Poster.jpg",
-          "url": "https://streamhls.com/view/48207816-fb13-5c56-b422-2a193abf62f0.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "สุดท้ายและตลอดไป (2022)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2022/08/The-Last-10-Years-2022.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "สุดท้ายและตลอดไป (2022)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2022/08/The-Last-10-Years-2022.jpg",
-          "url": "https://streamhls.com/view/3a4d5536-0d88-5fdf-bf52-fbcd5ec66c84.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "วันเลือกตาย (2022)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2020/10/Plan-75-2022-Poster.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "วันเลือกตาย (2022)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/10/Plan-75-2022-Poster.jpg",
-          "url": "https://streamhls.com/view/c3685640-3d12-5841-947b-649410f0f8ea.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "ดีโม ผจญภัยเพลงรักแดนมหัศจรรย์ (2022)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2020/10/Deemo-The-Movie-Memorial-Keys-2022-Poster.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "ดีโม ผจญภัยเพลงรักแดนมหัศจรรย์ (2022)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/10/Deemo-The-Movie-Memorial-Keys-2022-Poster.jpg",
-          "url": "https://streamhls.com/view/9f08747c-3e67-54a2-91db-da48c0aa143a.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "พ่อครับ..รักผมได้ไหม? (2013)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2020/10/Like-Father-Like-Son-2013-Poster.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "พ่อครับ..รักผมได้ไหม? (2013)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/10/Like-Father-Like-Son-2013-Poster.jpg",
-          "url": "https://streamhls.com/view/47abd6be-f4c3-512c-8c67-078a9f785ce0.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "ช้อนเงินคนแปรธาตุ (2014)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2020/10/Silver-Spoon-2014-Poster.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "ช้อนเงินคนแปรธาตุ (2014)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/10/Silver-Spoon-2014-Poster.jpg",
-          "url": "https://streamhls.com/view/1a053cfb-83fc-5f53-afe2-fc55501ebe1a.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "กินทามะ เดอะมูฟวี่ กำเนิดใหม่ดาบเบนิซากุระ (2010)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2022/03/E3RT3f8oOuPS2pMhgH47TKBPgu.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "กินทามะ เดอะมูฟวี่ กำเนิดใหม่ดาบเบนิซากุระ (2010)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2022/03/E3RT3f8oOuPS2pMhgH47TKBPgu.jpg",
-          "url": "https://streamhls.com/view/8a40e4d6-7087-564c-827e-8a6cc2ec2fba.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "กลับบ้านเถอะนะเจ้าเหมียว (2015)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/03/Finding-Calico-2015-Poster.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "กลับบ้านเถอะนะเจ้าเหมียว (2015)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/03/Finding-Calico-2015-Poster.jpg",
-          "url": "https://streamhls.com/view/e004de28-f8d4-5b7f-9954-d1d8a9ef7a5e.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "โดราเอมอน เพื่อนกันตลอดไป 2 (2020)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2021/04/8CdVhgyfagZQdNcWZoRu1F47lFY.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "โดราเอมอน เพื่อนกันตลอดไป 2 (2020)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2021/04/8CdVhgyfagZQdNcWZoRu1F47lFY.jpg",
-          "url": "https://streamhls.com/view/11d941c3-d068-5e68-ae26-0f4940aea52f.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "โดราเอมอน เพื่อนกันตลอดไป (2014)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2015/04/Stand-by-Me-Doraemon-2014.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "โดราเอมอน เพื่อนกันตลอดไป (2014)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2015/04/Stand-by-Me-Doraemon-2014.jpg",
-          "url": "https://streamhls.com/view/fe165e9b-cd87-53e2-a56a-c26309cbf13e.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "ฮานะ & อลิซ ปริศนาโรงเรียนหลอน (2015)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2015/12/The-Case-of-Hana-Alice-2015.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "ฮานะ & อลิซ ปริศนาโรงเรียนหลอน (2015)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2015/12/The-Case-of-Hana-Alice-2015.jpg",
-          "url": "https://streamhls.com/view/27e5eac5-9ac3-5716-97f0-8397c98bcac4.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
-        }
-      ]
-    },
-    {
-      "name": "เมื่อวานคุณทานอะไร (2021)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2020/10/What-Did-You-Eat-Yesterday-2021.jpg",
-      "info": "",
-      "stations": [
-        {
-          "name": "เมื่อวานคุณทานอะไร (2021)",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/10/What-Did-You-Eat-Yesterday-2021.jpg",
-          "url": "https://streamhls.com/view/143bdb69-87f7-50cc-8927-81cd56521544.m3u8",
-          "info": "พากย์ไทย (ตัวเล่นสำรอง)"
+          "url": "https://master.streamhls.com/hlsr2/3e3114f3223aeeeaedfad0b4fbd9bab9/master.m3u8",
+          "info": "Soundtrackซับ",
+          "referer": "https://master.streamhls.com/"
         }
       ]
     }
